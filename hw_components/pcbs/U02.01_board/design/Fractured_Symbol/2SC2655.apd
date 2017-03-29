@@ -1,0 +1,11 @@
+//Header
+Symbol_name="2SC2655"
+Symbol_shape=""
+Symbol_text="TOSHIBA Transistor Silicon NPN Epitaxial Type"
+Body_glyph=
+
+//Number,Name,Label,Type,Direction,Polarity,Pin_Graphic,Position,Gate,Slot,PinSwapId
+//
+1,E,,undefined,undefined,undefined,,bottom,gate,1,13
+2,C,,undefined,undefined,undefined,,top,gate,1,12
+3,B,,undefined,undefined,undefined,,left,gate,1,11

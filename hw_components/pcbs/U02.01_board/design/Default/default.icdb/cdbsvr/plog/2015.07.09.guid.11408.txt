@@ -1,0 +1,32 @@
+[2015.07.09 18:50:44] [0000m.38s.925ms] [0] WELCOME
+[2015.07.09 18:50:44] [0000m.38s.956ms] [1] iCDB Database ver.1.094, Q8/qRGZ6TkAm41ha2aY19Q, build:591687 created 2013-12-13 12:45:14, sources stamp:Q8/qRGZ6TkAm41ha2aY19Q
+[2015.07.09 18:50:44] [0000m.38s.956ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2015.07.09 18:50:44] [0000m.38s.956ms] [1] Base flow version [7.9.4]
+[2015.07.09 18:50:44] [0000m.38s.956ms] [1] GBS Install Id [30163], Flow Id [EE7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2015.07.09 18:50:44] [0000m.38s.956ms] [1] UPDATE Install Info, GBS Install Id [40692], UPDATE Name [Expedition Enterprise Flow - Update 23 for EE7.9.5]
+[2015.07.09 18:50:44] [0000m.38s.956ms] [1] GBS Install Id [30120], Flow Id [EE 7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2015.07.09 18:50:44] [0000m.38s.956ms] [1] UPDATE Install Info, GBS Install Id [34984], UPDATE Name [Expedition Enterprise Flow - Update 5 for DC7.9.5]
+[2015.07.09 18:50:44] [0000m.38s.956ms] [1] Machine [RKS]  User [Konstantin]  PID [11408]
+[2015.07.09 18:50:44] [0000m.38s.956ms] [1] Operating system [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2015.07.09 18:50:44] [0000m.38s.956ms] [1] Current working dir [D:\tech\OU\045_SWC4\PCBs\0451704_SC]
+[2015.07.09 18:50:44] [0000m.38s.956ms] [1] PATH [C:\mentorgraphics\7.9.5EE\SDD_HOME\wg\help;C:\mentorgraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\mentorgraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\mentorgraphics\7.9.5EE\SDD_HOME\common\win32\_bin;C:\mentorgraphics\7.9.5EE\SDD_HOME\wg\win32\bin;C:\mentorgraphics\7.9.5EE\SDD_HOME\wg\win32\lib;C:\Program Files (x86)\PC Connectivity Solution\;C:\mentorgraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\mentorgraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\mentorgraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\mentorgraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\cygwin-1.7.9DMS\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files\Broadcom\Broadcom 802.11 Network Adapter;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Skype\Phone\]
+[2015.07.09 18:50:44] [0000m.38s.956ms] [1] SDD_HOME [C:\mentorgraphics\7.9.5EE\SDD_HOME] on file system [NTFS]
+[2015.07.09 18:50:44] [0000m.38s.956ms] [1] SDD_PLATFORM [win32]
+[2015.07.09 18:50:44] [0000m.38s.956ms] [1] WDIR [C:\WDIR;C:\mentorgraphics\7.9.5EE\SDD_HOME\standard]
+[2015.07.09 18:50:44] [0000m.38s.956ms] [1] Local iCDB working dir [C:\WDIR\iCDB] on file system [NTFS]
+[2015.07.09 18:50:44] [0000m.38s.956ms] [3] WARNING: Database [D:\tech\OU\045_SWC4\PCBs\0451704_SC\default\default.icdb\icdb.dat] was manually copied
+[2015.07.09 18:50:44] [0000m.38s.956ms] [3] File change time:        [2015-07-09 18.48.03]
+[2015.07.09 18:50:44] [0000m.38s.956ms] [3] File modification time:  [2015-07-08 21.10.10]
+[2015.07.09 18:50:44] [0000m.38s.956ms] [3] Last change time:        [2015-07-08 21.10.09]
+[2015.07.09 18:50:44] [0000m.38s.956ms] [3] Last database open information:
+[2015.07.09 18:50:44] [0000m.38s.956ms] [3] Time:             [2015-07-08 19.43.26]
+[2015.07.09 18:50:44] [0000m.38s.956ms] [3] Location:         [E:\Mentor_proj\0451704_SC\default\default.icdb\icdb.dat]
+[2015.07.09 18:50:44] [0000m.38s.956ms] [3] Machine:          [NOTEBOOKA10]
+[2015.07.09 18:50:44] [0000m.38s.956ms] [3] User:             [Сергей]
+[2015.07.09 18:50:44] [0000m.38s.956ms] [3] PID:              [1544]
+[2015.07.09 18:50:44] [0000m.38s.956ms] [3] Application:      [iCDB Server]
+[2015.07.09 18:50:44] [0000m.38s.956ms] [3] Operating system: [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2015.07.09 18:50:44] [0000m.38s.956ms] [3] WARNING: Regenerating database GUID
+[2015.07.09 18:50:44] [0000m.38s.956ms] [3] Previous database GUID [976d-7cb6-6538-fac8-8e04-995d-e049-9550-3854-e30f-7f3d-7d7c]
+[2015.07.09 18:50:44] [0000m.38s.956ms] [3] Current database GUID  [3a47-00e1-ce23-cab1-4589-e959-589e-9550-e241-bee8-3989-86c5]
+[2015.07.09 18:50:44] [0000m.38s.956ms] [0] .

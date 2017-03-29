@@ -1,0 +1,212 @@
+[2017.03.13 01:31:32] [1791m.43s.536ms] [1] PrjBackupMgr: Successfully created Project Backup [X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-13 01.31.31 - auto.zip] with GUID [0f0a-81d0-1de5-f9e0-34cc-5c88-4cc5-c850-1a53-63f0-f2a1-c1a8]
+[2017.03.13 01:31:32] [1791m.43s.552ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[8e18-0356-ef0d-9d93-14c5-4c86-4c54-c850-1a53-63f0-f2a1-c1a8] CreationTime[Saturday, March 11, 2017 20:21:21] Type[Autosave] Creator[iCDB Server (2017-03-11 19.39.48-9316)] ApplicationName[iCDB Server (2017-03-11 19.39.48-9316)] UserName[User] MachineName[DESKTOP-LPE9H33] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 23 for EE7.9.5; Expedition Enterprise Flow; Expedition Enterprise Flow - Update 5 for DC7.9.5] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 40692; 30120; 34984] GBSBuildId[591687] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-11 23.21.21 - auto.zip] BackupFileSize[6236172] Persistent[FALSE]
+[2017.03.13 01:31:32] [1791m.43s.552ms] [0] PrjBackupMgr: Project Backup file [X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-11 23.21.21 - auto.zip] with GUID [8e18-0356-ef0d-9d93-14c5-4c86-4c54-c850-1a53-63f0-f2a1-c1a8] removed
+[2017.03.13 01:31:32] [1791m.43s.552ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[0f0a-81d0-1de5-f9e0-34cc-5c88-4cc5-c850-1a53-63f0-f2a1-c1a8] CreationTime[Sunday, March 12, 2017 22:31:31] Type[Autosave] Creator[iCDB Server (2017-03-11 19.39.48-9316)] ApplicationName[iCDB Server (2017-03-11 19.39.48-9316)] UserName[User] MachineName[DESKTOP-LPE9H33] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 23 for EE7.9.5; Expedition Enterprise Flow; Expedition Enterprise Flow - Update 5 for DC7.9.5] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 40692; 30120; 34984] GBSBuildId[591687] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-13 01.31.31 - auto.zip] BackupFileSize[6238281] Persistent[FALSE]
+[2017.03.13 09:49:00] [2289m.12s.211ms] [0] IT: Session [1474] for host [DESKTOP-LPE9H33] user [User] with process ID [5468] created
+[2017.03.13 09:49:00] [2289m.12s.211ms] [1] SC[1474]: Registered sub-client [Expedition_238430687] with ID [1] for session ID [1474] host [DESKTOP-LPE9H33] user [User] process ID [5468]
+[2017.03.13 09:49:00] [2289m.12s.227ms] [1] SC[1474]: UnRegistered sub-client [Expedition_238430687] with ID [1] for session ID [1474] host [DESKTOP-LPE9H33] user [User] process ID [5468]
+[2017.03.13 09:49:00] [2289m.12s.296ms] [1] CMT: There are [3] clients now: 1445, 1473, 1474
+[2017.03.13 09:49:00] [2289m.12s.296ms] [1] CMT: Removed client [1474]
+[2017.03.13 09:49:00] [2289m.12s.296ms] [1] CMT: There are [2] clients now: 1445, 1473
+[2017.03.13 09:49:01] [2289m.12s.528ms] [0] IT: Session [1475] for host [DESKTOP-LPE9H33] user [User] with process ID [7420] created
+[2017.03.13 09:49:01] [2289m.12s.528ms] [1] SC[1475]: Registered sub-client [Expedition_238431000] with ID [1] for session ID [1475] host [DESKTOP-LPE9H33] user [User] process ID [7420]
+[2017.03.13 09:49:01] [2289m.12s.549ms] [1] SC[1475]: UnRegistered sub-client [Expedition_238431000] with ID [1] for session ID [1475] host [DESKTOP-LPE9H33] user [User] process ID [7420]
+[2017.03.13 09:49:01] [2289m.12s.643ms] [1] CMT: There are [3] clients now: 1445, 1473, 1475
+[2017.03.13 09:49:01] [2289m.12s.644ms] [1] CMT: Removed client [1475]
+[2017.03.13 09:49:01] [2289m.12s.644ms] [1] CMT: There are [2] clients now: 1445, 1473
+[2017.03.13 10:00:26] [2300m.38s.125ms] [0] IT: Session [1476] for host [DESKTOP-LPE9H33] user [User] with process ID [11936] created
+[2017.03.13 10:00:26] [2300m.38s.126ms] [1] SC[1476]: Registered sub-client [Expedition_239116578] with ID [1] for session ID [1476] host [DESKTOP-LPE9H33] user [User] process ID [11936]
+[2017.03.13 10:00:26] [2300m.38s.140ms] [1] SC[1476]: UnRegistered sub-client [Expedition_239116578] with ID [1] for session ID [1476] host [DESKTOP-LPE9H33] user [User] process ID [11936]
+[2017.03.13 10:00:26] [2300m.38s.231ms] [1] CMT: There are [3] clients now: 1445, 1473, 1476
+[2017.03.13 10:00:26] [2300m.38s.231ms] [1] CMT: Removed client [1476]
+[2017.03.13 10:00:26] [2300m.38s.231ms] [1] CMT: There are [2] clients now: 1445, 1473
+[2017.03.13 10:00:26] [2300m.38s.315ms] [0] IT: Session [1477] for host [DESKTOP-LPE9H33] user [User] with process ID [2480] created
+[2017.03.13 10:00:26] [2300m.38s.315ms] [1] SC[1477]: Registered sub-client [Expedition_239116781] with ID [1] for session ID [1477] host [DESKTOP-LPE9H33] user [User] process ID [2480]
+[2017.03.13 10:00:26] [2300m.38s.338ms] [1] SC[1477]: UnRegistered sub-client [Expedition_239116781] with ID [1] for session ID [1477] host [DESKTOP-LPE9H33] user [User] process ID [2480]
+[2017.03.13 10:00:26] [2300m.38s.340ms] [1] CMT: There are [3] clients now: 1445, 1473, 1477
+[2017.03.13 10:00:26] [2300m.38s.340ms] [1] CMT: Removed client [1477]
+[2017.03.13 10:00:26] [2300m.38s.340ms] [1] CMT: There are [2] clients now: 1445, 1473
+[2017.03.13 10:10:57] [2311m.09s.132ms] [1] SC[1473]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1473] host [DESKTOP-LPE9H33] user [User] process ID [10188]
+[2017.03.13 10:10:57] [2311m.09s.163ms] [1] CMT: Removed client [1473]
+[2017.03.13 10:10:57] [2311m.09s.163ms] [1] CMT: There are [1] clients now: 1445
+[2017.03.13 10:11:14] [2311m.25s.551ms] [0] IT: Session [1478] for host [DESKTOP-LPE9H33] user [User] with process ID [11588] created
+[2017.03.13 10:11:14] [2311m.25s.551ms] [1] SC[1478]: Registered sub-client [DCDV] with ID [1] for session ID [1478] host [DESKTOP-LPE9H33] user [User] process ID [11588]
+[2017.03.13 10:11:14] [2311m.25s.566ms] [1] SC[1478]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1478] host [DESKTOP-LPE9H33] user [User] process ID [11588]
+[2017.03.13 10:11:14] [2311m.25s.598ms] [1] CMT: There are [2] clients now: 1445, 1478
+[2017.03.13 10:11:14] [2311m.25s.598ms] [1] CMT: Removed client [1478]
+[2017.03.13 10:11:14] [2311m.25s.598ms] [1] CMT: There are [1] clients now: 1445
+[2017.03.13 10:11:14] [2311m.26s.151ms] [0] IT: Session [1479] for host [DESKTOP-LPE9H33] user [User] with process ID [11588] created
+[2017.03.13 10:11:14] [2311m.26s.151ms] [1] SC[1479]: Registered sub-client [DCDV] with ID [1] for session ID [1479] host [DESKTOP-LPE9H33] user [User] process ID [11588]
+[2017.03.13 10:11:14] [2311m.26s.151ms] [1] SC[1479]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1479] host [DESKTOP-LPE9H33] user [User] process ID [11588]
+[2017.03.13 10:11:14] [2311m.26s.167ms] [1] CMT: There are [2] clients now: 1445, 1479
+[2017.03.13 10:11:14] [2311m.26s.167ms] [1] CMT: Removed client [1479]
+[2017.03.13 10:11:14] [2311m.26s.167ms] [1] CMT: There are [1] clients now: 1445
+[2017.03.13 10:11:15] [2311m.26s.751ms] [0] IT: Session [1480] for host [DESKTOP-LPE9H33] user [User] with process ID [11588] created
+[2017.03.13 10:11:15] [2311m.26s.751ms] [1] SC[1480]: Registered sub-client [DCDV] with ID [1] for session ID [1480] host [DESKTOP-LPE9H33] user [User] process ID [11588]
+[2017.03.13 10:11:15] [2311m.26s.767ms] [1] SC[1480]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1480] host [DESKTOP-LPE9H33] user [User] process ID [11588]
+[2017.03.13 10:11:15] [2311m.26s.851ms] [1] CMT: There are [2] clients now: 1445, 1480
+[2017.03.13 10:11:15] [2311m.26s.951ms] [1] CMT: Removed client [1480]
+[2017.03.13 10:11:15] [2311m.26s.951ms] [1] CMT: There are [1] clients now: 1445
+[2017.03.13 10:11:16] [2311m.27s.552ms] [0] IT: Session [1481] for host [DESKTOP-LPE9H33] user [User] with process ID [11588] created
+[2017.03.13 10:11:16] [2311m.27s.552ms] [1] SC[1481]: Registered sub-client [DCDV] with ID [1] for session ID [1481] host [DESKTOP-LPE9H33] user [User] process ID [11588]
+[2017.03.13 10:11:16] [2311m.27s.637ms] [1] CMT: There are [2] clients now: 1445, 1481
+[2017.03.13 10:36:37] [2336m.48s.557ms] [1] PrjBackupMgr: Successfully created Project Backup [X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-13 10.36.36 - auto.zip] with GUID [5449-1527-84cd-4e6a-40c4-6c89-0c46-c850-1a53-63f0-f2a1-c1a8]
+[2017.03.13 10:36:37] [2336m.48s.557ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[833d-936f-c273-d7d2-28c4-5c87-8c45-c850-1a53-63f0-f2a1-c1a8] CreationTime[Sunday, March 12, 2017 13:26:26] Type[Autosave] Creator[iCDB Server (2017-03-11 19.39.48-9316)] ApplicationName[iCDB Server (2017-03-11 19.39.48-9316)] UserName[User] MachineName[DESKTOP-LPE9H33] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 23 for EE7.9.5; Expedition Enterprise Flow; Expedition Enterprise Flow - Update 5 for DC7.9.5] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 40692; 30120; 34984] GBSBuildId[591687] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-12 16.26.26 - auto.zip] BackupFileSize[6235547] Persistent[FALSE]
+[2017.03.13 10:36:37] [2336m.48s.557ms] [0] PrjBackupMgr: Project Backup file [X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-12 16.26.26 - auto.zip] with GUID [833d-936f-c273-d7d2-28c4-5c87-8c45-c850-1a53-63f0-f2a1-c1a8] removed
+[2017.03.13 10:36:37] [2336m.48s.557ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[5449-1527-84cd-4e6a-40c4-6c89-0c46-c850-1a53-63f0-f2a1-c1a8] CreationTime[Monday, March 13, 2017 07:36:36] Type[Autosave] Creator[iCDB Server (2017-03-11 19.39.48-9316)] ApplicationName[iCDB Server (2017-03-11 19.39.48-9316)] UserName[User] MachineName[DESKTOP-LPE9H33] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 23 for EE7.9.5; Expedition Enterprise Flow; Expedition Enterprise Flow - Update 5 for DC7.9.5] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 40692; 30120; 34984] GBSBuildId[591687] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-13 10.36.36 - auto.zip] BackupFileSize[6235166] Persistent[FALSE]
+[2017.03.13 10:55:07] [2355m.18s.867ms] [0] IT: Session [1482] for host [DESKTOP-LPE9H33] user [User] with process ID [10520] created
+[2017.03.13 10:55:07] [2355m.18s.867ms] [1] SC[1482]: Registered sub-client [ICDBC] with ID [1] for session ID [1482] host [DESKTOP-LPE9H33] user [User] process ID [10520]
+[2017.03.13 10:55:07] [2355m.18s.898ms] [1] CMT: There are [3] clients now: 1445, 1481, 1482
+[2017.03.13 10:55:10] [2355m.21s.941ms] [1] SC[1482]: UnRegistered sub-client [ICDBC] with ID [1] for session ID [1482] host [DESKTOP-LPE9H33] user [User] process ID [10520]
+[2017.03.13 10:55:10] [2355m.22s.003ms] [1] CMT: Removed client [1482]
+[2017.03.13 10:55:10] [2355m.22s.003ms] [1] CMT: There are [2] clients now: 1445, 1481
+[2017.03.13 10:55:11] [2355m.22s.811ms] [0] IT: Session [1483] for host [DESKTOP-LPE9H33] user [User] with process ID [9632] created
+[2017.03.13 10:55:11] [2355m.22s.811ms] [1] SC[1483]: Registered sub-client [Packager_242401281] with ID [1] for session ID [1483] host [DESKTOP-LPE9H33] user [User] process ID [9632]
+[2017.03.13 10:55:11] [2355m.22s.873ms] [1] CMT: There are [3] clients now: 1445, 1481, 1483
+[2017.03.13 10:55:11] [2355m.22s.909ms] [1] SC[1483]: UnRegistered sub-client [Packager_242401281] with ID [1] for session ID [1483] host [DESKTOP-LPE9H33] user [User] process ID [9632]
+[2017.03.13 10:55:11] [2355m.22s.989ms] [1] CMT: Removed client [1483]
+[2017.03.13 10:55:11] [2355m.22s.989ms] [1] CMT: There are [2] clients now: 1445, 1481
+[2017.03.13 10:55:25] [2355m.36s.903ms] [1] SC[1445]: UnRegistered sub-client [ExpeditionCrossProber] with ID [2] for session ID [1445] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 10:55:25] [2355m.36s.941ms] [1] SC[1445]: Registered sub-client [EEVM_EEVM_1699880] with ID [3] for session ID [1445] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 10:55:25] [2355m.36s.941ms] [1] SC[1445]: UnRegistered sub-client [EEVM_EEVM_1699880] with ID [3] for session ID [1445] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 10:55:27] [2355m.38s.622ms] [0] IT: Session [1484] for host [DESKTOP-LPE9H33] user [User] with process ID [9332] created
+[2017.03.13 10:55:27] [2355m.38s.623ms] [1] SC[1484]: Registered sub-client [Packager_242417093] with ID [1] for session ID [1484] host [DESKTOP-LPE9H33] user [User] process ID [9332]
+[2017.03.13 10:55:27] [2355m.38s.695ms] [1] CMT: There are [3] clients now: 1445, 1481, 1484
+[2017.03.13 10:55:27] [2355m.38s.696ms] [1] SC[1484]: UnRegistered sub-client [Packager_242417093] with ID [1] for session ID [1484] host [DESKTOP-LPE9H33] user [User] process ID [9332]
+[2017.03.13 10:55:27] [2355m.38s.801ms] [1] CMT: Removed client [1484]
+[2017.03.13 10:55:27] [2355m.38s.802ms] [1] CMT: There are [2] clients now: 1445, 1481
+[2017.03.13 10:55:28] [2355m.39s.504ms] [1] SC[1445]: Registered sub-client [ExpeditionCrossProber] with ID [4] for session ID [1445] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 10:56:02] [2356m.13s.369ms] [0] IT: Session [1485] for host [DESKTOP-LPE9H33] user [User] with process ID [12244] created
+[2017.03.13 10:56:02] [2356m.13s.369ms] [1] SC[1485]: Registered sub-client [ICDBC] with ID [1] for session ID [1485] host [DESKTOP-LPE9H33] user [User] process ID [12244]
+[2017.03.13 10:56:02] [2356m.13s.431ms] [1] CMT: There are [3] clients now: 1445, 1481, 1485
+[2017.03.13 10:56:04] [2356m.15s.673ms] [1] SC[1485]: UnRegistered sub-client [ICDBC] with ID [1] for session ID [1485] host [DESKTOP-LPE9H33] user [User] process ID [12244]
+[2017.03.13 10:56:04] [2356m.15s.688ms] [1] CMT: Removed client [1485]
+[2017.03.13 10:56:04] [2356m.15s.688ms] [1] CMT: There are [2] clients now: 1445, 1481
+[2017.03.13 10:56:04] [2356m.16s.089ms] [0] IT: Session [1486] for host [DESKTOP-LPE9H33] user [User] with process ID [11036] created
+[2017.03.13 10:56:04] [2356m.16s.089ms] [1] SC[1486]: Registered sub-client [Packager_242454546] with ID [1] for session ID [1486] host [DESKTOP-LPE9H33] user [User] process ID [11036]
+[2017.03.13 10:56:04] [2356m.16s.105ms] [1] CMT: There are [3] clients now: 1445, 1481, 1486
+[2017.03.13 10:56:05] [2356m.16s.622ms] [1] SC[1486]: UnRegistered sub-client [Packager_242454546] with ID [1] for session ID [1486] host [DESKTOP-LPE9H33] user [User] process ID [11036]
+[2017.03.13 10:56:05] [2356m.16s.722ms] [1] CMT: Removed client [1486]
+[2017.03.13 10:56:05] [2356m.16s.722ms] [1] CMT: There are [2] clients now: 1445, 1481
+[2017.03.13 10:56:07] [2356m.18s.794ms] [1] SC[1445]: UnRegistered sub-client [ExpeditionCrossProber] with ID [4] for session ID [1445] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 10:56:07] [2356m.18s.794ms] [1] SC[1445]: Registered sub-client [EEVM_EEVM_1699880] with ID [5] for session ID [1445] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 10:56:07] [2356m.18s.794ms] [1] SC[1445]: UnRegistered sub-client [EEVM_EEVM_1699880] with ID [5] for session ID [1445] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 10:56:30] [2356m.41s.871ms] [0] IT: Session [1487] for host [DESKTOP-LPE9H33] user [User] with process ID [11412] created
+[2017.03.13 10:56:30] [2356m.41s.871ms] [1] SC[1487]: Registered sub-client [Packager_242480343] with ID [1] for session ID [1487] host [DESKTOP-LPE9H33] user [User] process ID [11412]
+[2017.03.13 10:56:30] [2356m.41s.887ms] [1] CMT: There are [3] clients now: 1445, 1481, 1487
+[2017.03.13 10:56:30] [2356m.42s.256ms] [1] SC[1487]: UnRegistered sub-client [Packager_242480343] with ID [1] for session ID [1487] host [DESKTOP-LPE9H33] user [User] process ID [11412]
+[2017.03.13 10:56:30] [2356m.42s.319ms] [1] CMT: Removed client [1487]
+[2017.03.13 10:56:30] [2356m.42s.319ms] [1] CMT: There are [2] clients now: 1445, 1481
+[2017.03.13 10:56:31] [2356m.42s.804ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [X:\MG\projects\L02-0101\default\default.icdb\s2\cdbcatlg\catlgatl.v] - auto-saving it
+[2017.03.13 10:56:31] [2356m.42s.804ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [X:\MG\projects\L02-0101\default\default.icdb\s2\cdbcnfgs\9d20000010000050.blk\cesatl.v] - auto-saving it
+[2017.03.13 10:56:32] [2356m.43s.404ms] [0] IT: Session [1488] for host [DESKTOP-LPE9H33] user [User] with process ID [3840] created
+[2017.03.13 10:56:32] [2356m.43s.404ms] [1] SC[1488]: Registered sub-client [Expedition_242481875] with ID [1] for session ID [1488] host [DESKTOP-LPE9H33] user [User] process ID [3840]
+[2017.03.13 10:56:32] [2356m.43s.458ms] [1] CMT: There are [3] clients now: 1445, 1481, 1488
+[2017.03.13 10:56:32] [2356m.43s.473ms] [1] SC[1488]: UnRegistered sub-client [Expedition_242481875] with ID [1] for session ID [1488] host [DESKTOP-LPE9H33] user [User] process ID [3840]
+[2017.03.13 10:56:32] [2356m.43s.573ms] [1] CMT: Removed client [1488]
+[2017.03.13 10:56:32] [2356m.43s.573ms] [1] CMT: There are [2] clients now: 1445, 1481
+[2017.03.13 10:56:34] [2356m.46s.309ms] [0] IT: Session [1489] for host [DESKTOP-LPE9H33] user [User] with process ID [2616] created
+[2017.03.13 10:56:34] [2356m.46s.309ms] [1] SC[1489]: Registered sub-client [Expedition_242484781] with ID [1] for session ID [1489] host [DESKTOP-LPE9H33] user [User] process ID [2616]
+[2017.03.13 10:56:35] [2356m.46s.362ms] [1] CMT: There are [3] clients now: 1445, 1481, 1489
+[2017.03.13 10:56:35] [2356m.46s.362ms] [1] SC[1489]: UnRegistered sub-client [Expedition_242484781] with ID [1] for session ID [1489] host [DESKTOP-LPE9H33] user [User] process ID [2616]
+[2017.03.13 10:56:35] [2356m.46s.478ms] [1] CMT: Removed client [1489]
+[2017.03.13 10:56:35] [2356m.46s.478ms] [1] CMT: There are [2] clients now: 1445, 1481
+[2017.03.13 10:56:35] [2356m.47s.094ms] [1] SC[1445]: Registered sub-client [EEVM_EEVM_318709692] with ID [6] for session ID [1445] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 10:56:35] [2356m.47s.110ms] [1] SC[1445]: UnRegistered sub-client [EEVM_EEVM_318709692] with ID [6] for session ID [1445] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 10:56:35] [2356m.47s.110ms] [1] SC[1445]: Registered sub-client [EEVM_EEVM_318709692] with ID [7] for session ID [1445] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 10:56:35] [2356m.47s.110ms] [1] SC[1445]: UnRegistered sub-client [EEVM_EEVM_318709692] with ID [7] for session ID [1445] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 10:56:35] [2356m.47s.110ms] [1] SC[1445]: Registered sub-client [EEVM_EEVM_318709692] with ID [8] for session ID [1445] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 10:56:35] [2356m.47s.132ms] [1] SC[1445]: UnRegistered sub-client [EEVM_EEVM_318709692] with ID [8] for session ID [1445] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 10:56:35] [2356m.47s.348ms] [1] SC[1445]: UnRegistered sub-client [Expedition PCB_175719203] with ID [1] for session ID [1445] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 10:56:36] [2356m.47s.511ms] [1] CMT: Removed client [1445]
+[2017.03.13 10:56:36] [2356m.47s.511ms] [1] CMT: There are [1] clients now: 1481
+[2017.03.13 10:56:36] [2356m.47s.965ms] [0] IT: Session [1490] for host [DESKTOP-LPE9H33] user [User] with process ID [5224] created
+[2017.03.13 10:56:36] [2356m.47s.965ms] [1] SC[1490]: Registered sub-client [Expedition PCB_242486437] with ID [1] for session ID [1490] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 10:56:36] [2356m.47s.980ms] [1] CMT: There are [2] clients now: 1481, 1490
+[2017.03.13 10:56:37] [2356m.48s.597ms] [1] SC[1490]: Registered sub-client [ExpeditionCrossProber] with ID [2] for session ID [1490] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 12:36:47] [2456m.58s.758ms] [0] IT: Session [1491] for host [DESKTOP-LPE9H33] user [User] with process ID [10136] created
+[2017.03.13 12:36:47] [2456m.58s.758ms] [1] SC[1491]: Registered sub-client [ICDBC] with ID [1] for session ID [1491] host [DESKTOP-LPE9H33] user [User] process ID [10136]
+[2017.03.13 12:36:47] [2456m.58s.805ms] [1] CMT: There are [3] clients now: 1481, 1490, 1491
+[2017.03.13 12:36:49] [2457m.01s.296ms] [1] SC[1491]: UnRegistered sub-client [ICDBC] with ID [1] for session ID [1491] host [DESKTOP-LPE9H33] user [User] process ID [10136]
+[2017.03.13 12:36:49] [2457m.01s.312ms] [1] CMT: Removed client [1491]
+[2017.03.13 12:36:49] [2457m.01s.312ms] [1] CMT: There are [2] clients now: 1481, 1490
+[2017.03.13 12:36:50] [2457m.02s.183ms] [0] IT: Session [1492] for host [DESKTOP-LPE9H33] user [User] with process ID [12252] created
+[2017.03.13 12:36:50] [2457m.02s.183ms] [1] SC[1492]: Registered sub-client [Packager_248500656] with ID [1] for session ID [1492] host [DESKTOP-LPE9H33] user [User] process ID [12252]
+[2017.03.13 12:36:50] [2457m.02s.267ms] [1] CMT: There are [3] clients now: 1481, 1490, 1492
+[2017.03.13 12:36:51] [2457m.02s.613ms] [1] SC[1492]: UnRegistered sub-client [Packager_248500656] with ID [1] for session ID [1492] host [DESKTOP-LPE9H33] user [User] process ID [12252]
+[2017.03.13 12:36:51] [2457m.02s.704ms] [1] CMT: Removed client [1492]
+[2017.03.13 12:36:51] [2457m.02s.704ms] [1] CMT: There are [2] clients now: 1481, 1490
+[2017.03.13 12:36:59] [2457m.10s.664ms] [1] SC[1490]: UnRegistered sub-client [ExpeditionCrossProber] with ID [2] for session ID [1490] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 12:36:59] [2457m.10s.680ms] [1] SC[1490]: Registered sub-client [EEVM_EEVM_1699880] with ID [3] for session ID [1490] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 12:36:59] [2457m.10s.680ms] [1] SC[1490]: UnRegistered sub-client [EEVM_EEVM_1699880] with ID [3] for session ID [1490] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 12:37:00] [2457m.12s.301ms] [0] IT: Session [1493] for host [DESKTOP-LPE9H33] user [User] with process ID [12028] created
+[2017.03.13 12:37:00] [2457m.12s.302ms] [1] SC[1493]: Registered sub-client [Packager_248510765] with ID [1] for session ID [1493] host [DESKTOP-LPE9H33] user [User] process ID [12028]
+[2017.03.13 12:37:00] [2457m.12s.332ms] [1] CMT: There are [3] clients now: 1481, 1490, 1493
+[2017.03.13 12:37:01] [2457m.12s.706ms] [1] SC[1493]: UnRegistered sub-client [Packager_248510765] with ID [1] for session ID [1493] host [DESKTOP-LPE9H33] user [User] process ID [12028]
+[2017.03.13 12:37:01] [2457m.12s.772ms] [1] CMT: Removed client [1493]
+[2017.03.13 12:37:01] [2457m.12s.772ms] [1] CMT: There are [2] clients now: 1481, 1490
+[2017.03.13 12:37:01] [2457m.13s.238ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [X:\MG\projects\L02-0101\default\default.icdb\s2\cdbcatlg\catlgatl.v] - auto-saving it
+[2017.03.13 12:37:01] [2457m.13s.238ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [X:\MG\projects\L02-0101\default\default.icdb\s2\cdbcnfgs\9d20000010000050.blk\cesatl.v] - auto-saving it
+[2017.03.13 12:37:02] [2457m.14s.239ms] [0] IT: Session [1494] for host [DESKTOP-LPE9H33] user [User] with process ID [7900] created
+[2017.03.13 12:37:02] [2457m.14s.239ms] [1] SC[1494]: Registered sub-client [Expedition_248512703] with ID [1] for session ID [1494] host [DESKTOP-LPE9H33] user [User] process ID [7900]
+[2017.03.13 12:37:02] [2457m.14s.302ms] [1] SC[1494]: UnRegistered sub-client [Expedition_248512703] with ID [1] for session ID [1494] host [DESKTOP-LPE9H33] user [User] process ID [7900]
+[2017.03.13 12:37:02] [2457m.14s.334ms] [1] CMT: There are [3] clients now: 1481, 1490, 1494
+[2017.03.13 12:37:02] [2457m.14s.334ms] [1] CMT: Removed client [1494]
+[2017.03.13 12:37:02] [2457m.14s.334ms] [1] CMT: There are [2] clients now: 1481, 1490
+[2017.03.13 12:37:05] [2457m.17s.091ms] [0] IT: Session [1495] for host [DESKTOP-LPE9H33] user [User] with process ID [8032] created
+[2017.03.13 12:37:05] [2457m.17s.107ms] [1] SC[1495]: Registered sub-client [Expedition_248515562] with ID [1] for session ID [1495] host [DESKTOP-LPE9H33] user [User] process ID [8032]
+[2017.03.13 12:37:05] [2457m.17s.141ms] [1] SC[1495]: UnRegistered sub-client [Expedition_248515562] with ID [1] for session ID [1495] host [DESKTOP-LPE9H33] user [User] process ID [8032]
+[2017.03.13 12:37:05] [2457m.17s.176ms] [1] CMT: There are [3] clients now: 1481, 1490, 1495
+[2017.03.13 12:37:05] [2457m.17s.176ms] [1] CMT: Removed client [1495]
+[2017.03.13 12:37:05] [2457m.17s.176ms] [1] CMT: There are [2] clients now: 1481, 1490
+[2017.03.13 12:37:06] [2457m.17s.877ms] [1] SC[1490]: Registered sub-client [EEVM_EEVM_318711012] with ID [4] for session ID [1490] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 12:37:06] [2457m.17s.892ms] [1] SC[1490]: UnRegistered sub-client [EEVM_EEVM_318711012] with ID [4] for session ID [1490] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 12:37:06] [2457m.17s.892ms] [1] SC[1490]: Registered sub-client [EEVM_EEVM_318711012] with ID [5] for session ID [1490] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 12:37:06] [2457m.17s.892ms] [1] SC[1490]: UnRegistered sub-client [EEVM_EEVM_318711012] with ID [5] for session ID [1490] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 12:37:06] [2457m.17s.908ms] [1] SC[1490]: Registered sub-client [EEVM_EEVM_318710748] with ID [6] for session ID [1490] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 12:37:06] [2457m.17s.908ms] [1] SC[1490]: UnRegistered sub-client [EEVM_EEVM_318710748] with ID [6] for session ID [1490] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 12:37:06] [2457m.18s.108ms] [1] SC[1490]: UnRegistered sub-client [Expedition PCB_242486437] with ID [1] for session ID [1490] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 12:37:07] [2457m.18s.893ms] [1] CMT: Removed client [1490]
+[2017.03.13 12:37:07] [2457m.18s.893ms] [1] CMT: There are [1] clients now: 1481
+[2017.03.13 12:37:07] [2457m.18s.893ms] [0] IT: Session [1496] for host [DESKTOP-LPE9H33] user [User] with process ID [5224] created
+[2017.03.13 12:37:07] [2457m.18s.893ms] [1] SC[1496]: Registered sub-client [Expedition PCB_248516703] with ID [1] for session ID [1496] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 12:37:07] [2457m.19s.009ms] [1] CMT: There are [2] clients now: 1481, 1496
+[2017.03.13 12:37:08] [2457m.19s.478ms] [1] SC[1496]: Registered sub-client [ExpeditionCrossProber] with ID [2] for session ID [1496] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 14:36:37] [2576m.48s.756ms] [1] PrjBackupMgr: Successfully created Project Backup [X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-13 14.36.36 - auto.zip] with GUID [36b5-3879-4fd8-5410-4448-6c89-4486-c850-1a53-63f0-f2a1-c1a8]
+[2017.03.13 14:36:37] [2576m.48s.756ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[69dd-9e48-cbba-5ef3-2c48-5c87-c485-c850-1a53-63f0-f2a1-c1a8] CreationTime[Sunday, March 12, 2017 17:26:26] Type[Autosave] Creator[iCDB Server (2017-03-11 19.39.48-9316)] ApplicationName[iCDB Server (2017-03-11 19.39.48-9316)] UserName[User] MachineName[DESKTOP-LPE9H33] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 23 for EE7.9.5; Expedition Enterprise Flow; Expedition Enterprise Flow - Update 5 for DC7.9.5] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 40692; 30120; 34984] GBSBuildId[591687] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-12 20.26.26 - auto.zip] BackupFileSize[6237191] Persistent[FALSE]
+[2017.03.13 14:36:37] [2576m.48s.772ms] [0] PrjBackupMgr: Project Backup file [X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-12 20.26.26 - auto.zip] with GUID [69dd-9e48-cbba-5ef3-2c48-5c87-c485-c850-1a53-63f0-f2a1-c1a8] removed
+[2017.03.13 14:36:37] [2576m.48s.773ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[36b5-3879-4fd8-5410-4448-6c89-4486-c850-1a53-63f0-f2a1-c1a8] CreationTime[Monday, March 13, 2017 11:36:36] Type[Autosave] Creator[iCDB Server (2017-03-11 19.39.48-9316)] ApplicationName[iCDB Server (2017-03-11 19.39.48-9316)] UserName[User] MachineName[DESKTOP-LPE9H33] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 23 for EE7.9.5; Expedition Enterprise Flow; Expedition Enterprise Flow - Update 5 for DC7.9.5] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 40692; 30120; 34984] GBSBuildId[591687] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-13 14.36.36 - auto.zip] BackupFileSize[6238972] Persistent[FALSE]
+[2017.03.13 17:30:28] [2750m.39s.798ms] [1] SC[1496]: UnRegistered sub-client [ExpeditionCrossProber] with ID [2] for session ID [1496] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 17:30:28] [2750m.40s.141ms] [1] SC[1496]: UnRegistered sub-client [Expedition PCB_248516703] with ID [1] for session ID [1496] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.13 17:30:28] [2750m.40s.188ms] [1] CMT: Removed client [1496]
+[2017.03.13 17:30:28] [2750m.40s.188ms] [1] CMT: There are [1] clients now: 1481
+[2017.03.13 17:30:38] [2750m.49s.695ms] [1] SC[1481]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1481] host [DESKTOP-LPE9H33] user [User] process ID [11588]
+[2017.03.13 17:30:38] [2750m.49s.805ms] [1] CMT: Removed client [1481]
+[2017.03.13 17:30:38] [2750m.49s.805ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2017.03.13 17:30:40] [2750m.51s.461ms] [0] CMT: Starting server auto-close
+[2017.03.13 17:30:40] [2750m.51s.493ms] [0] S: Closing server
+[2017.03.13 17:30:40] [2750m.51s.618ms] [0] iCDB Server PI: Closing plugins
+[2017.03.13 17:30:40] [2750m.51s.618ms] [0] iCDB Server PI: Plugins closed
+[2017.03.13 17:30:40] [2750m.51s.618ms] [0] iCDB Server PI: Unloading database
+[2017.03.13 17:30:40] [2750m.51s.618ms] [0] iCDB Server PI: Saving storage
+[2017.03.13 17:30:40] [2750m.51s.618ms] [0] iCDB Server PI: Closing database
+[2017.03.13 17:30:40] [2750m.51s.649ms] [1] iCDB Server PI: Stats: Database defragmentation: max[3] avg[1] holes[50%] data[77%]
+[2017.03.13 17:30:40] [2750m.51s.649ms] [1] iCDB Server PI: Stats: Database file size [267008 (260.8 kB)]
+[2017.03.13 17:30:40] [2750m.51s.665ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2017.03.13 17:30:40] [2750m.51s.680ms] [0] iCDB Server PI: Database closed
+[2017.03.13 17:30:40] [2750m.51s.680ms] [0] iCDB Server PI: Defragmenting database
+[2017.03.13 17:30:40] [2750m.51s.680ms] [0] iCDB Server PI: Creating database [X:\MG\projects\L02-0101\default\default.icdb] backup to file [X:\MG\projects\L02-0101\default\default.icdb\cdbback\2017-03-13 17.30.40-9316-d.zip]
+[2017.03.13 17:30:40] [2750m.51s.789ms] [0] iCDB Server PI: Database backup: DONE
+[2017.03.13 17:30:40] [2750m.51s.852ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.03.13 17:30:40] [2750m.51s.852ms] [0] Database GUARD OK: [267008]
+[2017.03.13 17:30:40] [2750m.51s.852ms] [0] SingleFile: [d6de-c2d2-e05e-cd27] SFI version check [1009] [1009]
+[2017.03.13 17:30:40] [2750m.51s.852ms] [0] SingleFile: [d6de-c2d2-e05e-cd27] Database SFI header has been read in [12ms 992us]
+[2017.03.13 17:30:40] [2750m.51s.977ms] [1] iCDB Server PI: Stats: Database file sizes: before[267008 (260.8 kB)], after[125232 (122.3 kB)], gain[141776 (138.5 kB)]
+[2017.03.13 17:30:40] [2750m.52s.008ms] [0] Single file [X:\MG\projects\L02-0101\default\default.icdb\icdb.dat] closed with size [125232 (122.3 kB)]
+[2017.03.13 17:30:40] [2750m.52s.008ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2017.03.13 17:30:40] [2750m.52s.008ms] [1] BackupTransaction: Removing database backup [X:\MG\projects\L02-0101\default\default.icdb\cdbback\2017-03-13 17.30.40-9316-d.zip]
+[2017.03.13 17:30:40] [2750m.52s.008ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [417226] ticks
+[2017.03.13 17:30:40] [2750m.52s.008ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [133846] microseconds
+[2017.03.13 17:30:40] [2750m.52s.008ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [723]
+[2017.03.13 17:30:40] [2750m.52s.008ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [5401] commands per second
+[2017.03.13 17:30:40] [2750m.52s.149ms] [0] S: STOP

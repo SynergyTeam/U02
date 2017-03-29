@@ -1,0 +1,33 @@
+
+                                   DXF Export
+                                   ----------
+
+                        12:17 PM Thursday, April 07, 2016
+          Job Name: G:\ROTEK\0451706_SC_ARB_USB_LED\PCB\0451706_SC.pcb
+
+
+
+    DXF File: G:\ROTEK\0451706_SC_ARB_USB_LED\PCB\Output\0451706_ms.dxf
+
+
+    Total - Export Element
+    ----------------------------------------------------------------------
+
+         6 - Assembly Outlines Btm
+
+        91 - Assembly Outlines Top
+
+         3 - Assembly Ref Des Btm
+
+        73 - Assembly Ref Des Top
+
+         1 - Board Outline
+
+        33 - Part Holes Layer 1
+
+
+    Successful Completion.
+
+
+
+                        12:17 PM Thursday, April 07, 2016

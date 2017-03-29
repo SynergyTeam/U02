@@ -1,0 +1,15 @@
+Wed Apr 06 09:12:42 2016
+
+Project path: G:\ROTEK\0451706_SC_ARB_USB_LED\default\default.icdb
+
+Env. WDIR: C:\flexlm;C:\MentorGraphics\7.9.5EE\SDD_HOME\standard
+WDIRs: 
+	C:\flexlm
+	C:\MentorGraphics\7.9.5EE\SDD_HOME\standard
+
+Loaded cns files: 
+	C:\flexlm\user.cns=bc7f-b32d-a01d-26b2-bb20-f050-c20f-0550-c7bb-ed5a-ca9b-bb98
+	C:\MentorGraphics\7.9.5EE\SDD_HOME\standard\ce_ee.cns=7.10.24 (read-only)
+
+Loaded cns - data stored in database: C:\flexlm\user.cns=bc7f-b32d-a01d-26b2-bb20-f050-c20f-0550-c7bb-ed5a-ca9b-bb98;C:\MentorGraphics\7.9.5EE\SDD_HOME\standard\ce_ee.cns=7.10.24
+Set database cns file versions: ce_ee.cns=7.10.24;user.cns=bc7f-b32d-a01d-26b2-bb20-f050-c20f-0550-c7bb-ed5a-ca9b-bb98

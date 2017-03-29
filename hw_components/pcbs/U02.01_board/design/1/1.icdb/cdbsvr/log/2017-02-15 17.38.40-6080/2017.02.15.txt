@@ -1,0 +1,72 @@
+[2017.02.15 17:38:40] [0000m.00s.078ms] [0] WELCOME
+[2017.02.15 17:38:40] [0000m.00s.080ms] [1] iCDB Server ver.1.094, Q8/qRGZ6TkAm41ha2aY19Q, build:591687 created 2013-12-13 12:45:14, sources stamp:Q8/qRGZ6TkAm41ha2aY19Q
+[2017.02.15 17:38:40] [0000m.00s.080ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2017.02.15 17:38:40] [0000m.00s.080ms] [1] Base flow version [7.9.4]
+[2017.02.15 17:38:40] [0000m.00s.080ms] [1] GBS Install Id [30163], Flow Id [EE7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2017.02.15 17:38:40] [0000m.00s.080ms] [1] UPDATE Install Info, GBS Install Id [40692], UPDATE Name [Expedition Enterprise Flow - Update 23 for EE7.9.5]
+[2017.02.15 17:38:40] [0000m.00s.081ms] [1] GBS Install Id [30120], Flow Id [EE 7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2017.02.15 17:38:40] [0000m.00s.081ms] [1] UPDATE Install Info, GBS Install Id [34984], UPDATE Name [Expedition Enterprise Flow - Update 5 for DC7.9.5]
+[2017.02.15 17:38:40] [0000m.00s.081ms] [1] Machine [DESKTOP-MHMPJ0K]  User [toivo]  PID [6080]
+[2017.02.15 17:38:40] [0000m.00s.081ms] [1] Operating system [Microsoft Business Edition, 64-bit (build 9200)]
+[2017.02.15 17:38:40] [0000m.00s.081ms] [1] Current working dir [C:\MG\projects\us001]
+[2017.02.15 17:38:40] [0000m.00s.082ms] [1] PATH [C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\help;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\_bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\PC Connectivity Solution\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\WINDOWS\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\MATLAB\R2014a\runtime\win64;C:\Program Files\MATLAB\R2014a\bin;C:\Program Files\MATLAB\R2014a\polyspace\bin;C:\Users\toivo\AppData\Local\Microsoft\WindowsApps;;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib]
+[2017.02.15 17:38:40] [0000m.00s.082ms] [1] SDD_HOME [C:\MentorGraphics\7.9.5EE\SDD_HOME] on file system [NTFS]
+[2017.02.15 17:38:40] [0000m.00s.082ms] [1] SDD_PLATFORM [win32]
+[2017.02.15 17:38:40] [0000m.00s.082ms] [1] WDIR [C:\WDIR;C:\MentorGraphics\7.9.5EE\SDD_HOME\standard]
+[2017.02.15 17:38:40] [0000m.00s.082ms] [1] Local iCDB working dir [C:\WDIR\iCDB] on file system [NTFS]
+[2017.02.15 17:38:40] [0000m.00s.082ms] [1] S: Config file name [ServerWG.cfg]
+[2017.02.15 17:38:40] [0000m.00s.082ms] [2] S: Loading config files
+[2017.02.15 17:38:40] [0000m.00s.089ms] [1] Config file [C:\MG\projects\us001\1\1.icdb\cdbsvr\ServerWG.cfg] not found
+[2017.02.15 17:38:40] [0000m.00s.089ms] [1] Config: Non-default value [System.SingleUserMode] = [no]
+[2017.02.15 17:38:40] [0000m.00s.092ms] [3] S: Config loaded
+[2017.02.15 17:38:40] [0000m.00s.095ms] [0] S: Project path [C:\MG\projects\us001\1\1.icdb] on file system [NTFS]
+[2017.02.15 17:38:40] [0000m.00s.095ms] [1] S: WARNING: No project file (.prj) path specified
+[2017.02.15 17:38:40] [0000m.00s.095ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2017.02.15 17:38:40] [0000m.00s.095ms] [0] S: Multi-user mode (config)
+[2017.02.15 17:38:40] [0000m.00s.095ms] [0] S: Event polling mode autodetection
+[2017.02.15 17:38:40] [0000m.00s.107ms] [0] S: Started up automatically by iCDB Client: DESKTOP-MHMPJ0K:toivo:3544
+[2017.02.15 17:38:40] [0000m.00s.107ms] [0] S: Auto close mode
+[2017.02.15 17:38:40] [0000m.00s.107ms] [0] S: Database ID [4e73-f931-db25-8b05-6e76-4a8b-e764-a850-5725-b3e2-534e-30a8]
+[2017.02.15 17:38:40] [0000m.00s.107ms] [0] PathTranslator: BEGIN dumping
+[2017.02.15 17:38:40] [0000m.00s.107ms] [0] PathTranslator: Local -> global path prefix list
+[2017.02.15 17:38:40] [0000m.00s.107ms] [0] PathTranslator: [C:\Users] -> [\\DESKTOP-MHMPJ0K\Users]
+[2017.02.15 17:38:40] [0000m.00s.107ms] [0] PathTranslator: Global -> local path prefix list
+[2017.02.15 17:38:40] [0000m.00s.107ms] [0] PathTranslator: [\\DESKTOP-MHMPJ0K\Users] -> [C:\Users]
+[2017.02.15 17:38:40] [0000m.00s.107ms] [0] PathTranslator: END dumping
+[2017.02.15 17:38:40] [0000m.00s.107ms] [0] S: START
+[2017.02.15 17:38:40] [0000m.00s.107ms] [0] S: Server startup lock file created
+[2017.02.15 17:38:40] [0000m.00s.109ms] [0] S: Listening for client connections on port [10001]
+[2017.02.15 17:38:40] [0000m.00s.110ms] [0] S: Server network ID [DESKTOP-MHMPJ0K:192.168.1.165,DESKTOP-MHMPJ0K:10001]
+[2017.02.15 17:38:40] [0000m.00s.111ms] [0] S: Server GUID [cd39-272d-3cdb-8b74-0f76-4a85-f764-a850-d7d4-b3e2-534e-30a8]
+[2017.02.15 17:38:40] [0000m.00s.111ms] [0] S: Project GUID [4e73-f931-db25-8b05-6e76-4a8b-e764-a850-5725-b3e2-534e-30a8]
+[2017.02.15 17:38:40] [0000m.00s.112ms] [0] S: Wrote data to server address file
+[2017.02.15 17:38:40] [0000m.00s.113ms] [0] S: Server startup lock file removed
+[2017.02.15 17:38:40] [0000m.00s.113ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2017.02.15 17:38:40] [0000m.00s.150ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2017.02.15 17:38:40] [0000m.00s.150ms] [0] S: Local disc access time: 108 us
+[2017.02.15 17:38:40] [0000m.00s.150ms] [0] S: File server access time: 113 us
+[2017.02.15 17:38:40] [0000m.00s.153ms] [0] Single file [C:\MG\projects\us001\1\1.icdb\icdb.dat] size [68744 (67.1 kB)]
+[2017.02.15 17:38:40] [0000m.00s.153ms] [1] Single file [C:\MG\projects\us001\1\1.icdb\icdb.dat] opened in read-write mode
+[2017.02.15 17:38:40] [0000m.00s.153ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.02.15 17:38:40] [0000m.00s.153ms] [0] Database GUARD OK: [68744]
+[2017.02.15 17:38:40] [0000m.00s.155ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.02.15 17:38:40] [0000m.00s.155ms] [0] Database GUARD OK: [68744]
+[2017.02.15 17:38:40] [0000m.00s.155ms] [0] SingleFile: [f32f-e7af-07d7-640e] SFI version check [1009] [1009]
+[2017.02.15 17:38:40] [0000m.00s.156ms] [0] SingleFile: [f32f-e7af-07d7-640e] Database SFI header has been read in [1ms 76us]
+[2017.02.15 17:38:40] [0000m.00s.161ms] [0] iCDB Server PI: Server & plugin session [29]
+[2017.02.15 17:38:40] [0000m.00s.161ms] [0] iCDB Server PI: Opening database [C:\MG\projects\us001\1\1.icdb]
+[2017.02.15 17:38:40] [0000m.00s.161ms] [0] iCDB Server PI: Database [C:\MG\projects\us001\1\1.icdb] opened
+[2017.02.15 17:38:40] [0000m.00s.185ms] [0] iCDB Database: Checking existence of constraint definitions
+[2017.02.15 17:38:40] [0000m.00s.185ms] [0] iCDB Database: Checking constraint definitions version
+[2017.02.15 17:38:40] [0000m.00s.244ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.24;user.cns=0e7f-459a-9274-e162-5a34-f88a-a34f-8850-af25-e362-1381-43a8] up to date
+[2017.02.15 17:38:40] [0000m.00s.261ms] [0] iCDB Server PI: Initializing plugins
+[2017.02.15 17:38:40] [0000m.00s.261ms] [0] iCDB Server PI: Plugins initialized
+[2017.02.15 17:38:40] [0000m.00s.261ms] [0] S: iCDB database loaded
+[2017.02.15 17:38:40] [0000m.00s.263ms] [0] S: Starting threads
+[2017.02.15 17:38:40] [0000m.00s.264ms] [0] BT: Listening for broadcast messages on port [10000]
+[2017.02.15 17:38:40] [0000m.00s.264ms] [0] ProjectBackupManager: WARNING: Could not startup Project Backup engine - functionality not initialized
+[2017.02.15 17:38:40] [0000m.00s.265ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2017.02.15 17:38:40] [0000m.00s.266ms] [0] IT: Session [30] for host [DESKTOP-MHMPJ0K] user [toivo] with process ID [3544] created
+[2017.02.15 17:38:40] [0000m.00s.267ms] [1] SC[30]: Registered sub-client [DCDV] with ID [1] for session ID [30] host [DESKTOP-MHMPJ0K] user [toivo] process ID [3544]
+[2017.02.15 17:38:40] [0000m.00s.371ms] [1] CMT: There are [1] clients now: 30
+[2017.02.15 17:39:10] [0000m.29s.623ms] [0] DFAMT: File server access time: 115 us

@@ -1,0 +1,32 @@
+[2016.04.01 09:49:45] [0000m.03s.986ms] [0] WELCOME
+[2016.04.01 09:49:45] [0000m.03s.986ms] [1] iCDB Database ver.1.094, Q8/qRGZ6TkAm41ha2aY19Q, build:591687 created 2013-12-13 12:45:14, sources stamp:Q8/qRGZ6TkAm41ha2aY19Q
+[2016.04.01 09:49:45] [0000m.03s.986ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2016.04.01 09:49:45] [0000m.03s.986ms] [1] Base flow version [7.9.4]
+[2016.04.01 09:49:45] [0000m.03s.986ms] [1] GBS Install Id [30163], Flow Id [EE7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2016.04.01 09:49:45] [0000m.03s.986ms] [1] UPDATE Install Info, GBS Install Id [40692], UPDATE Name [Expedition Enterprise Flow - Update 23 for EE7.9.5]
+[2016.04.01 09:49:45] [0000m.03s.986ms] [1] GBS Install Id [30120], Flow Id [EE 7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2016.04.01 09:49:45] [0000m.03s.991ms] [1] UPDATE Install Info, GBS Install Id [34984], UPDATE Name [Expedition Enterprise Flow - Update 5 for DC7.9.5]
+[2016.04.01 09:49:45] [0000m.03s.991ms] [1] Machine [BIBIKUS-ой]  User [BIBIKUS]  PID [8648]
+[2016.04.01 09:49:45] [0000m.03s.991ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit (build 7600)]
+[2016.04.01 09:49:45] [0000m.03s.991ms] [1] Current working dir [G:\ROTEK\0451705_SC]
+[2016.04.01 09:49:45] [0000m.03s.991ms] [1] PATH [C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\help;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\_bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;]
+[2016.04.01 09:49:45] [0000m.03s.991ms] [1] SDD_HOME [C:\MentorGraphics\7.9.5EE\SDD_HOME] on file system [NTFS]
+[2016.04.01 09:49:45] [0000m.03s.991ms] [1] SDD_PLATFORM [win32]
+[2016.04.01 09:49:45] [0000m.03s.991ms] [1] WDIR [C:\flexlm;C:\MentorGraphics\7.9.5EE\SDD_HOME\standard]
+[2016.04.01 09:49:45] [0000m.03s.991ms] [1] Local iCDB working dir [C:\flexlm\iCDB] on file system [NTFS]
+[2016.04.01 09:49:45] [0000m.03s.991ms] [3] WARNING: Database [G:\ROTEK\0451705_SC\default\default.icdb\icdb.dat] was manually copied
+[2016.04.01 09:49:45] [0000m.03s.991ms] [3] File change time:        [2016-04-01 09.33.48]
+[2016.04.01 09:49:45] [0000m.03s.991ms] [3] File modification time:  [2016-03-02 12.38.36]
+[2016.04.01 09:49:45] [0000m.03s.991ms] [3] Last change time:        [2016-03-02 11.38.36]
+[2016.04.01 09:49:45] [0000m.03s.991ms] [3] Last database open information:
+[2016.04.01 09:49:45] [0000m.03s.991ms] [3] Time:             [2016-03-02 11.16.53]
+[2016.04.01 09:49:45] [0000m.03s.991ms] [3] Location:         [F:\repository\OU\045_SWC4\PCBs\0451705_SC\default\default.icdb\icdb.dat]
+[2016.04.01 09:49:45] [0000m.03s.991ms] [3] Machine:          [DUTENKOV-ой]
+[2016.04.01 09:49:45] [0000m.03s.991ms] [3] User:             [D.Utenkov]
+[2016.04.01 09:49:45] [0000m.03s.991ms] [3] PID:              [8188]
+[2016.04.01 09:49:45] [0000m.03s.991ms] [3] Application:      [iCDB Server]
+[2016.04.01 09:49:45] [0000m.03s.991ms] [3] Operating system: [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2016.04.01 09:49:45] [0000m.03s.991ms] [3] WARNING: Regenerating database GUID
+[2016.04.01 09:49:45] [0000m.03s.991ms] [3] Previous database GUID [d841-7660-652a-6279-a284-2a6f-2842-a650-ed8d-5d7f-fffc-7d2d]
+[2016.04.01 09:49:45] [0000m.03s.991ms] [3] Current database GUID  [0284-3acc-6c5d-770f-9fb0-ef6e-fb0e-f650-864b-ed5a-ca9b-bb98]
+[2016.04.01 09:49:45] [0000m.03s.991ms] [0] .

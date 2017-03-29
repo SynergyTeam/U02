@@ -1,0 +1,23 @@
+--------------------
+command line:
+WINPLOT.EXE "/PROJECT=C:\MG\projects\us001\12345.prj" /SCALE=FIT -F=-4450,900,2600,4750  "C:\MG\projects\us001\design_definition\graphics\002_main.sbk(1)"
+--------------------
+
+	W I N P L O T - generate plots from schematics. Version 16.2.0.0
+		(c) Copyright Mentor Graphics Corporation 2012.
+	All Rights Reserved.
+
+	..reading project file
+	..reading system parameter file
+	..reading symbology
+	..reading font file
+	..reading plotter control file
+
+	..scaling circuit(s) to fit paper.
+	(scale=0.558)
+
+			..cells .
+			..transitions
+			..wires
+			..subnet text, ..loose text, ..loose gfx, ..done
+Plot utility program completed

@@ -1,0 +1,756 @@
+.FILETYPE DRCFILE
+.VERSION "2002"
+.DATE "March 13, 2017"
+.TIME "18:55:15"
+.PROXIMITY
+..VIO_XY (-16350000, -25899746)  ! (-16.35mm, -25.9mm)
+..CLEARANCE 50000  ! 0.05mm
+!..CLEARANCE_STRING "ComponentTypeDB Not Open - NetClass PlacementOutline-To-PlacementOutline : Clearance=0.05mm  "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (-16350000, -27884727)  ! (-16.35mm, -27.88mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "GS200"
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (-17200000, -25850000)  ! (-17.2mm, -25.85mm)
+.....HGT 1250000
+.....UNDER_HGT 0
+.....REF_DES "R205"
+.PROXIMITY
+..VIO_XY (-16350000, -8949746)  ! (-16.35mm, -8.95mm)
+..CLEARANCE 50000  ! 0.05mm
+!..CLEARANCE_STRING "ComponentTypeDB Not Open - NetClass PlacementOutline-To-PlacementOutline : Clearance=0.05mm  "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (-16350000, -27884727)  ! (-16.35mm, -27.88mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "GS200"
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (-24800000, -8900000)  ! (-24.8mm, -8.9mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "XM001"
+.PROXIMITY
+..VIO_XY (2300254, -26050000)  ! (2.3mm, -26.05mm)
+..CLEARANCE 50000  ! 0.05mm
+!..CLEARANCE_STRING "ComponentTypeDB Not Open - NetClass PlacementOutline-To-PlacementOutline : Clearance=0.05mm  "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (-16350000, -27884727)  ! (-16.35mm, -27.88mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "GS200"
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (2350000, -26050000)  ! (2.35mm, -26.05mm)
+.....HGT 2500000
+.....UNDER_HGT 0
+.....REF_DES "C203"
+.PROXIMITY
+..VIO_XY (925254, -8225000)  ! (0.93mm, -8.22mm)
+..CLEARANCE 50000  ! 0.05mm
+!..CLEARANCE_STRING "ComponentTypeDB Not Open - NetClass PlacementOutline-To-PlacementOutline : Clearance=0.05mm  "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (-16350000, -27884727)  ! (-16.35mm, -27.88mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "GS200"
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (975000, -8225000)  ! (0.97mm, -8.22mm)
+.....HGT 1250000
+.....UNDER_HGT 0
+.....REF_DES "C012"
+.PROXIMITY
+..VIO_XY (-56099746, 10810050)  ! (-56.1mm, 10.81mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-56000000, 11300000)  ! (-56mm, 11.3mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (-56100000, -13000000)  ! (-56.1mm, -13mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "XM39"
+.PROXIMITY
+..VIO_XY (-53500000, 7000000)  ! (-53.5mm, 7mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-53000000, 7000000)  ! (-53mm, 7mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (-56100000, -13000000)  ! (-56.1mm, -13mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "XM39"
+.PROXIMITY
+..VIO_XY (-53500000, 1000000)  ! (-53.5mm, 1mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-53000000, 5500000)  ! (-53mm, 5.5mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (-56100000, -13000000)  ! (-56.1mm, -13mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "XM39"
+.PROXIMITY
+..VIO_XY (-53515508, -500000)  ! (-53.52mm, -0.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-53015508, -500000)  ! (-53.02mm, -0.5mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (-56100000, -13000000)  ! (-56.1mm, -13mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "XM39"
+.PROXIMITY
+..VIO_XY (-53500000, -12999746)  ! (-53.5mm, -13mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-53000000, -13500000)  ! (-53mm, -13.5mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (-56100000, -13000000)  ! (-56.1mm, -13mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "XM39"
+.PROXIMITY
+..VIO_XY (-53500000, 2120254)  ! (-53.5mm, 2.12mm)
+..CLEARANCE 200000  ! 0.2mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.2mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-53000000, 5500000)  ! (-53mm, 5.5mm)
+..OBJECT_2
+...OBJECT
+....PAD EDGE_CONN
+.....SIDE TOP
+.....NET "D-2"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 3.9x2.5"
+.....REF_DES "XM39"
+.....XY (-54540000, 4270000)  ! (-54.54mm, 4.27mm)
+.PROXIMITY
+..VIO_XY (-53500000, 1000000)  ! (-53.5mm, 1mm)
+..CLEARANCE 200000  ! 0.2mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.2mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-53000000, 5500000)  ! (-53mm, 5.5mm)
+..OBJECT_2
+...OBJECT
+....PAD EDGE_CONN
+.....SIDE TOP
+.....NET "D+2"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 3.9x2.5"
+.....REF_DES "XM39"
+.....XY (-54540000, -730000)  ! (-54.54mm, -0.73mm)
+.PROXIMITY
+..VIO_XY (-53515508, -500000)  ! (-53.52mm, -0.5mm)
+..CLEARANCE 200000  ! 0.2mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.2mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-53015508, -500000)  ! (-53.02mm, -0.5mm)
+..OBJECT_2
+...OBJECT
+....PAD EDGE_CONN
+.....SIDE TOP
+.....NET "D+2"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 3.9x2.5"
+.....REF_DES "XM39"
+.....XY (-54540000, -730000)  ! (-54.54mm, -0.73mm)
+.PROXIMITY
+..VIO_XY (-53506825, -3580254)  ! (-53.51mm, -3.58mm)
+..CLEARANCE 200000  ! 0.2mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.2mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-53015508, -500000)  ! (-53.02mm, -0.5mm)
+..OBJECT_2
+...OBJECT
+....PAD EDGE_CONN
+.....SIDE TOP
+.....NET "sw2"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 3.9x2.5"
+.....REF_DES "XM39"
+.....XY (-54540000, -5730000)  ! (-54.54mm, -5.73mm)
+.PROXIMITY
+..VIO_XY (-53500000, -7879746)  ! (-53.5mm, -7.88mm)
+..CLEARANCE 200000  ! 0.2mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.2mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-53000000, -13500000)  ! (-53mm, -13.5mm)
+..OBJECT_2
+...OBJECT
+....PAD EDGE_CONN
+.....SIDE TOP
+.....NET "sw2"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 3.9x2.5"
+.....REF_DES "XM39"
+.....XY (-54540000, -5730000)  ! (-54.54mm, -5.73mm)
+.PROXIMITY
+..VIO_XY (-53500000, -12879746)  ! (-53.5mm, -12.88mm)
+..CLEARANCE 200000  ! 0.2mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.2mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-53000000, -13500000)  ! (-53mm, -13.5mm)
+..OBJECT_2
+...OBJECT
+....PAD EDGE_CONN
+.....SIDE TOP
+.....NET "XSIG011521"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 3.9x2.5"
+.....REF_DES "XM39"
+.....XY (-54540000, -10730000)  ! (-54.54mm, -10.73mm)
+.PROXIMITY
+..VIO_XY (-53500000, 7820254)  ! (-53.5mm, 7.82mm)
+..CLEARANCE 200000  ! 0.2mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.2mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-53000000, 7000000)  ! (-53mm, 7mm)
+..OBJECT_2
+...OBJECT
+....PAD EDGE_CONN
+.....SIDE TOP
+.....NET "+5v-2"
+.....NETCLASS "(Default)"
+.....NAME "Square 2.5"
+.....REF_DES "XM39"
+.....XY (-54540000, 9270000)  ! (-54.54mm, 9.27mm)
+.PROXIMITY
+..VIO_XY (-16399746, -27650005)  ! (-16.4mm, -27.65mm)
+..CLEARANCE 50000  ! 0.05mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.05mm  "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (-34450000, -27650000)  ! (-34.45mm, -27.65mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (-16350000, -27884727)  ! (-16.35mm, -27.88mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "GS200"
+.PROXIMITY
+..VIO_XY (-56149746, 11299995)  ! (-56.15mm, 11.3mm)
+..CLEARANCE 50000  ! 0.05mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.05mm  "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (-52650000, 11300000)  ! (-52.65mm, 11.3mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (-56100000, -13000000)  ! (-56.1mm, -13mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "XM39"
+.PROXIMITY
+..VIO_XY (-20186024, 24570254)  ! (-20.19mm, 24.57mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-19850000, 24200000)  ! (-19.85mm, 24.2mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE BOTTOM
+.....XY (-43650000, 24570000)  ! (-43.65mm, 24.57mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "XM36"
+.PROXIMITY
+..VIO_XY (-20206822, 23349746)  ! (-20.21mm, 23.35mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-19850000, 24200000)  ! (-19.85mm, 24.2mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE BOTTOM
+.....XY (-43600000, 20400000)  ! (-43.6mm, 20.4mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "XM37"
+.PROXIMITY
+..VIO_XY (-56099746, 10810050)  ! (-56.1mm, 10.81mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-56000000, 11300000)  ! (-56mm, 11.3mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE BOTTOM
+.....XY (-56100000, -13070000)  ! (-56.1mm, -13.07mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "XM38"
+.PROXIMITY
+..VIO_XY (-56099746, -13069746)  ! (-56.1mm, -13.07mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-55950000, -13500000)  ! (-55.95mm, -13.5mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE BOTTOM
+.....XY (-56100000, -13070000)  ! (-56.1mm, -13.07mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "XM38"
+.PROXIMITY
+..VIO_XY (-53500000, 7000000)  ! (-53.5mm, 7mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-53000000, 7000000)  ! (-53mm, 7mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE BOTTOM
+.....XY (-56100000, -13070000)  ! (-56.1mm, -13.07mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "XM38"
+.PROXIMITY
+..VIO_XY (-53500000, 1000000)  ! (-53.5mm, 1mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-53000000, 5500000)  ! (-53mm, 5.5mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE BOTTOM
+.....XY (-56100000, -13070000)  ! (-56.1mm, -13.07mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "XM38"
+.PROXIMITY
+..VIO_XY (-53515508, -500000)  ! (-53.52mm, -0.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-53015508, -500000)  ! (-53.02mm, -0.5mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE BOTTOM
+.....XY (-56100000, -13070000)  ! (-56.1mm, -13.07mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "XM38"
+.PROXIMITY
+..VIO_XY (-53500000, -13069746)  ! (-53.5mm, -13.07mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-53000000, -13500000)  ! (-53mm, -13.5mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE BOTTOM
+.....XY (-56100000, -13070000)  ! (-56.1mm, -13.07mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "XM38"
+.PROXIMITY
+..VIO_XY (-28489496, 24700000)  ! (-28.49mm, 24.7mm)
+..CLEARANCE 200000  ! 0.2mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.2mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-43450000, 24200000)  ! (-43.45mm, 24.2mm)
+..OBJECT_2
+...OBJECT
+....PAD EDGE_CONN
+.....SIDE BOTTOM
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 3.9x2.5"
+.....REF_DES "XM36"
+.....XY (-26340000, 25960000)  ! (-26.34mm, 25.96mm)
+.PROXIMITY
+..VIO_XY (-33489496, 24700000)  ! (-33.49mm, 24.7mm)
+..CLEARANCE 200000  ! 0.2mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.2mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-43450000, 24200000)  ! (-43.45mm, 24.2mm)
+..OBJECT_2
+...OBJECT
+....PAD EDGE_CONN
+.....SIDE BOTTOM
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 3.9x2.5"
+.....REF_DES "XM36"
+.....XY (-31340000, 25960000)  ! (-31.34mm, 25.96mm)
+.PROXIMITY
+..VIO_XY (-38489496, 24700000)  ! (-38.49mm, 24.7mm)
+..CLEARANCE 200000  ! 0.2mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.2mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-43450000, 24200000)  ! (-43.45mm, 24.2mm)
+..OBJECT_2
+...OBJECT
+....PAD EDGE_CONN
+.....SIDE BOTTOM
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 3.9x2.5"
+.....REF_DES "XM36"
+.....XY (-36340000, 25960000)  ! (-36.34mm, 25.96mm)
+.PROXIMITY
+..VIO_XY (-43489411, 24698444)  ! (-43.49mm, 24.7mm)
+..CLEARANCE 200000  ! 0.2mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.2mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-43450000, 24200000)  ! (-43.45mm, 24.2mm)
+..OBJECT_2
+...OBJECT
+....PAD EDGE_CONN
+.....SIDE BOTTOM
+.....NET "GND"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 3.9x2.5"
+.....REF_DES "XM36"
+.....XY (-41340000, 25960000)  ! (-41.34mm, 25.96mm)
+.PROXIMITY
+..VIO_XY (-20242100, 24510254)  ! (-20.24mm, 24.51mm)
+..CLEARANCE 200000  ! 0.2mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.2mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-19850000, 24200000)  ! (-19.85mm, 24.2mm)
+..OBJECT_2
+...OBJECT
+....PAD EDGE_CONN
+.....SIDE BOTTOM
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "Square 2.5"
+.....REF_DES "XM36"
+.....XY (-21340000, 25960000)  ! (-21.34mm, 25.96mm)
+.PROXIMITY
+..VIO_XY (-28479746, 23200000)  ! (-28.48mm, 23.2mm)
+..CLEARANCE 200000  ! 0.2mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.2mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-19850000, 23700000)  ! (-19.85mm, 23.7mm)
+..OBJECT_2
+...OBJECT
+....PAD EDGE_CONN
+.....SIDE BOTTOM
+.....NET "D-1"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 3.9x2.5"
+.....REF_DES "XM37"
+.....XY (-26330000, 21960000)  ! (-26.33mm, 21.96mm)
+.PROXIMITY
+..VIO_XY (-33479746, 23200000)  ! (-33.48mm, 23.2mm)
+..CLEARANCE 200000  ! 0.2mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.2mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-19850000, 23700000)  ! (-19.85mm, 23.7mm)
+..OBJECT_2
+...OBJECT
+....PAD EDGE_CONN
+.....SIDE BOTTOM
+.....NET "D+1"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 3.9x2.5"
+.....REF_DES "XM37"
+.....XY (-31330000, 21960000)  ! (-31.33mm, 21.96mm)
+.PROXIMITY
+..VIO_XY (-38479746, 23200000)  ! (-38.48mm, 23.2mm)
+..CLEARANCE 200000  ! 0.2mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.2mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-19850000, 23700000)  ! (-19.85mm, 23.7mm)
+..OBJECT_2
+...OBJECT
+....PAD EDGE_CONN
+.....SIDE BOTTOM
+.....NET "sw"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 3.9x2.5"
+.....REF_DES "XM37"
+.....XY (-36330000, 21960000)  ! (-36.33mm, 21.96mm)
+.PROXIMITY
+..VIO_XY (-43479746, 23200886)  ! (-43.48mm, 23.2mm)
+..CLEARANCE 200000  ! 0.2mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.2mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-19850000, 23700000)  ! (-19.85mm, 23.7mm)
+..OBJECT_2
+...OBJECT
+....PAD EDGE_CONN
+.....SIDE BOTTOM
+.....NET "GND"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 3.9x2.5"
+.....REF_DES "XM37"
+.....XY (-41330000, 21960000)  ! (-41.33mm, 21.96mm)
+.PROXIMITY
+..VIO_XY (-20257127, 23409746)  ! (-20.26mm, 23.41mm)
+..CLEARANCE 200000  ! 0.2mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.2mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-19850000, 24200000)  ! (-19.85mm, 24.2mm)
+..OBJECT_2
+...OBJECT
+....PAD EDGE_CONN
+.....SIDE BOTTOM
+.....NET "+5v-1"
+.....NETCLASS "(Default)"
+.....NAME "Square 2.5"
+.....REF_DES "XM37"
+.....XY (-21330000, 21960000)  ! (-21.33mm, 21.96mm)
+.PROXIMITY
+..VIO_XY (-53500000, 2090254)  ! (-53.5mm, 2.09mm)
+..CLEARANCE 200000  ! 0.2mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.2mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-53000000, 5500000)  ! (-53mm, 5.5mm)
+..OBJECT_2
+...OBJECT
+....PAD EDGE_CONN
+.....SIDE BOTTOM
+.....NET "D-2"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 3.9x2.5"
+.....REF_DES "XM38"
+.....XY (-54540000, 4240000)  ! (-54.54mm, 4.24mm)
+.PROXIMITY
+..VIO_XY (-53500000, 1000000)  ! (-53.5mm, 1mm)
+..CLEARANCE 200000  ! 0.2mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.2mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-53000000, 5500000)  ! (-53mm, 5.5mm)
+..OBJECT_2
+...OBJECT
+....PAD EDGE_CONN
+.....SIDE BOTTOM
+.....NET "D+2"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 3.9x2.5"
+.....REF_DES "XM38"
+.....XY (-54540000, -760000)  ! (-54.54mm, -0.76mm)
+.PROXIMITY
+..VIO_XY (-53515508, -500000)  ! (-53.52mm, -0.5mm)
+..CLEARANCE 200000  ! 0.2mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.2mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-53015508, -500000)  ! (-53.02mm, -0.5mm)
+..OBJECT_2
+...OBJECT
+....PAD EDGE_CONN
+.....SIDE BOTTOM
+.....NET "D+2"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 3.9x2.5"
+.....REF_DES "XM38"
+.....XY (-54540000, -760000)  ! (-54.54mm, -0.76mm)
+.PROXIMITY
+..VIO_XY (-53506740, -3610254)  ! (-53.51mm, -3.61mm)
+..CLEARANCE 200000  ! 0.2mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.2mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-53015508, -500000)  ! (-53.02mm, -0.5mm)
+..OBJECT_2
+...OBJECT
+....PAD EDGE_CONN
+.....SIDE BOTTOM
+.....NET "sw2"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 3.9x2.5"
+.....REF_DES "XM38"
+.....XY (-54540000, -5760000)  ! (-54.54mm, -5.76mm)
+.PROXIMITY
+..VIO_XY (-53500000, -7909746)  ! (-53.5mm, -7.91mm)
+..CLEARANCE 200000  ! 0.2mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.2mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-53000000, -13500000)  ! (-53mm, -13.5mm)
+..OBJECT_2
+...OBJECT
+....PAD EDGE_CONN
+.....SIDE BOTTOM
+.....NET "sw2"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 3.9x2.5"
+.....REF_DES "XM38"
+.....XY (-54540000, -5760000)  ! (-54.54mm, -5.76mm)
+.PROXIMITY
+..VIO_XY (-53500000, -12909746)  ! (-53.5mm, -12.91mm)
+..CLEARANCE 200000  ! 0.2mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.2mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-53000000, -13500000)  ! (-53mm, -13.5mm)
+..OBJECT_2
+...OBJECT
+....PAD EDGE_CONN
+.....SIDE BOTTOM
+.....NET "XSIG011521"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 3.9x2.5"
+.....REF_DES "XM38"
+.....XY (-54540000, -10760000)  ! (-54.54mm, -10.76mm)
+.PROXIMITY
+..VIO_XY (-53500000, 7790254)  ! (-53.5mm, 7.79mm)
+..CLEARANCE 200000  ! 0.2mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.2mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ CONTOUR
+.....XY (-53000000, 7000000)  ! (-53mm, 7mm)
+..OBJECT_2
+...OBJECT
+....PAD EDGE_CONN
+.....SIDE BOTTOM
+.....NET "+5v-2"
+.....NETCLASS "(Default)"
+.....NAME "Square 2.5"
+.....REF_DES "XM38"
+.....XY (-54540000, 9240000)  ! (-54.54mm, 9.24mm)
+.PROXIMITY
+..VIO_XY (-56149746, 11299995)  ! (-56.15mm, 11.3mm)
+..CLEARANCE 50000  ! 0.05mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.05mm  "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (-52650000, 11300000)  ! (-52.65mm, 11.3mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE BOTTOM
+.....XY (-56100000, -13070000)  ! (-56.1mm, -13.07mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "XM38"
+.HANGER
+..XY (7545850, -26815534)
+..OBJECT
+...TRACE REGULAR
+....LYR 1
+....NET "+"
+....NETCLASS "(Default)"
+....XY (7545850, -26602354) (7545850, -26815534)

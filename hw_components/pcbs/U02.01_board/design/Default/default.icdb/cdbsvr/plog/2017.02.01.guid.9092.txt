@@ -1,0 +1,32 @@
+[2017.02.01 16:13:07] [0000m.12s.365ms] [0] WELCOME
+[2017.02.01 16:13:07] [0000m.12s.365ms] [1] iCDB Database ver.1.094, 6gd90oQ3k14LFbtGTR11Rg, build:689985 created 2015-09-22 09:52:52, sources stamp:6gd90oQ3k14LFbtGTR11Rg
+[2017.02.01 16:13:07] [0000m.12s.365ms] [1] Copyright 2015 Mentor Graphics Corporation. All Rights Reserved.
+[2017.02.01 16:13:07] [0000m.12s.365ms] [1] Base flow version [7.9.4]
+[2017.02.01 16:13:07] [0000m.12s.365ms] [1] GBS Install Id [30163], Flow Id [EE7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2017.02.01 16:13:07] [0000m.12s.365ms] [1] GBS Install Id [30120], Flow Id [EE 7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2017.02.01 16:13:07] [0000m.12s.365ms] [1] UPDATE Install Info, GBS Install Id [34984], UPDATE Name [Expedition Enterprise Flow - Update 5 for DC7.9.5]
+[2017.02.01 16:13:07] [0000m.12s.365ms] [1] UPDATE Install Info, GBS Install Id [45533], UPDATE Name [Expedition Enterprise Flow - Update 35 for EE7.9.5]
+[2017.02.01 16:13:07] [0000m.12s.365ms] [1] Machine [DUTENKOV-ой]  User [D.Utenkov]  PID [9092]
+[2017.02.01 16:13:07] [0000m.12s.365ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2017.02.01 16:13:07] [0000m.12s.365ms] [1] Current working dir [C:\Users\D.Utenkov\Desktop\Test_prj\PCB]
+[2017.02.01 16:13:07] [0000m.12s.365ms] [1] PATH [C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\xe\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\TortoiseSVN\bin;C:\CooCox\CoIDE_V2Beta\gcc\bin;C:\CooCox\CoIDE_V2Beta\bin;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files (x86)\Skype\Phone\;]
+[2017.02.01 16:13:07] [0000m.12s.365ms] [1] SDD_HOME [C:\MentorGraphics\7.9.5EE\SDD_HOME] on file system [NTFS]
+[2017.02.01 16:13:07] [0000m.12s.365ms] [1] SDD_PLATFORM [win32]
+[2017.02.01 16:13:07] [0000m.12s.365ms] [1] WDIR [C:\WDIR;C:\MentorGraphics\7.9.5EE\SDD_HOME\standard]
+[2017.02.01 16:13:07] [0000m.12s.365ms] [1] Local iCDB working dir [C:\WDIR\iCDB] on file system [NTFS]
+[2017.02.01 16:13:07] [0000m.12s.365ms] [3] WARNING: Database [C:\Users\D.Utenkov\Desktop\Test_prj\default\default.icdb\icdb.dat] was manually copied
+[2017.02.01 16:13:07] [0000m.12s.365ms] [3] File change time:        [2017-02-01 16.10.59]
+[2017.02.01 16:13:07] [0000m.12s.365ms] [3] File modification time:  [2017-02-01 16.10.38]
+[2017.02.01 16:13:07] [0000m.12s.365ms] [3] Last change time:        [2017-02-01 16.10.38]
+[2017.02.01 16:13:07] [0000m.12s.365ms] [3] Last database open information:
+[2017.02.01 16:13:07] [0000m.12s.365ms] [3] Time:             [2017-02-01 16.10.44]
+[2017.02.01 16:13:07] [0000m.12s.365ms] [3] Location:         [F:\repository\OU\045_SWC4\PCBs\0451706_SC_ARB_USB_LED\default\default.icdb\icdb.dat]
+[2017.02.01 16:13:07] [0000m.12s.365ms] [3] Machine:          [DUTENKOV-ой]
+[2017.02.01 16:13:07] [0000m.12s.365ms] [3] User:             [D.Utenkov]
+[2017.02.01 16:13:07] [0000m.12s.365ms] [3] PID:              [6560]
+[2017.02.01 16:13:07] [0000m.12s.365ms] [3] Application:      [iCDB Server]
+[2017.02.01 16:13:07] [0000m.12s.365ms] [3] Operating system: [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2017.02.01 16:13:07] [0000m.12s.365ms] [3] WARNING: Regenerating database GUID
+[2017.02.01 16:13:07] [0000m.12s.365ms] [3] Previous database GUID [81c1-0ccd-1f22-eaa1-7229-b07c-229b-0750-5c3e-dd1c-fcfc-7d2d]
+[2017.02.01 16:13:07] [0000m.12s.365ms] [3] Current database GUID  [89bd-73d0-cd54-b82e-3eed-1988-eed1-9850-07db-6d8f-ec7c-1d4d]
+[2017.02.01 16:13:07] [0000m.12s.365ms] [0] .

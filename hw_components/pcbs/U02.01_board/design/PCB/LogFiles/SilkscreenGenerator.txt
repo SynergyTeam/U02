@@ -1,0 +1,38 @@
+
+                              SILKSCREEN GENERATOR
+                              --------------------
+
+                        03:43 PM Tuesday, March 14, 2017
+               Job Name: X:\MG\projects\L02-0101\PCB\L02-0101.pcb
+
+
+    Silkscreen Side To Process           : BOTH
+
+    Process All Cell Types               : YES
+
+    Top Silkscreen For Selected Cells    : Silkscreen Reference Designator Top
+                                         : Silkscreen Outline Top
+
+    Bottom Silkscreen For Selected Cells : Silkscreen Reference Designator Bottom
+                                         : Silkscreen Outline Bottom
+
+    Break Silkscreen Using               : Soldermask Pads
+
+    Break Graphics Pad Clearance         : 0.05mm
+
+    Break Graphics Via Clearance         : 0.1mm
+
+    Break Text Pad Clearance             : NA
+
+    Break Text Via Clearance             : NA
+
+    Broken Graphics Line Width           : 0.1mm
+
+    Broken Text Line Width               : 0.1mm
+    
+
+
+    TOP Silkscreen Data Created Successfully (1202 Geometries).
+
+
+    BOTTOM Silkscreen Data Created Successfully (415 Geometries).

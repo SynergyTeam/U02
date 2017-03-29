@@ -1,0 +1,10 @@
+//Header
+Symbol_name="RC0805JR-0747KL"
+Symbol_shape=""
+Symbol_text="SMD resistor 0805 5% "
+Body_glyph=
+
+//Number,Name,Label,Type,Direction,Polarity,Pin_Graphic,Position,Gate,Slot,PinSwapId
+//
+1,1,,undefined,undefined,undefined,,left,gate,1,11
+2,2,,undefined,undefined,undefined,,right,gate,1,12

@@ -1,0 +1,50 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version 2014.0.638.135
+=======================================================================
+
+RESET CELL
+
+Job Directory:  F:\repository\OU\045_SWC4\PCBs\0451705_SC\PCB\
+
+
+Design Units:(mm)
+
+Replace Cell Log:   repCellLog04.txt
+
+Thu Dec 31 10:07:56 2015
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RESET CELL  Thu Dec 31 10:07:57 2015  ---------------
+
+
+C511                            TH_Radial_cap_D22.5V              TH_Radial_cap_D22.5V            
+
+
+---------------    Thu Dec 31 10:07:57 2015  ---------------
+
+
+
+
+---------------  RESET CELL  Thu Dec 31 10:08:00 2015  ---------------
+
+
+C511                            TH_Radial_cap_D22.5V              TH_Radial_cap_D22.5V            
+
+
+---------------    Thu Dec 31 10:08:00 2015  ---------------
+
+
+
+
+---------------  RESET CELL  Thu Dec 31 10:08:11 2015  ---------------
+
+
+C510                            TH_Radial_cap_D22.5V              TH_Radial_cap_D22.5V            
+
+
+---------------    Thu Dec 31 10:08:11 2015  ---------------
+
+

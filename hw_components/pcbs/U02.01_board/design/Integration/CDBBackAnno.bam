@@ -1,0 +1,13 @@
+
+/* Sym: 109652064  Path 1: 000_main  Page 1: 000_main(1) */
+CHANGE '000_main(1)' 	INSTANCE
+  SELECT COMP XCMP505                 /* Reference Desig is R012 */
+    PARAM 'Part Name' = 'RSM_0805_51K_5%' 
+    PARAM 'Value' = '51K' 
+    PARAM 'Description' = 'SMD resistor 0805 5% ' 
+    PARAM 'Part Label' = ' ' 
+    PARAM 'Model Suffix' = '0805' 
+    PARAM 'MFG' = 'Yageo' 
+    PARAM 'AmtSMDPin' = '2' 
+    PARAM 'AmtTHPin' = '0' 
+    PIN_PARAM '1' 4 = '1'                /* was:  */

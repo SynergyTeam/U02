@@ -1,0 +1,94 @@
+[2015.06.26 09:15:56] [0000m.00s.478ms] [0] WELCOME
+[2015.06.26 09:15:56] [0000m.00s.479ms] [1] iCDB Diagnostic ver.1.094, Q8/qRGZ6TkAm41ha2aY19Q, build:591687 created 2013-12-13 12:45:14, sources stamp:Q8/qRGZ6TkAm41ha2aY19Q
+[2015.06.26 09:15:56] [0000m.00s.479ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2015.06.26 09:15:56] [0000m.00s.480ms] [1] Base flow version [7.9.4]
+[2015.06.26 09:15:56] [0000m.00s.480ms] [1] GBS Install Id [30163], Flow Id [EE7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2015.06.26 09:15:56] [0000m.00s.480ms] [1] UPDATE Install Info, GBS Install Id [40692], UPDATE Name [Expedition Enterprise Flow - Update 23 for EE7.9.5]
+[2015.06.26 09:15:56] [0000m.00s.480ms] [1] GBS Install Id [30120], Flow Id [EE 7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2015.06.26 09:15:56] [0000m.00s.480ms] [1] UPDATE Install Info, GBS Install Id [34984], UPDATE Name [Expedition Enterprise Flow - Update 5 for DC7.9.5]
+[2015.06.26 09:15:56] [0000m.00s.480ms] [1] Machine [NOTEBOOKA10]  User [Сергей]  PID [392]
+[2015.06.26 09:15:56] [0000m.00s.480ms] [1] Operating system [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2015.06.26 09:15:56] [0000m.00s.480ms] [1] Current working dir [E:\Mentor_proj\0451704_SC]
+[2015.06.26 09:15:56] [0000m.00s.480ms] [1] PATH [C:\mentorgraphics\7.9.5EE\SDD_HOME\wg\help;C:\mentorgraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\mentorgraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\mentorgraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\mentorgraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;C:\Program Files (x86)\Skype\Phone\;]
+[2015.06.26 09:15:56] [0000m.00s.481ms] [1] SDD_HOME [C:\mentorgraphics\7.9.5EE\SDD_HOME] on file system [NTFS]
+[2015.06.26 09:15:56] [0000m.00s.481ms] [1] SDD_PLATFORM [win32]
+[2015.06.26 09:15:56] [0000m.00s.481ms] [1] WDIR [C:\temp;C:\mentorgraphics\7.9.5EE\SDD_HOME\standard]
+[2015.06.26 09:15:56] [0000m.00s.481ms] [1] Local iCDB working dir [C:\temp\iCDB] on file system [NTFS]
+[2015.06.26 09:15:56] [0000m.00s.511ms] [2] Diagnostic: Snapshot: DCDV
+[2015.06.26 09:15:56] [0000m.00s.521ms] [2] Diagnostic: SnapshotCheck: CDBImplBlock
+[2015.06.26 09:15:56] [0000m.00s.521ms] [2] Diagnostic: SnapshotCheck: CDBImplComp
+[2015.06.26 09:15:56] [0000m.00s.539ms] [2] Diagnostic: SnapshotCheck: CDBImplGroup
+[2015.06.26 09:15:56] [0000m.00s.539ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (regular)
+[2015.06.26 09:15:56] [0000m.00s.539ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (regular)
+[2015.06.26 09:15:56] [0000m.00s.539ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (cached)
+[2015.06.26 09:15:56] [0000m.00s.539ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (cached)
+[2015.06.26 09:15:56] [0000m.00s.546ms] [2] Diagnostic: Block: 000_TopLevel
+[2015.06.26 09:15:56] [0000m.00s.553ms] [2] Diagnostic: BlockCheck: CDBImplNet
+[2015.06.26 09:15:56] [0000m.00s.564ms] [2] Diagnostic: BlockCheck: CDBImplBus
+[2015.06.26 09:15:56] [0000m.00s.564ms] [2] Diagnostic: BlockCheck: CDBImplPin
+[2015.06.26 09:15:56] [0000m.00s.564ms] [2] Diagnostic: BlockCheck: CDBImplPort
+[2015.06.26 09:15:56] [0000m.00s.571ms] [2] Diagnostic: BlockCheck: CDBImplComp
+[2015.06.26 09:15:56] [0000m.00s.571ms] [2] Diagnostic: BlockCheck: AttributesUtility
+[2015.06.26 09:15:56] [0000m.00s.572ms] [2] Diagnostic: ConfigCheck: CDBImplComp
+[2015.06.26 09:15:56] [0000m.00s.572ms] [2] Diagnostic: ConfigCheck: CDBImplNet
+[2015.06.26 09:15:56] [0000m.00s.572ms] [2] Diagnostic: ConfigCheck: CDBImplPin
+[2015.06.26 09:15:56] [0000m.00s.572ms] [2] Diagnostic: Snapshot: DCDV check finished.
+[2015.06.26 09:15:56] [0000m.00s.590ms] [2] Diagnostic: Snapshot: PCB_Layout_Temp
+[2015.06.26 09:15:56] [0000m.00s.590ms] [2] Diagnostic: SnapshotCheck: CDBImplBlock
+[2015.06.26 09:15:56] [0000m.00s.590ms] [2] Diagnostic: SnapshotCheck: CDBImplComp
+[2015.06.26 09:15:56] [0000m.00s.591ms] [2] Diagnostic: SnapshotCheck: CDBImplGroup
+[2015.06.26 09:15:56] [0000m.00s.591ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (regular)
+[2015.06.26 09:15:56] [0000m.00s.592ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (regular)
+[2015.06.26 09:15:56] [0000m.00s.592ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (cached)
+[2015.06.26 09:15:56] [0000m.00s.592ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (cached)
+[2015.06.26 09:15:56] [0000m.00s.592ms] [2] Diagnostic: Block: 000_TopLevel
+[2015.06.26 09:15:56] [0000m.00s.592ms] [2] Diagnostic: BlockCheck: CDBImplNet
+[2015.06.26 09:15:56] [0000m.00s.592ms] [2] Diagnostic: BlockCheck: CDBImplBus
+[2015.06.26 09:15:56] [0000m.00s.592ms] [2] Diagnostic: BlockCheck: CDBImplPin
+[2015.06.26 09:15:56] [0000m.00s.592ms] [2] Diagnostic: BlockCheck: CDBImplPort
+[2015.06.26 09:15:56] [0000m.00s.592ms] [2] Diagnostic: BlockCheck: CDBImplComp
+[2015.06.26 09:15:56] [0000m.00s.593ms] [2] Diagnostic: BlockCheck: AttributesUtility
+[2015.06.26 09:15:56] [0000m.00s.593ms] [2] Diagnostic: ConfigCheck: CDBImplComp
+[2015.06.26 09:15:56] [0000m.00s.593ms] [2] Diagnostic: ConfigCheck: CDBImplNet
+[2015.06.26 09:15:56] [0000m.00s.593ms] [2] Diagnostic: ConfigCheck: CDBImplPin
+[2015.06.26 09:15:56] [0000m.00s.593ms] [2] Diagnostic: Snapshot: PCB_Layout_Temp check finished.
+[2015.06.26 09:15:56] [0000m.00s.608ms] [2] Diagnostic: Snapshot: PCB
+[2015.06.26 09:15:56] [0000m.00s.608ms] [2] Diagnostic: SnapshotCheck: CDBImplBlock
+[2015.06.26 09:15:56] [0000m.00s.608ms] [2] Diagnostic: SnapshotCheck: CDBImplComp
+[2015.06.26 09:15:56] [0000m.00s.608ms] [2] Diagnostic: SnapshotCheck: CDBImplGroup
+[2015.06.26 09:15:56] [0000m.00s.608ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (regular)
+[2015.06.26 09:15:56] [0000m.00s.609ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (regular)
+[2015.06.26 09:15:56] [0000m.00s.609ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (cached)
+[2015.06.26 09:15:56] [0000m.00s.609ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (cached)
+[2015.06.26 09:15:56] [0000m.00s.609ms] [2] Diagnostic: Block: 000_TopLevel
+[2015.06.26 09:15:56] [0000m.00s.609ms] [2] Diagnostic: BlockCheck: CDBImplNet
+[2015.06.26 09:15:56] [0000m.00s.609ms] [2] Diagnostic: BlockCheck: CDBImplBus
+[2015.06.26 09:15:56] [0000m.00s.609ms] [2] Diagnostic: BlockCheck: CDBImplPin
+[2015.06.26 09:15:56] [0000m.00s.609ms] [2] Diagnostic: BlockCheck: CDBImplPort
+[2015.06.26 09:15:56] [0000m.00s.609ms] [2] Diagnostic: BlockCheck: CDBImplComp
+[2015.06.26 09:15:56] [0000m.00s.609ms] [2] Diagnostic: BlockCheck: AttributesUtility
+[2015.06.26 09:15:56] [0000m.00s.609ms] [2] Diagnostic: ConfigCheck: CDBImplComp
+[2015.06.26 09:15:56] [0000m.00s.609ms] [2] Diagnostic: ConfigCheck: CDBImplNet
+[2015.06.26 09:15:56] [0000m.00s.609ms] [2] Diagnostic: ConfigCheck: CDBImplPin
+[2015.06.26 09:15:56] [0000m.00s.609ms] [2] Diagnostic: Snapshot: PCB check finished.
+[2015.06.26 09:15:56] [0000m.00s.617ms] [2] Diagnostic: Snapshot: RefSync
+[2015.06.26 09:15:56] [0000m.00s.617ms] [2] Diagnostic: SnapshotCheck: CDBImplBlock
+[2015.06.26 09:15:56] [0000m.00s.617ms] [2] Diagnostic: SnapshotCheck: CDBImplComp
+[2015.06.26 09:15:56] [0000m.00s.618ms] [2] Diagnostic: SnapshotCheck: CDBImplGroup
+[2015.06.26 09:15:56] [0000m.00s.618ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (regular)
+[2015.06.26 09:15:56] [0000m.00s.618ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (regular)
+[2015.06.26 09:15:56] [0000m.00s.618ms] [2] Diagnostic: SnapshotCheck: CDBImplPin (cached)
+[2015.06.26 09:15:56] [0000m.00s.618ms] [2] Diagnostic: SnapshotCheck: AttributesUtility (cached)
+[2015.06.26 09:15:56] [0000m.00s.618ms] [2] Diagnostic: Block: 000_TopLevel
+[2015.06.26 09:15:56] [0000m.00s.618ms] [2] Diagnostic: BlockCheck: CDBImplNet
+[2015.06.26 09:15:56] [0000m.00s.618ms] [2] Diagnostic: BlockCheck: CDBImplBus
+[2015.06.26 09:15:56] [0000m.00s.618ms] [2] Diagnostic: BlockCheck: CDBImplPin
+[2015.06.26 09:15:56] [0000m.00s.618ms] [2] Diagnostic: BlockCheck: CDBImplPort
+[2015.06.26 09:15:56] [0000m.00s.618ms] [2] Diagnostic: BlockCheck: CDBImplComp
+[2015.06.26 09:15:56] [0000m.00s.618ms] [2] Diagnostic: BlockCheck: AttributesUtility
+[2015.06.26 09:15:56] [0000m.00s.618ms] [2] Diagnostic: ConfigCheck: CDBImplComp
+[2015.06.26 09:15:56] [0000m.00s.618ms] [2] Diagnostic: ConfigCheck: CDBImplNet
+[2015.06.26 09:15:56] [0000m.00s.619ms] [2] Diagnostic: ConfigCheck: CDBImplPin
+[2015.06.26 09:15:56] [0000m.00s.619ms] [2] Diagnostic: Snapshot: RefSync check finished.
+[2015.06.26 09:15:56] [0000m.00s.622ms] [0] Diagnostic: FINISH
+[2015.06.26 09:15:56] [0000m.00s.622ms] [0] .

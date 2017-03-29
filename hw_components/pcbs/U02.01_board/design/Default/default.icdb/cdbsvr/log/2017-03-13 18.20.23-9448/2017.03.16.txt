@@ -1,0 +1,34 @@
+[2017.03.16 10:04:25] [3824m.02s.390ms] [1] SC[1510]: UnRegistered sub-client [ExpeditionCrossProber] with ID [2] for session ID [1510] host [DESKTOP-LPE9H33] user [User] process ID [7448]
+[2017.03.16 10:04:26] [3824m.03s.055ms] [1] SC[1510]: UnRegistered sub-client [Expedition PCB_7809546] with ID [1] for session ID [1510] host [DESKTOP-LPE9H33] user [User] process ID [7448]
+[2017.03.16 10:04:26] [3824m.03s.080ms] [1] CMT: Removed client [1510]
+[2017.03.16 10:04:26] [3824m.03s.080ms] [1] CMT: There are [1] clients now: 1530
+[2017.03.16 10:04:29] [3824m.06s.602ms] [1] SC[1530]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1530] host [DESKTOP-LPE9H33] user [User] process ID [5048]
+[2017.03.16 10:04:29] [3824m.06s.705ms] [1] CMT: Removed client [1530]
+[2017.03.16 10:04:29] [3824m.06s.706ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2017.03.16 10:04:31] [3824m.08s.011ms] [0] CMT: Starting server auto-close
+[2017.03.16 10:04:31] [3824m.08s.070ms] [0] S: Closing server
+[2017.03.16 10:04:31] [3824m.08s.126ms] [0] iCDB Server PI: Closing plugins
+[2017.03.16 10:04:31] [3824m.08s.127ms] [0] iCDB Server PI: Plugins closed
+[2017.03.16 10:04:31] [3824m.08s.127ms] [0] iCDB Server PI: Unloading database
+[2017.03.16 10:04:31] [3824m.08s.127ms] [0] iCDB Server PI: Saving storage
+[2017.03.16 10:04:31] [3824m.08s.127ms] [0] iCDB Server PI: Closing database
+[2017.03.16 10:04:31] [3824m.08s.219ms] [1] iCDB Server PI: Stats: Database defragmentation: max[3] avg[1] holes[23%] data[88%]
+[2017.03.16 10:04:31] [3824m.08s.219ms] [1] iCDB Server PI: Stats: Database file size [197928 (193.3 kB)]
+[2017.03.16 10:04:31] [3824m.08s.294ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2017.03.16 10:04:31] [3824m.08s.305ms] [0] iCDB Server PI: Database closed
+[2017.03.16 10:04:31] [3824m.08s.305ms] [0] iCDB Server PI: Defragmenting database
+[2017.03.16 10:04:31] [3824m.08s.307ms] [0] iCDB Server PI: Creating database [X:\MG\projects\L02-0101\default\default.icdb] backup to file [X:\MG\projects\L02-0101\default\default.icdb\cdbback\2017-03-16 10.04.31-9448-d.zip]
+[2017.03.16 10:04:31] [3824m.08s.813ms] [0] iCDB Server PI: Database backup: DONE
+[2017.03.16 10:04:32] [3824m.09s.079ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.03.16 10:04:32] [3824m.09s.080ms] [0] Database GUARD OK: [197928]
+[2017.03.16 10:04:32] [3824m.09s.080ms] [0] SingleFile: [d6de-c2d2-e05e-cd27] SFI version check [1009] [1009]
+[2017.03.16 10:04:32] [3824m.09s.083ms] [0] SingleFile: [d6de-c2d2-e05e-cd27] Database SFI header has been read in [3ms 126us]
+[2017.03.16 10:04:32] [3824m.09s.378ms] [1] iCDB Server PI: Stats: Database file sizes: before[197928 (193.3 kB)], after[127920 (124.9 kB)], gain[70008 (68.4 kB)]
+[2017.03.16 10:04:32] [3824m.09s.460ms] [0] Single file [X:\MG\projects\L02-0101\default\default.icdb\icdb.dat] closed with size [127920 (124.9 kB)]
+[2017.03.16 10:04:32] [3824m.09s.461ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2017.03.16 10:04:32] [3824m.09s.461ms] [1] BackupTransaction: Removing database backup [X:\MG\projects\L02-0101\default\default.icdb\cdbback\2017-03-16 10.04.31-9448-d.zip]
+[2017.03.16 10:04:32] [3824m.09s.463ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [269324] ticks
+[2017.03.16 10:04:32] [3824m.09s.463ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [86399] microseconds
+[2017.03.16 10:04:32] [3824m.09s.463ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [302]
+[2017.03.16 10:04:32] [3824m.09s.463ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [3495] commands per second
+[2017.03.16 10:04:32] [3824m.09s.677ms] [0] S: STOP

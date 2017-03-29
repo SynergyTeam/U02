@@ -1,0 +1,38 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version 2014.0.638.135
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  X:\MG\projects\us001\PCB\
+
+
+Design Units:(mm)
+
+Replace Cell Log:   repCellLog25.txt
+
+Mon Feb 13 15:23:26 2017
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Mon Feb 13 15:23:26 2017  ---------------
+
+
+
+
+---------------  RELOAD CELLS TMP  Mon Feb 13 15:23:26 2017  ---------------
+
+
+GS300                           MQ4_GAS_SENSOR                    MQ4_GAS_SENSOR                  
+
+
+---------------    Mon Feb 13 15:23:26 2017  ---------------
+
+
+
+
+---------------    Mon Feb 13 15:23:26 2017  ---------------
+
+

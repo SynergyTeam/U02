@@ -1,0 +1,76 @@
+[2017.03.11 19:39:48] [0000m.00s.045ms] [0] WELCOME
+[2017.03.11 19:39:48] [0000m.00s.046ms] [1] iCDB Server ver.1.094, Q8/qRGZ6TkAm41ha2aY19Q, build:591687 created 2013-12-13 12:45:14, sources stamp:Q8/qRGZ6TkAm41ha2aY19Q
+[2017.03.11 19:39:48] [0000m.00s.046ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2017.03.11 19:39:48] [0000m.00s.046ms] [1] Base flow version [7.9.4]
+[2017.03.11 19:39:48] [0000m.00s.046ms] [1] GBS Install Id [30163], Flow Id [EE7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2017.03.11 19:39:48] [0000m.00s.046ms] [1] UPDATE Install Info, GBS Install Id [40692], UPDATE Name [Expedition Enterprise Flow - Update 23 for EE7.9.5]
+[2017.03.11 19:39:48] [0000m.00s.047ms] [1] GBS Install Id [30120], Flow Id [EE 7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2017.03.11 19:39:48] [0000m.00s.047ms] [1] UPDATE Install Info, GBS Install Id [34984], UPDATE Name [Expedition Enterprise Flow - Update 5 for DC7.9.5]
+[2017.03.11 19:39:48] [0000m.00s.047ms] [1] Machine [DESKTOP-LPE9H33]  User [User]  PID [9316]
+[2017.03.11 19:39:48] [0000m.00s.047ms] [1] Operating system [Microsoft Business Edition, 64-bit (build 9200)]
+[2017.03.11 19:39:48] [0000m.00s.047ms] [1] Current working dir [X:\MG\projects\L02-0101\PCB]
+[2017.03.11 19:39:48] [0000m.00s.047ms] [1] PATH [C:\mentorgraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\mentorgraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\mentorgraphics\7.9.5EE\SDD_HOME\xe\win32\lib;C:\mentorgraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\mentorgraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\mentorgraphics\7.9.5EE\SDD_HOME\wg\win32\lib;C:\mentorgraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\mentorgraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\mentorgraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\mentorgraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\Program Files (x86)\Skype\Phone\;C:\Users\User\AppData\Local\Microsoft\WindowsApps;;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib]
+[2017.03.11 19:39:48] [0000m.00s.047ms] [1] SDD_HOME [C:\mentorgraphics\7.9.5EE\SDD_HOME] on file system [NTFS]
+[2017.03.11 19:39:48] [0000m.00s.047ms] [1] SDD_PLATFORM [win32]
+[2017.03.11 19:39:48] [0000m.00s.047ms] [1] WDIR [C:\WDIR;C:\mentorgraphics\7.9.5EE\SDD_HOME\standard]
+[2017.03.11 19:39:48] [0000m.00s.047ms] [1] Local iCDB working dir [C:\WDIR\iCDB] on file system [NTFS]
+[2017.03.11 19:39:48] [0000m.00s.047ms] [1] S: Config file name [ServerWG.cfg]
+[2017.03.11 19:39:48] [0000m.00s.047ms] [2] S: Loading config files
+[2017.03.11 19:39:48] [0000m.00s.050ms] [1] Config file [X:\MG\projects\L02-0101\default\default.icdb\cdbsvr\ServerWG.cfg] not found
+[2017.03.11 19:39:48] [0000m.00s.050ms] [1] Config: Non-default value [System.SingleUserMode] = [no]
+[2017.03.11 19:39:48] [0000m.00s.051ms] [3] S: Config loaded
+[2017.03.11 19:39:48] [0000m.00s.055ms] [0] S: Project path [X:\MG\projects\L02-0101\default\default.icdb] on file system [NTFS]
+[2017.03.11 19:39:48] [0000m.00s.055ms] [0] S: Project file (.prj) path [X:\MG\projects\L02-0101\L02-0101.prj] on file system [NTFS]
+[2017.03.11 19:39:48] [0000m.00s.055ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2017.03.11 19:39:48] [0000m.00s.055ms] [0] S: Multi-user mode (config)
+[2017.03.11 19:39:48] [0000m.00s.055ms] [0] S: Event polling mode autodetection
+[2017.03.11 19:39:48] [0000m.00s.062ms] [0] S: Started up automatically by iCDB Client: DESKTOP-LPE9H33:User:5224
+[2017.03.11 19:39:48] [0000m.00s.062ms] [0] S: Auto close mode
+[2017.03.11 19:39:48] [0000m.00s.062ms] [0] S: Database ID [d994-4355-4a5a-433e-7a35-2c8c-a352-c850-9205-63f0-f2a1-c1a8]
+[2017.03.11 19:39:48] [0000m.00s.062ms] [0] PathTranslator: BEGIN dumping
+[2017.03.11 19:39:48] [0000m.00s.062ms] [0] PathTranslator: Local -> global path prefix list
+[2017.03.11 19:39:48] [0000m.00s.062ms] [0] PathTranslator: Global -> local path prefix list
+[2017.03.11 19:39:48] [0000m.00s.062ms] [0] PathTranslator: END dumping
+[2017.03.11 19:39:48] [0000m.00s.062ms] [0] S: START
+[2017.03.11 19:39:48] [0000m.00s.062ms] [0] S: Server startup lock file created
+[2017.03.11 19:39:48] [0000m.00s.063ms] [0] S: Listening for client connections on port [10000]
+[2017.03.11 19:39:48] [0000m.00s.065ms] [0] S: Server network ID [DESKTOP-LPE9H33:192.168.204.130,DESKTOP-LPE9H33:10000]
+[2017.03.11 19:39:48] [0000m.00s.065ms] [0] S: Server GUID [acc2-e674-7003-6b5d-4582-4c89-5824-c850-5374-63f0-f2a1-c1a8]
+[2017.03.11 19:39:48] [0000m.00s.065ms] [0] S: Project GUID [d994-4355-4a5a-433e-7a35-2c8c-a352-c850-9205-63f0-f2a1-c1a8]
+[2017.03.11 19:39:48] [0000m.00s.066ms] [0] S: Wrote data to server address file
+[2017.03.11 19:39:48] [0000m.00s.066ms] [0] S: Server startup lock file removed
+[2017.03.11 19:39:48] [0000m.00s.066ms] [1] ProjectBackupManager: Setting project file (.prj) path: [X:\MG\projects\L02-0101\L02-0101.prj]
+[2017.03.11 19:39:48] [0000m.00s.099ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2017.03.11 19:39:48] [0000m.00s.099ms] [0] S: Local disc access time: 42 us
+[2017.03.11 19:39:48] [0000m.00s.099ms] [0] S: File server access time: 42 us
+[2017.03.11 19:39:48] [0000m.00s.100ms] [0] Single file [X:\MG\projects\L02-0101\default\default.icdb\icdb.dat] size [155272 (151.6 kB)]
+[2017.03.11 19:39:48] [0000m.00s.100ms] [1] Single file [X:\MG\projects\L02-0101\default\default.icdb\icdb.dat] opened in read-write mode
+[2017.03.11 19:39:48] [0000m.00s.100ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.03.11 19:39:48] [0000m.00s.100ms] [0] Database GUARD OK: [155272]
+[2017.03.11 19:39:48] [0000m.00s.101ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.03.11 19:39:48] [0000m.00s.101ms] [0] Database GUARD OK: [155272]
+[2017.03.11 19:39:48] [0000m.00s.101ms] [0] SingleFile: [d6de-c2d2-e05e-cd27] SFI version check [1009] [1009]
+[2017.03.11 19:39:48] [0000m.00s.103ms] [0] SingleFile: [d6de-c2d2-e05e-cd27] Database SFI header has been read in [2ms 422us]
+[2017.03.11 19:39:48] [0000m.00s.105ms] [0] iCDB Server PI: Server & plugin session [1443]
+[2017.03.11 19:39:48] [0000m.00s.105ms] [0] iCDB Server PI: Opening database [X:\MG\projects\L02-0101\default\default.icdb]
+[2017.03.11 19:39:48] [0000m.00s.105ms] [0] iCDB Server PI: Database [X:\MG\projects\L02-0101\default\default.icdb] opened
+[2017.03.11 19:39:48] [0000m.00s.118ms] [0] iCDB Database: Checking existence of constraint definitions
+[2017.03.11 19:39:48] [0000m.00s.118ms] [0] iCDB Database: Checking constraint definitions version
+[2017.03.11 19:39:48] [0000m.00s.148ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.24;user.cns=1d5b-f9b1-6358-ad06-f0fb-d984-1fbd-9850-14e4-63f0-f2a1-c1a8] up to date
+[2017.03.11 19:39:48] [0000m.00s.268ms] [0] iCDB Server PI: Initializing plugins
+[2017.03.11 19:39:48] [0000m.00s.268ms] [0] iCDB Server PI: Plugins initialized
+[2017.03.11 19:39:48] [0000m.00s.268ms] [0] S: iCDB database loaded
+[2017.03.11 19:39:48] [0000m.00s.269ms] [0] S: Starting threads
+[2017.03.11 19:39:48] [0000m.00s.270ms] [0] BT: Listening for broadcast messages on port [10000]
+[2017.03.11 19:39:48] [0000m.00s.272ms] [0] IT: Session [1444] for host [DESKTOP-LPE9H33] user [User] with process ID [5224] created
+[2017.03.11 19:39:48] [0000m.00s.272ms] [1] SCL: WARNING: Could not find client [1444] stat data
+[2017.03.11 19:39:48] [0000m.00s.272ms] [1] CMT: There are [1] clients now: 1444
+[2017.03.11 19:39:48] [0000m.00s.273ms] [1] SC[1444]: Registered sub-client [Expedition PCB_101083140] with ID [1] for session ID [1444] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.11 19:39:49] [0000m.00s.410ms] [1] SC[1444]: Registered sub-client [EEVM] with ID [2] for session ID [1444] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.11 19:39:49] [0000m.00s.906ms] [1] SC[1444]: UnRegistered sub-client [EEVM] with ID [2] for session ID [1444] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.11 19:39:50] [0000m.01s.527ms] [1] SC[1444]: Registered sub-client [ExpeditionCrossProber] with ID [3] for session ID [1444] host [DESKTOP-LPE9H33] user [User] process ID [5224]
+[2017.03.11 19:40:27] [0000m.39s.229ms] [0] DFAMT: File server access time: 192 us
+[2017.03.11 23:21:22] [0221m.33s.691ms] [1] PrjBackupMgr: Successfully created Project Backup [X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-11 23.21.21 - auto.zip] with GUID [8e18-0356-ef0d-9d93-14c5-4c86-4c54-c850-1a53-63f0-f2a1-c1a8]
+[2017.03.11 23:21:22] [0221m.33s.692ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[447c-c868-9939-0185-28b8-2c87-8b82-c850-54b3-63f0-f2a1-c1a8] CreationTime[Friday, March 10, 2017 11:18:26] Type[Autosave] Creator[iCDB Server (2017-03-10 10.20.33-1952)] ApplicationName[iCDB Server (2017-03-10 10.20.33-1952)] UserName[User] MachineName[DESKTOP-LPE9H33] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 23 for EE7.9.5; Expedition Enterprise Flow; Expedition Enterprise Flow - Update 5 for DC7.9.5] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 40692; 30120; 34984] GBSBuildId[591687] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-10 14.18.26 - auto.zip] BackupFileSize[6242268] Persistent[FALSE]
+[2017.03.11 23:21:22] [0221m.33s.698ms] [0] PrjBackupMgr: Project Backup file [X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-10 14.18.26 - auto.zip] with GUID [447c-c868-9939-0185-28b8-2c87-8b82-c850-54b3-63f0-f2a1-c1a8] removed
+[2017.03.11 23:21:22] [0221m.33s.699ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[8e18-0356-ef0d-9d93-14c5-4c86-4c54-c850-1a53-63f0-f2a1-c1a8] CreationTime[Saturday, March 11, 2017 20:21:21] Type[Autosave] Creator[iCDB Server (2017-03-11 19.39.48-9316)] ApplicationName[iCDB Server (2017-03-11 19.39.48-9316)] UserName[User] MachineName[DESKTOP-LPE9H33] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 23 for EE7.9.5; Expedition Enterprise Flow; Expedition Enterprise Flow - Update 5 for DC7.9.5] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 40692; 30120; 34984] GBSBuildId[591687] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-11 23.21.21 - auto.zip] BackupFileSize[6236172] Persistent[FALSE]

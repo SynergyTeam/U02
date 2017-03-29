@@ -1,0 +1,12 @@
+//Header
+Symbol_name="0532-26MHz"
+Symbol_shape=""
+Symbol_text="SMD 5x3.2 mm Crystal"
+Body_glyph=
+
+//Number,Name,Label,Type,Direction,Polarity,Pin_Graphic,Position,Gate,Slot,PinSwapId
+//
+1,1,,undefined,undefined,undefined,,left,,,
+2,No Connect,,unconnected,undefined,undefined,,undefined,,,
+3,2,,undefined,undefined,undefined,,right,,,
+4,No Connect,,unconnected,undefined,undefined,,undefined,,,

@@ -1,0 +1,14 @@
+$symbol Crystal
+  Tolerance	"%"
+  Part Number	""
+  Part Name	""
+  Ref Designator	""
+  Value	""
+  222	"alws"
+  Model Suffix	""
+    $pin
+       PIN_NO   "1"
+       PIN_NAME    "1"
+    $pin
+       PIN_NO   "2"
+       PIN_NAME    "No Connect"

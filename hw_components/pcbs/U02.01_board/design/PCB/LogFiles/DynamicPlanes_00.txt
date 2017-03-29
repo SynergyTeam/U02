@@ -1,0 +1,1300 @@
+
+                                PLANES PROCESSOR
+                                ----------------
+
+                        12:30 AM Tuesday, March 14, 2017
+               Job Name: X:\MG\projects\L02-0101\PCB\L02-0101.pcb
+
+
+
+
+    POSITIVE PLANE LAYER : 1
+
+        Plane Shapes Found On This Layer : 19
+        Plane Holes  Found On This Layer : 2
+
+
+        PLANE NET : GND
+
+            Total Plane Shapes For This Net   : 5
+            Use Route Border As Plane Shape   : NO
+            Create Actual Plane Shapes        : NO
+            Regenerate APS Connections Only   : NO
+            Generate Plane Data               : YES
+            Plane To Plane Clearance          : 0.2mm
+            Plane To Other Metal Clearance    : 0mm
+            Mounting Hole / Contour Clearance : 0.51mm
+            Minimum Plane Gap Distance        : NA
+            Use TieLeg Bridges If Needed      : NO
+            Use Padstack Thermal Definition   : YES
+            Default Via Tie Properties
+                Number Tie Legs               : BURIED
+            Default Thru Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.15mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Default SMD Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.2mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Eliminate Untied Areas            : Yes
+            Eliminate Single Tied Areas       : No
+            Orthogonal Data Only              : NO
+            Discard Areas By Dimension        : NO
+            Default Hatch Width               : 0.15mm
+            Default Hatch Distance            : 0.15mm
+            Default Hatch Pattern             : (-) Horizontal
+            Default Metal Percentage          : 100.00
+
+            Total Via  Pads Of This Net       : 76
+            Total Thru Pads Of This Net       : 7
+            Total SMD  Pads Of This Net       : 62
+
+            Plane Created : Layer 1 - Net GND
+                Hatch Width                      : 0.15mm
+                Hatch Distance                   : 0.15mm
+                Hatch Pattern                    : (-) Horizontal
+                Metal Percentage                 : 100.00
+                SMD Tie Properties
+                    Tie Legs Width               : 0.4mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Thru Tie Properties
+                    Tie Legs Width               : 0.2mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Via Tie Properties
+                    Number Tie Legs              : BURIED
+
+                Via Pads In This Plane           : 12
+                Thru Pads In This Plane          : 0
+                SMD Pads In This Plane           : 9
+                     
+                Pads To Be Buried In Plane       : 12
+                    Unconnected To Plane         : 0
+                        Connected To Trace       : 0
+                Pads With 4/4 Tie Connections    : 3
+                Pads With 3/4 Tie Connections    : 4
+                Pads With 2/4 Tie Connections    : 2
+
+                Pads With 3 Tie Legs : 4
+                        Coordinates (mm) :
+                            1) X=-8.35       Y=23.45         Pin: C112-1  
+                            2) X=-6.3        Y=20            Pin: C104-1  
+                            3) X=-2.87       Y=20.05         Pin: U102-1  
+                            4) X=13.78       Y=14.55         Pin: U100-4  
+
+                Pads With 2 Tie Legs : 2
+                        Coordinates (mm) :
+                            1) X=-8.55       Y=20            Pin: C105-1  
+                            2) X=15.8        Y=11.25         Pin: R104-1  
+
+            Plane Created : Layer 1 - Net GND
+                Hatch Width                      : 0.15mm
+                Hatch Distance                   : 0.15mm
+                Hatch Pattern                    : (-) Horizontal
+                Metal Percentage                 : 100.00
+                SMD Tie Properties
+                    Tie Legs Width               : 0.4mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Thru Tie Properties
+                    Tie Legs Width               : 0.4mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Via Tie Properties
+                    Number Tie Legs              : BURIED
+
+                Via Pads In This Plane           : 11
+                Thru Pads In This Plane          : 0
+                SMD Pads In This Plane           : 4
+                     
+                Pads To Be Buried In Plane       : 11
+                    Unconnected To Plane         : 0
+                        Connected To Trace       : 0
+                Pads With 4/4 Tie Connections    : 3
+                Pads With 3/4 Tie Connections    : 1
+
+                Pads With 3 Tie Legs : 1
+                        Coordinates (mm) :
+                            1) X=15.35       Y=24.1          Pin: R106-1  
+
+            Plane Created : Layer 1 - Net GND
+                Hatch Width                      : 0.15mm
+                Hatch Distance                   : 0.15mm
+                Hatch Pattern                    : (-) Horizontal
+                Metal Percentage                 : 100.00
+                SMD Tie Properties
+                    Tie Legs Width               : 0.3mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Thru Tie Properties
+                    Tie Legs Width               : 0.2mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Via Tie Properties
+                    Number Tie Legs              : BURIED
+
+                Via Pads In This Plane           : 8
+                Thru Pads In This Plane          : 0
+                SMD Pads In This Plane           : 4
+                     
+                Pads To Be Buried In Plane       : 8
+                    Unconnected To Plane         : 0
+                        Connected To Trace       : 0
+                Pads With 1/4 Tie Connections    : 4
+
+                Pads With 1 Tie Legs : 4
+                        Coordinates (mm) :
+                            1) X=7.13        Y=-4.08         Pin: U002-47  
+                            2) X=9.13        Y=2.42          Pin: U002-35  
+                            3) X=12.13       Y=-6.08         Pin: U002-8  
+                            4) X=15.63       Y=0.42          Pin: U002-23  
+
+            Plane Created : Layer 1 - Net GND
+
+                Via Pads In This Plane           : 8
+                Thru Pads In This Plane          : 0
+                SMD Pads In This Plane           : 0
+                     
+                Pads To Be Buried In Plane       : 8
+                    Unconnected To Plane         : 0
+                        Connected To Trace       : 0
+
+
+        PLANE NET : +12V
+
+            Total Plane Shapes For This Net   : 1
+            Use Route Border As Plane Shape   : NO
+            Create Actual Plane Shapes        : NO
+            Regenerate APS Connections Only   : NO
+            Generate Plane Data               : YES
+            Plane To Plane Clearance          : 0.2mm
+            Plane To Other Metal Clearance    : 0mm
+            Mounting Hole / Contour Clearance : 0.51mm
+            Minimum Plane Gap Distance        : NA
+            Use TieLeg Bridges If Needed      : NO
+            Use Padstack Thermal Definition   : YES
+            Default Via Tie Properties
+                Number Tie Legs               : BURIED
+            Default Thru Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.15mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Default SMD Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.2mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Eliminate Untied Areas            : Yes
+            Eliminate Single Tied Areas       : No
+            Orthogonal Data Only              : NO
+            Discard Areas By Dimension        : NO
+            Default Hatch Width               : 0.15mm
+            Default Hatch Distance            : 0.15mm
+            Default Hatch Pattern             : (-) Horizontal
+            Default Metal Percentage          : 100.00
+
+            Total Via  Pads Of This Net       : 4
+            Total Thru Pads Of This Net       : 2
+            Total SMD  Pads Of This Net       : 13
+
+            Plane Created : Layer 1 - Net +12V
+                Hatch Width                      : 0.15mm
+                Hatch Distance                   : 0.15mm
+                Hatch Pattern                    : (-) Horizontal
+                Metal Percentage                 : 100.00
+                SMD Tie Properties
+                    Tie Legs Width               : 0.4mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Thru Tie Properties
+                    Tie Legs Width               : 0.2mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Via Tie Properties
+                    Number Tie Legs              : BURIED
+
+                Via Pads In This Plane           : 2
+                Thru Pads In This Plane          : 0
+                SMD Pads In This Plane           : 6
+                     
+                Pads To Be Buried In Plane       : 2
+                    Unconnected To Plane         : 0
+                        Connected To Trace       : 0
+                Pads With 4/4 Tie Connections    : 1
+                Pads With 3/4 Tie Connections    : 4
+                Pads With 2/4 Tie Connections    : 1
+
+                Pads With 3 Tie Legs : 4
+                        Coordinates (mm) :
+                            1) X=-8.55       Y=18.2          Pin: C105-2  
+                            2) X=-6.3        Y=18.2          Pin: C104-2  
+                            3) X=2.05        Y=18.35         Pin: R107-1  
+                            4) X=4.8         Y=18.35         Pin: C110-2  
+
+                Pads With 2 Tie Legs : 1
+                        Coordinates (mm) :
+                            1) X=-2.87       Y=18.15         Pin: U102-3  
+
+
+        PLANE NET : +3.3V
+
+            Total Plane Shapes For This Net   : 1
+            Use Route Border As Plane Shape   : NO
+            Create Actual Plane Shapes        : NO
+            Regenerate APS Connections Only   : NO
+            Generate Plane Data               : YES
+            Plane To Plane Clearance          : 0.2mm
+            Plane To Other Metal Clearance    : 0mm
+            Mounting Hole / Contour Clearance : 0.51mm
+            Minimum Plane Gap Distance        : NA
+            Use TieLeg Bridges If Needed      : NO
+            Use Padstack Thermal Definition   : YES
+            Default Via Tie Properties
+                Number Tie Legs               : BURIED
+            Default Thru Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.15mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Default SMD Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.2mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Eliminate Untied Areas            : Yes
+            Eliminate Single Tied Areas       : No
+            Orthogonal Data Only              : NO
+            Discard Areas By Dimension        : NO
+            Default Hatch Width               : 0.15mm
+            Default Hatch Distance            : 0.15mm
+            Default Hatch Pattern             : (-) Horizontal
+            Default Metal Percentage          : 100.00
+
+            Total Via  Pads Of This Net       : 8
+            Total Thru Pads Of This Net       : 2
+            Total SMD  Pads Of This Net       : 20
+
+            Plane Created : Layer 1 - Net +3.3V
+
+                Via Pads In This Plane           : 2
+                Thru Pads In This Plane          : 0
+                SMD Pads In This Plane           : 2
+                     
+                Pads To Be Buried In Plane       : 2
+                    Unconnected To Plane         : 0
+                        Connected To Trace       : 0
+                Pads With 4/4 Tie Connections    : 2
+
+
+        PLANE NET : -RP
+
+            Total Plane Shapes For This Net   : 3
+            Use Route Border As Plane Shape   : NO
+            Create Actual Plane Shapes        : NO
+            Regenerate APS Connections Only   : NO
+            Generate Plane Data               : YES
+            Plane To Plane Clearance          : 0.2mm
+            Plane To Other Metal Clearance    : 0mm
+            Mounting Hole / Contour Clearance : 0.51mm
+            Minimum Plane Gap Distance        : NA
+            Use TieLeg Bridges If Needed      : NO
+            Use Padstack Thermal Definition   : YES
+            Default Via Tie Properties
+                Number Tie Legs               : BURIED
+            Default Thru Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.15mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Default SMD Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.2mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Eliminate Untied Areas            : Yes
+            Eliminate Single Tied Areas       : No
+            Orthogonal Data Only              : NO
+            Discard Areas By Dimension        : NO
+            Default Hatch Width               : 0.15mm
+            Default Hatch Distance            : 0.15mm
+            Default Hatch Pattern             : (-) Horizontal
+            Default Metal Percentage          : 100.00
+
+            Total Via  Pads Of This Net       : 7
+            Total Thru Pads Of This Net       : 2
+            Total SMD  Pads Of This Net       : 1
+
+            Plane Created : Layer 1 - Net -RP
+                Hatch Width                      : 0.15mm
+                Hatch Distance                   : 0.15mm
+                Hatch Pattern                    : (-) Horizontal
+                Metal Percentage                 : 100.00
+                SMD Tie Properties
+                    Tie Legs Width               : 0.4mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Thru Tie Properties
+                    Tie Legs Width               : 0.4mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Via Tie Properties
+                    Number Tie Legs              : BURIED
+
+                Via Pads In This Plane           : 6
+                Thru Pads In This Plane          : 1
+                SMD Pads In This Plane           : 1
+                     
+                Pads To Be Buried In Plane       : 6
+                    Unconnected To Plane         : 0
+                        Connected To Trace       : 0
+                Pads With 4/4 Tie Connections    : 2
+
+            Plane Created : Layer 1 - Net -RP
+                Hatch Width                      : 0.3mm
+                Hatch Distance                   : 0.3mm
+                Hatch Pattern                    : (-) Horizontal
+                Metal Percentage                 : 100.00
+                SMD Tie Properties
+                    Tie Legs Width               : 0.4mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Thru Tie Properties
+                    Tie Legs Width               : 0.4mm
+                    Thermal Clearance            : 0.3mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Via Tie Properties
+                    Tie Legs Width               : 0.4mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+
+                Via Pads In This Plane           : 1
+                Thru Pads In This Plane          : 1
+                SMD Pads In This Plane           : 0
+                     
+                Pads To Be Buried In Plane       : 1
+                    Unconnected To Plane         : 0
+                        Connected To Trace       : 0
+                Pads With 4/4 Tie Connections    : 1
+
+
+        PLANE NET : XSIG010916
+
+            Total Plane Shapes For This Net   : 1
+            Use Route Border As Plane Shape   : NO
+            Create Actual Plane Shapes        : NO
+            Regenerate APS Connections Only   : NO
+            Generate Plane Data               : YES
+            Plane To Plane Clearance          : 0.2mm
+            Plane To Other Metal Clearance    : 0mm
+            Mounting Hole / Contour Clearance : 0.51mm
+            Minimum Plane Gap Distance        : NA
+            Use TieLeg Bridges If Needed      : NO
+            Use Padstack Thermal Definition   : YES
+            Default Via Tie Properties
+                Number Tie Legs               : BURIED
+            Default Thru Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.15mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Default SMD Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.2mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Eliminate Untied Areas            : Yes
+            Eliminate Single Tied Areas       : No
+            Orthogonal Data Only              : NO
+            Discard Areas By Dimension        : NO
+            Default Hatch Width               : 0.15mm
+            Default Hatch Distance            : 0.15mm
+            Default Hatch Pattern             : (-) Horizontal
+            Default Metal Percentage          : 100.00
+
+            Total Via  Pads Of This Net       : 0
+            Total Thru Pads Of This Net       : 0
+            Total SMD  Pads Of This Net       : 2
+
+            Plane Created : Layer 1 - Net XSIG010916
+                Hatch Width                      : 0.15mm
+                Hatch Distance                   : 0.15mm
+                Hatch Pattern                    : (-) Horizontal
+                Metal Percentage                 : 100.00
+                SMD Tie Properties
+                    Number Tie Legs              : BURIED
+                Thru Tie Properties
+                    Tie Legs Width               : 0.2mm
+                    Thermal Clearance            : 0.15mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Via Tie Properties
+                    Number Tie Legs              : BURIED
+
+                Via Pads In This Plane           : 0
+                Thru Pads In This Plane          : 0
+                SMD Pads In This Plane           : 2
+                     
+                Pads With 0/4 Tie Connections    : 2
+
+                Total With 0 Tie Connections     : 2
+                    Connected To Trace           : 0
+
+                No tieleg connections were due to isolation from plane,
+                or the tielegs would have violated clearance requirements,
+                or no tielegs were assigned to be created,
+                or the pad belongs to a Routed Plane Pin,
+                or the pad was a TestPad on top of another connected pad,
+                or the pad was contained in a Plane No Connect Area.
+
+                Total Pads Not Connected : 2
+                        Coordinates (mm) :
+                            1) X=11.5        Y=22.15         Pin: C106-2  
+                            2) X=12.48       Y=18.75         Pin: U100-7  
+
+
+        PLANE NET : XSIG010932
+
+            Total Plane Shapes For This Net   : 1
+            Use Route Border As Plane Shape   : NO
+            Create Actual Plane Shapes        : NO
+            Regenerate APS Connections Only   : NO
+            Generate Plane Data               : YES
+            Plane To Plane Clearance          : 0.2mm
+            Plane To Other Metal Clearance    : 0mm
+            Mounting Hole / Contour Clearance : 0.51mm
+            Minimum Plane Gap Distance        : NA
+            Use TieLeg Bridges If Needed      : NO
+            Use Padstack Thermal Definition   : YES
+            Default Via Tie Properties
+                Number Tie Legs               : BURIED
+            Default Thru Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.15mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Default SMD Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.2mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Eliminate Untied Areas            : Yes
+            Eliminate Single Tied Areas       : No
+            Orthogonal Data Only              : NO
+            Discard Areas By Dimension        : NO
+            Default Hatch Width               : 0.15mm
+            Default Hatch Distance            : 0.15mm
+            Default Hatch Pattern             : (-) Horizontal
+            Default Metal Percentage          : 100.00
+
+            Total Via  Pads Of This Net       : 0
+            Total Thru Pads Of This Net       : 0
+            Total SMD  Pads Of This Net       : 4
+
+            Plane Created : Layer 1 - Net XSIG010932
+                Hatch Width                      : 0.15mm
+                Hatch Distance                   : 0.15mm
+                Hatch Pattern                    : (-) Horizontal
+                Metal Percentage                 : 100.00
+                SMD Tie Properties
+                    Tie Legs Width               : 0.4mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Thru Tie Properties
+                    Tie Legs Width               : 0.2mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Via Tie Properties
+                    Number Tie Legs              : BURIED
+
+                Via Pads In This Plane           : 0
+                Thru Pads In This Plane          : 0
+                SMD Pads In This Plane           : 4
+                     
+                Pads With 4/4 Tie Connections    : 3
+                Pads With 3/4 Tie Connections    : 1
+
+                Pads With 3 Tie Legs : 1
+                        Coordinates (mm) :
+                            1) X=11.82       Y=14.55         Pin: U100-1  
+
+
+        PLANE NET : XSIG010972
+
+            Total Plane Shapes For This Net   : 2
+            Use Route Border As Plane Shape   : NO
+            Create Actual Plane Shapes        : NO
+            Regenerate APS Connections Only   : NO
+            Generate Plane Data               : YES
+            Plane To Plane Clearance          : 0.2mm
+            Plane To Other Metal Clearance    : 0mm
+            Mounting Hole / Contour Clearance : 0.51mm
+            Minimum Plane Gap Distance        : NA
+            Use TieLeg Bridges If Needed      : NO
+            Use Padstack Thermal Definition   : YES
+            Default Via Tie Properties
+                Number Tie Legs               : BURIED
+            Default Thru Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.15mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Default SMD Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.2mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Eliminate Untied Areas            : Yes
+            Eliminate Single Tied Areas       : No
+            Orthogonal Data Only              : NO
+            Discard Areas By Dimension        : NO
+            Default Hatch Width               : 0.15mm
+            Default Hatch Distance            : 0.15mm
+            Default Hatch Pattern             : (-) Horizontal
+            Default Metal Percentage          : 100.00
+
+            Total Via  Pads Of This Net       : 15
+            Total Thru Pads Of This Net       : 0
+            Total SMD  Pads Of This Net       : 3
+
+            Plane Created : Layer 1 - Net XSIG010972
+                Hatch Width                      : 0.15mm
+                Hatch Distance                   : 0.15mm
+                Hatch Pattern                    : (-) Horizontal
+                Metal Percentage                 : 100.00
+                SMD Tie Properties
+                    Tie Legs Width               : 0.4mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Thru Tie Properties
+                    Tie Legs Width               : 0.2mm
+                    Thermal Clearance            : 0.15mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Via Tie Properties
+                    Number Tie Legs              : BURIED
+
+                Via Pads In This Plane           : 8
+                Thru Pads In This Plane          : 0
+                SMD Pads In This Plane           : 1
+                     
+                Pads To Be Buried In Plane       : 8
+                    Unconnected To Plane         : 0
+                        Connected To Trace       : 0
+                Pads With 3/4 Tie Connections    : 1
+
+                Pads With 3 Tie Legs : 1
+                        Coordinates (mm) :
+                            1) X=-13.7       Y=19.25         Pin: L101-1  
+
+            Plane Created : Layer 1 - Net XSIG010972
+                Hatch Width                      : 0.15mm
+                Hatch Distance                   : 0.15mm
+                Hatch Pattern                    : (-) Horizontal
+                Metal Percentage                 : 100.00
+                SMD Tie Properties
+                    Number Tie Legs              : BURIED
+                Thru Tie Properties
+                    Number Tie Legs              : BURIED
+                Via Tie Properties
+                    Number Tie Legs              : BURIED
+
+                Via Pads In This Plane           : 6
+                Thru Pads In This Plane          : 0
+                SMD Pads In This Plane           : 1
+                     
+                Pads To Be Buried In Plane       : 6
+                    Unconnected To Plane         : 0
+                        Connected To Trace       : 0
+                Pads With 0/4 Tie Connections    : 1
+
+                Total With 0 Tie Connections     : 1
+                    Connected To Trace           : 0
+
+                No tieleg connections were due to isolation from plane,
+                or the tielegs would have violated clearance requirements,
+                or no tielegs were assigned to be created,
+                or the pad belongs to a Routed Plane Pin,
+                or the pad was a TestPad on top of another connected pad,
+                or the pad was contained in a Plane No Connect Area.
+
+                Total Pads Not Connected : 1
+                        Coordinates (mm) :
+                            1) X=-2.87       Y=19.1          Pin: U102-2  
+
+
+        PLANE NET : XSIG011075
+
+            Total Plane Shapes For This Net   : 1
+            Use Route Border As Plane Shape   : NO
+            Create Actual Plane Shapes        : NO
+            Regenerate APS Connections Only   : NO
+            Generate Plane Data               : YES
+            Plane To Plane Clearance          : 0.2mm
+            Plane To Other Metal Clearance    : 0mm
+            Mounting Hole / Contour Clearance : 0.51mm
+            Minimum Plane Gap Distance        : NA
+            Use TieLeg Bridges If Needed      : NO
+            Use Padstack Thermal Definition   : YES
+            Default Via Tie Properties
+                Number Tie Legs               : BURIED
+            Default Thru Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.15mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Default SMD Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.2mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Eliminate Untied Areas            : Yes
+            Eliminate Single Tied Areas       : No
+            Orthogonal Data Only              : NO
+            Discard Areas By Dimension        : NO
+            Default Hatch Width               : 0.15mm
+            Default Hatch Distance            : 0.15mm
+            Default Hatch Pattern             : (-) Horizontal
+            Default Metal Percentage          : 100.00
+
+            Total Via  Pads Of This Net       : 0
+            Total Thru Pads Of This Net       : 0
+            Total SMD  Pads Of This Net       : 5
+
+            Plane Created : Layer 1 - Net XSIG011075
+                Hatch Width                      : 0.15mm
+                Hatch Distance                   : 0.15mm
+                Hatch Pattern                    : (-) Horizontal
+                Metal Percentage                 : 100.00
+                SMD Tie Properties
+                    Tie Legs Width               : 0.4mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Thru Tie Properties
+                    Tie Legs Width               : 0.2mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Via Tie Properties
+                    Number Tie Legs              : BURIED
+
+                Via Pads In This Plane           : 0
+                Thru Pads In This Plane          : 0
+                SMD Pads In This Plane           : 5
+                     
+                Pads With 4/4 Tie Connections    : 4
+                Pads With 3/4 Tie Connections    : 1
+
+                Pads With 3 Tie Legs : 1
+                        Coordinates (mm) :
+                            1) X=11.82       Y=18.75         Pin: U100-8  
+
+
+        PLANE NET : XSIG011521
+
+            Total Plane Shapes For This Net   : 2
+            Use Route Border As Plane Shape   : NO
+            Create Actual Plane Shapes        : NO
+            Regenerate APS Connections Only   : NO
+            Generate Plane Data               : YES
+            Plane To Plane Clearance          : 0.2mm
+            Plane To Other Metal Clearance    : 0mm
+            Mounting Hole / Contour Clearance : 0.51mm
+            Minimum Plane Gap Distance        : NA
+            Use TieLeg Bridges If Needed      : NO
+            Use Padstack Thermal Definition   : YES
+            Default Via Tie Properties
+                Number Tie Legs               : BURIED
+            Default Thru Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.15mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Default SMD Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.2mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Eliminate Untied Areas            : Yes
+            Eliminate Single Tied Areas       : No
+            Orthogonal Data Only              : NO
+            Discard Areas By Dimension        : NO
+            Default Hatch Width               : 0.15mm
+            Default Hatch Distance            : 0.15mm
+            Default Hatch Pattern             : (-) Horizontal
+            Default Metal Percentage          : 100.00
+
+            Total Via  Pads Of This Net       : 18
+            Total Thru Pads Of This Net       : 2
+            Total SMD  Pads Of This Net       : 9
+
+            Plane Created : Layer 1 - Net XSIG011521
+                Hatch Width                      : 0.15mm
+                Hatch Distance                   : 0.15mm
+                Hatch Pattern                    : (-) Horizontal
+                Metal Percentage                 : 100.00
+                SMD Tie Properties
+                    Tie Legs Width               : 0.4mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Thru Tie Properties
+                    Tie Legs Width               : 0.4mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Via Tie Properties
+                    Number Tie Legs              : BURIED
+
+                Via Pads In This Plane           : 17
+                Thru Pads In This Plane          : 0
+                SMD Pads In This Plane           : 8
+                     
+                Pads To Be Buried In Plane       : 17
+                    Unconnected To Plane         : 0
+                        Connected To Trace       : 0
+                Pads With 4/4 Tie Connections    : 7
+                Pads With 3/4 Tie Connections    : 1
+
+                Pads With 3 Tie Legs : 1
+                        Coordinates (mm) :
+                            1) X=-79.83      Y=4.72          Pin: XF001-5  
+
+
+        PLANE NET : +5V
+
+            Total Plane Shapes For This Net   : 2
+            Use Route Border As Plane Shape   : NO
+            Create Actual Plane Shapes        : NO
+            Regenerate APS Connections Only   : NO
+            Generate Plane Data               : YES
+            Plane To Plane Clearance          : 0.2mm
+            Plane To Other Metal Clearance    : 0mm
+            Mounting Hole / Contour Clearance : 0.51mm
+            Minimum Plane Gap Distance        : NA
+            Use TieLeg Bridges If Needed      : NO
+            Use Padstack Thermal Definition   : YES
+            Default Via Tie Properties
+                Number Tie Legs               : BURIED
+            Default Thru Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.15mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Default SMD Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.2mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Eliminate Untied Areas            : Yes
+            Eliminate Single Tied Areas       : No
+            Orthogonal Data Only              : NO
+            Discard Areas By Dimension        : NO
+            Default Hatch Width               : 0.15mm
+            Default Hatch Distance            : 0.15mm
+            Default Hatch Pattern             : (-) Horizontal
+            Default Metal Percentage          : 100.00
+
+            Total Via  Pads Of This Net       : 1
+            Total Thru Pads Of This Net       : 1
+            Total SMD  Pads Of This Net       : 6
+
+            Plane Created : Layer 1 - Net +5V
+                Hatch Width                      : 0.15mm
+                Hatch Distance                   : 0.15mm
+                Hatch Pattern                    : (-) Horizontal
+                Metal Percentage                 : 100.00
+                SMD Tie Properties
+                    Tie Legs Width               : 0.3mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Thru Tie Properties
+                    Tie Legs Width               : 0.2mm
+                    Thermal Clearance            : 0.15mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Via Tie Properties
+                    Number Tie Legs              : BURIED
+
+                Via Pads In This Plane           : 0
+                Thru Pads In This Plane          : 0
+                SMD Pads In This Plane           : 2
+                     
+                Pads With 4/4 Tie Connections    : 2
+
+            Plane Created : Layer 1 - Net +5V
+                Hatch Width                      : 0.15mm
+                Hatch Distance                   : 0.15mm
+                Hatch Pattern                    : (-) Horizontal
+                Metal Percentage                 : 100.00
+                SMD Tie Properties
+                    Tie Legs Width               : 0.4mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Thru Tie Properties
+                    Tie Legs Width               : 0.3mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Via Tie Properties
+                    Number Tie Legs              : BURIED
+
+                Via Pads In This Plane           : 0
+                Thru Pads In This Plane          : 0
+                SMD Pads In This Plane           : 3
+                     
+                Pads With 4/4 Tie Connections    : 3
+
+
+    POSITIVE PLANE LAYER : 2
+
+        Plane Shapes Found On This Layer : 8
+        Plane Holes  Found On This Layer : 8
+
+
+        PLANE NET : GND
+
+            Total Plane Shapes For This Net   : 1
+            Use Route Border As Plane Shape   : NO
+            Create Actual Plane Shapes        : NO
+            Regenerate APS Connections Only   : NO
+            Generate Plane Data               : YES
+            Plane To Plane Clearance          : 0.2mm
+            Plane To Other Metal Clearance    : 0mm
+            Mounting Hole / Contour Clearance : 0.51mm
+            Minimum Plane Gap Distance        : NA
+            Use TieLeg Bridges If Needed      : NO
+            Use Padstack Thermal Definition   : YES
+            Default Via Tie Properties
+                Number Tie Legs               : BURIED
+            Default Thru Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.15mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Default SMD Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.2mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Eliminate Untied Areas            : Yes
+            Eliminate Single Tied Areas       : No
+            Orthogonal Data Only              : NO
+            Discard Areas By Dimension        : NO
+            Default Hatch Width               : 0.15mm
+            Default Hatch Distance            : 0.15mm
+            Default Hatch Pattern             : (-) Horizontal
+            Default Metal Percentage          : 100.00
+
+            Total Via  Pads Of This Net       : 76
+            Total Thru Pads Of This Net       : 7
+            Total SMD  Pads Of This Net       : 28
+
+            Plane Created : Layer 2 - Net GND
+                Hatch Width                      : 0.2mm
+                Hatch Distance                   : 0.2mm
+                Hatch Pattern                    : (|) Vertical
+                Metal Percentage                 : 100.00
+                SMD Tie Properties
+                    Tie Legs Width               : 0.4mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Thru Tie Properties
+                    Tie Legs Width               : 0.4mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Via Tie Properties
+                    Number Tie Legs              : BURIED
+
+                Via Pads In This Plane           : 75
+                Thru Pads In This Plane          : 7
+                SMD Pads In This Plane           : 27
+                     
+                Pads To Be Buried In Plane       : 75
+                    Unconnected To Plane         : 0
+                        Connected To Trace       : 0
+                Pads With 4/4 Tie Connections    : 29
+                Pads With 2/4 Tie Connections    : 4
+                Pads With 1/4 Tie Connections    : 1
+
+                Pads With 2 Tie Legs : 4
+                        Coordinates (mm) :
+                            1) X=-13.85      Y=-0.53         Pin: XM002-3  (Thermal Override - 0.2/0/T4/P135)
+                            2) X=5.95        Y=-9.05         Pin: R228-1  
+                            3) X=14.6        Y=-18.6         Pin: R236-1  
+                            4) X=32.95       Y=-18.6         Pin: R225-1  
+
+                Pads With 1 Tie Legs : 1
+                        Coordinates (mm) :
+                            1) X=-41.33      Y=21.96         Pin: XM37-5  
+
+
+        PLANE NET : -RP
+
+            Total Plane Shapes For This Net   : 2
+            Use Route Border As Plane Shape   : NO
+            Create Actual Plane Shapes        : NO
+            Regenerate APS Connections Only   : NO
+            Generate Plane Data               : YES
+            Plane To Plane Clearance          : 0.2mm
+            Plane To Other Metal Clearance    : 0mm
+            Mounting Hole / Contour Clearance : 0.51mm
+            Minimum Plane Gap Distance        : NA
+            Use TieLeg Bridges If Needed      : NO
+            Use Padstack Thermal Definition   : YES
+            Default Via Tie Properties
+                Number Tie Legs               : BURIED
+            Default Thru Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.15mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Default SMD Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.2mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Eliminate Untied Areas            : Yes
+            Eliminate Single Tied Areas       : No
+            Orthogonal Data Only              : NO
+            Discard Areas By Dimension        : NO
+            Default Hatch Width               : 0.15mm
+            Default Hatch Distance            : 0.15mm
+            Default Hatch Pattern             : (-) Horizontal
+            Default Metal Percentage          : 100.00
+
+            Total Via  Pads Of This Net       : 7
+            Total Thru Pads Of This Net       : 2
+            Total SMD  Pads Of This Net       : 2
+
+            Plane Created : Layer 2 - Net -RP
+
+                Via Pads In This Plane           : 4
+                Thru Pads In This Plane          : 0
+                SMD Pads In This Plane           : 1
+                     
+                Pads To Be Buried In Plane       : 4
+                    Unconnected To Plane         : 0
+                        Connected To Trace       : 0
+                Pads With 4/4 Tie Connections    : 1
+
+            Plane Created : Layer 2 - Net -RP
+                Hatch Width                      : 0.15mm
+                Hatch Distance                   : 0.15mm
+                Hatch Pattern                    : (-) Horizontal
+                Metal Percentage                 : 100.00
+                SMD Tie Properties
+                    Tie Legs Width               : 0.4mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Thru Tie Properties
+                    Tie Legs Width               : 0.4mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Via Tie Properties
+                    Number Tie Legs              : BURIED
+
+                Via Pads In This Plane           : 3
+                Thru Pads In This Plane          : 1
+                SMD Pads In This Plane           : 0
+                     
+                Pads To Be Buried In Plane       : 3
+                    Unconnected To Plane         : 0
+                        Connected To Trace       : 0
+                Pads With 4/4 Tie Connections    : 1
+
+
+        PLANE NET : ISOGND
+
+            Total Plane Shapes For This Net   : 1
+            Use Route Border As Plane Shape   : NO
+            Create Actual Plane Shapes        : NO
+            Regenerate APS Connections Only   : NO
+            Generate Plane Data               : YES
+            Plane To Plane Clearance          : 0.2mm
+            Plane To Other Metal Clearance    : 0mm
+            Mounting Hole / Contour Clearance : 0.51mm
+            Minimum Plane Gap Distance        : NA
+            Use TieLeg Bridges If Needed      : NO
+            Use Padstack Thermal Definition   : YES
+            Default Via Tie Properties
+                Number Tie Legs               : BURIED
+            Default Thru Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.15mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Default SMD Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.2mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Eliminate Untied Areas            : Yes
+            Eliminate Single Tied Areas       : No
+            Orthogonal Data Only              : NO
+            Discard Areas By Dimension        : NO
+            Default Hatch Width               : 0.15mm
+            Default Hatch Distance            : 0.15mm
+            Default Hatch Pattern             : (-) Horizontal
+            Default Metal Percentage          : 100.00
+
+            Total Via  Pads Of This Net       : 4
+            Total Thru Pads Of This Net       : 1
+            Total SMD  Pads Of This Net       : 3
+
+            Plane Created : Layer 2 - Net ISOGND
+                Hatch Width                      : 0.15mm
+                Hatch Distance                   : 0.15mm
+                Hatch Pattern                    : (-) Horizontal
+                Metal Percentage                 : 100.00
+                SMD Tie Properties
+                    Tie Legs Width               : 0.4mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Thru Tie Properties
+                    Tie Legs Width               : 0.4mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Via Tie Properties
+                    Number Tie Legs              : BURIED
+
+                Via Pads In This Plane           : 4
+                Thru Pads In This Plane          : 1
+                SMD Pads In This Plane           : 3
+                     
+                Pads To Be Buried In Plane       : 4
+                    Unconnected To Plane         : 0
+                        Connected To Trace       : 0
+                Pads With 4/4 Tie Connections    : 3
+                Pads With 2/4 Tie Connections    : 1
+
+                Pads With 2 Tie Legs : 1
+                        Coordinates (mm) :
+                            1) X=34.42       Y=17.32         Pin: XF104-1  
+
+
+        PLANE NET : XSIG010972
+
+            Total Plane Shapes For This Net   : 2
+            Use Route Border As Plane Shape   : NO
+            Create Actual Plane Shapes        : NO
+            Regenerate APS Connections Only   : NO
+            Generate Plane Data               : YES
+            Plane To Plane Clearance          : 0.2mm
+            Plane To Other Metal Clearance    : 0mm
+            Mounting Hole / Contour Clearance : 0.51mm
+            Minimum Plane Gap Distance        : NA
+            Use TieLeg Bridges If Needed      : NO
+            Use Padstack Thermal Definition   : YES
+            Default Via Tie Properties
+                Number Tie Legs               : BURIED
+            Default Thru Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.15mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Default SMD Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.2mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Eliminate Untied Areas            : Yes
+            Eliminate Single Tied Areas       : No
+            Orthogonal Data Only              : NO
+            Discard Areas By Dimension        : NO
+            Default Hatch Width               : 0.15mm
+            Default Hatch Distance            : 0.15mm
+            Default Hatch Pattern             : (-) Horizontal
+            Default Metal Percentage          : 100.00
+
+            Total Via  Pads Of This Net       : 15
+            Total Thru Pads Of This Net       : 0
+            Total SMD  Pads Of This Net       : 0
+
+            Plane Created : Layer 2 - Net XSIG010972
+                Hatch Width                      : 0.15mm
+                Hatch Distance                   : 0.15mm
+                Hatch Pattern                    : (-) Horizontal
+                Metal Percentage                 : 100.00
+                SMD Tie Properties
+                    Tie Legs Width               : 0.2mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Thru Tie Properties
+                    Tie Legs Width               : 0.2mm
+                    Thermal Clearance            : 0.15mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Via Tie Properties
+                    Number Tie Legs              : BURIED
+
+                Via Pads In This Plane           : 14
+                Thru Pads In This Plane          : 0
+                SMD Pads In This Plane           : 0
+                     
+                Pads To Be Buried In Plane       : 14
+                    Unconnected To Plane         : 0
+                        Connected To Trace       : 0
+
+
+        PLANE NET : XSIG011535
+
+            Total Plane Shapes For This Net   : 1
+            Use Route Border As Plane Shape   : NO
+            Create Actual Plane Shapes        : NO
+            Regenerate APS Connections Only   : NO
+            Generate Plane Data               : YES
+            Plane To Plane Clearance          : 0.2mm
+            Plane To Other Metal Clearance    : 0mm
+            Mounting Hole / Contour Clearance : 0.51mm
+            Minimum Plane Gap Distance        : NA
+            Use TieLeg Bridges If Needed      : NO
+            Use Padstack Thermal Definition   : YES
+            Default Via Tie Properties
+                Number Tie Legs               : BURIED
+            Default Thru Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.15mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Default SMD Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.2mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Eliminate Untied Areas            : Yes
+            Eliminate Single Tied Areas       : No
+            Orthogonal Data Only              : NO
+            Discard Areas By Dimension        : NO
+            Default Hatch Width               : 0.15mm
+            Default Hatch Distance            : 0.15mm
+            Default Hatch Pattern             : (-) Horizontal
+            Default Metal Percentage          : 100.00
+
+            Total Via  Pads Of This Net       : 0
+            Total Thru Pads Of This Net       : 3
+            Total SMD  Pads Of This Net       : 2
+
+            Plane Created : Layer 2 - Net XSIG011535
+                Hatch Width                      : 0.15mm
+                Hatch Distance                   : 0.15mm
+                Hatch Pattern                    : (-) Horizontal
+                Metal Percentage                 : 100.00
+                SMD Tie Properties
+                    Tie Legs Width               : 0.4mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Thru Tie Properties
+                    Tie Legs Width               : 0.4mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Via Tie Properties
+                    Number Tie Legs              : BURIED
+
+                Via Pads In This Plane           : 0
+                Thru Pads In This Plane          : 3
+                SMD Pads In This Plane           : 2
+                     
+                Pads With 4/4 Tie Connections    : 4
+                Pads With 3/4 Tie Connections    : 1
+
+                Pads With 3 Tie Legs : 1
+                        Coordinates (mm) :
+                            1) X=-3.49       Y=-13.84        Pin: GS200-3  
+
+
+        PLANE NET : XSIG011521
+
+            Total Plane Shapes For This Net   : 1
+            Use Route Border As Plane Shape   : NO
+            Create Actual Plane Shapes        : NO
+            Regenerate APS Connections Only   : NO
+            Generate Plane Data               : YES
+            Plane To Plane Clearance          : 0.2mm
+            Plane To Other Metal Clearance    : 0mm
+            Mounting Hole / Contour Clearance : 0.51mm
+            Minimum Plane Gap Distance        : NA
+            Use TieLeg Bridges If Needed      : NO
+            Use Padstack Thermal Definition   : YES
+            Default Via Tie Properties
+                Number Tie Legs               : BURIED
+            Default Thru Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.15mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Default SMD Tie Properties
+                Tie Leg Width                 : 0.2mm
+                Thermal Clearance             : 0.2mm
+                Number Tie Legs               : FOUR
+                Tie Orientation               : PREFER 0
+            Eliminate Untied Areas            : Yes
+            Eliminate Single Tied Areas       : No
+            Orthogonal Data Only              : NO
+            Discard Areas By Dimension        : NO
+            Default Hatch Width               : 0.15mm
+            Default Hatch Distance            : 0.15mm
+            Default Hatch Pattern             : (-) Horizontal
+            Default Metal Percentage          : 100.00
+
+            Total Via  Pads Of This Net       : 18
+            Total Thru Pads Of This Net       : 2
+            Total SMD  Pads Of This Net       : 1
+
+            Plane Created : Layer 2 - Net XSIG011521
+                Hatch Width                      : 0.2mm
+                Hatch Distance                   : 0.2mm
+                Hatch Pattern                    : (|) Vertical
+                Metal Percentage                 : 100.00
+                SMD Tie Properties
+                    Tie Legs Width               : 0.2mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Thru Tie Properties
+                    Tie Legs Width               : 0.2mm
+                    Thermal Clearance            : 0.2mm
+                    Number Tie Legs              : FOUR
+                    Tie Orientation              : PREFER 0
+                Via Tie Properties
+                    Number Tie Legs              : BURIED
+
+                Via Pads In This Plane           : 17
+                Thru Pads In This Plane          : 0
+                SMD Pads In This Plane           : 0
+                     
+                Pads To Be Buried In Plane       : 17
+                    Unconnected To Plane         : 0
+                        Connected To Trace       : 0

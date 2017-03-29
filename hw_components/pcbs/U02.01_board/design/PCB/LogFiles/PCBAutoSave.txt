@@ -1,0 +1,11 @@
+
+                                Autosave Log File
+                                -----------------
+
+                         12:48 PM Monday, March 20, 2017
+               Job Name: X:\MG\projects\L02-0101\PCB\L02-0101.pcb
+
+Autosave pending at 00:09:08 Tue  Attempting...
+Autosave completed successfully.  00:09:09 Tue
+Autosave pending at 16:29:24 Fri  Attempting...
+Autosave completed successfully.  16:29:25 Fri

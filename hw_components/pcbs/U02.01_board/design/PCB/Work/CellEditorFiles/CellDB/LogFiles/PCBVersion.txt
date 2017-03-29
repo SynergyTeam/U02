@@ -1,0 +1,14 @@
+Cell Editor Version: 2013.0.591.687
+
+
+
+Environment Variables:
+----------------------
+HOMEDRIVE = "C:"
+HOMEPATH = "\Users\toivo"
+MGC_HOME = "C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn"
+OS = "Windows_NT"
+PATH = "C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\xe\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\PC Connectivity Solution\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\WINDOWS\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\MATLAB\R2014a\runtime\win64;C:\Program Files\MATLAB\R2014a\bin;C:\Program Files\MATLAB\R2014a\polyspace\bin;C:\Users\toivo\AppData\Local\Microsoft\WindowsApps;;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib"
+SDD_HOME = "C:\MentorGraphics\7.9.5EE\SDD_HOME"
+TEMP = "c:\temp"
+TMP = "c:\temp"

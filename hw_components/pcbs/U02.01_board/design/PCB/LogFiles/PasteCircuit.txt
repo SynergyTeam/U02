@@ -1,0 +1,9 @@
+
+                                Circuit Paste log
+                                -----------------
+
+                      05:12 PM Saturday, December 26, 2015
+     Job Name: F:\repository\OU\045_SWC4\PCBs\0451705_SC\PCB\0451704_SC.pcb
+
+         Clipboard: C:\Users\DE3F5~1.UTE\AppData\Local\Temp\mgc_icc_clipboard\Layout\
+    

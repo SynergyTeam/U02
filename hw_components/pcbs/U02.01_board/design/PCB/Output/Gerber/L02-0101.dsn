@@ -1,0 +1,105 @@
+{Program	Expedition GerbTool(tm)
+	{Version	8.1.2 X1}
+	{Created	Tue Mar 14 15:44:53 2017}
+}
+{Environment
+	{ViewMetric	Yes}
+}
+{Layers
+	{Layer  1
+		{File		L02-0101_18VCUT.gbr}
+		{LyrName	L02-0101_18VCUT}
+		{Visibility	On}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  2
+		{File		L02-0101_16FRM.gbr}
+		{LyrName	L02-0101_16FRM}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  3
+		{File		L02-0101_15ASB.gbr}
+		{LyrName	L02-0101_15ASB}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  4
+		{File		L02-0101_14SPB.gbr}
+		{LyrName	L02-0101_14SPB}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  5
+		{File		L02-0101_13SSB.gbr}
+		{LyrName	L02-0101_13SSB}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  6
+		{File		L02-0101_12SMB.gbr}
+		{LyrName	L02-0101_12SMB}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  7
+		{File		L02-0101_11_L2.gbr}
+		{LyrName	L02-0101_11_L2}
+		{Visibility	Off}
+		{Type		Bottom}
+		{Ftype		Gerber}
+	}
+	{Layer  8
+		{File		L02-0101_04_L1.gbr}
+		{LyrName	L02-0101_04_L1}
+		{Visibility	Off}
+		{Type		Top}
+		{Ftype		Gerber}
+	}
+	{Layer  9
+		{File		L02-0101_03SMT.gbr}
+		{LyrName	L02-0101_03SMT}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer 10
+		{File		L02-0101_02SST.gbr}
+		{LyrName	L02-0101_02SST}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer 11
+		{File		L02-0101_01SPT.gbr}
+		{LyrName	L02-0101_01SPT}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer 12
+		{File		L02-0101_00AST.gbr}
+		{LyrName	L02-0101_00AST}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+}
+{Format Gerber
+	{Dialect		RS274X}
+	{m.n			2.4}
+	{Mode			Absolute}
+	{ZeroSuppression	Leading}
+	{Terminator		0x2a, 0xd, 0xa}
+	{Metric			No}
+	{Modal			Yes}
+	{CharSet		ASCII}
+	{Arcs360		No}
+	{ArcsModal		Yes}
+}

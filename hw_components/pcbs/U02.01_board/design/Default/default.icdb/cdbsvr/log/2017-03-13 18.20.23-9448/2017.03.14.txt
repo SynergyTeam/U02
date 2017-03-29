@@ -1,0 +1,88 @@
+[2017.03.14 01:15:47] [0415m.24s.938ms] [1] SC[1518]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1518] host [DESKTOP-LPE9H33] user [User] process ID [9052]
+[2017.03.14 01:15:48] [0415m.25s.034ms] [1] CMT: Removed client [1518]
+[2017.03.14 01:15:48] [0415m.25s.034ms] [1] CMT: There are [1] clients now: 1510
+[2017.03.14 01:15:48] [0415m.25s.563ms] [0] IT: Session [1519] for host [DESKTOP-LPE9H33] user [User] with process ID [9052] created
+[2017.03.14 01:15:48] [0415m.25s.564ms] [1] SC[1519]: Registered sub-client [DCDV] with ID [1] for session ID [1519] host [DESKTOP-LPE9H33] user [User] process ID [9052]
+[2017.03.14 01:15:48] [0415m.25s.566ms] [1] SC[1519]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1519] host [DESKTOP-LPE9H33] user [User] process ID [9052]
+[2017.03.14 01:15:48] [0415m.25s.638ms] [1] CMT: There are [2] clients now: 1510, 1519
+[2017.03.14 01:15:48] [0415m.25s.638ms] [1] CMT: Removed client [1519]
+[2017.03.14 01:15:48] [0415m.25s.638ms] [1] CMT: There are [1] clients now: 1510
+[2017.03.14 01:15:49] [0415m.26s.129ms] [0] IT: Session [1520] for host [DESKTOP-LPE9H33] user [User] with process ID [9052] created
+[2017.03.14 01:15:49] [0415m.26s.130ms] [1] SC[1520]: Registered sub-client [DCDV] with ID [1] for session ID [1520] host [DESKTOP-LPE9H33] user [User] process ID [9052]
+[2017.03.14 01:15:49] [0415m.26s.133ms] [1] SC[1520]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1520] host [DESKTOP-LPE9H33] user [User] process ID [9052]
+[2017.03.14 01:15:49] [0415m.26s.141ms] [1] CMT: There are [2] clients now: 1510, 1520
+[2017.03.14 01:15:49] [0415m.26s.141ms] [1] CMT: Removed client [1520]
+[2017.03.14 01:15:49] [0415m.26s.141ms] [1] CMT: There are [1] clients now: 1510
+[2017.03.14 01:15:49] [0415m.26s.700ms] [0] IT: Session [1521] for host [DESKTOP-LPE9H33] user [User] with process ID [9052] created
+[2017.03.14 01:15:49] [0415m.26s.701ms] [1] SC[1521]: Registered sub-client [DCDV] with ID [1] for session ID [1521] host [DESKTOP-LPE9H33] user [User] process ID [9052]
+[2017.03.14 01:15:49] [0415m.26s.712ms] [1] SC[1521]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1521] host [DESKTOP-LPE9H33] user [User] process ID [9052]
+[2017.03.14 01:15:49] [0415m.26s.743ms] [1] CMT: There are [2] clients now: 1510, 1521
+[2017.03.14 01:15:49] [0415m.26s.860ms] [1] CMT: Removed client [1521]
+[2017.03.14 01:15:49] [0415m.26s.860ms] [1] CMT: There are [1] clients now: 1510
+[2017.03.14 01:16:01] [0415m.38s.807ms] [0] IT: Session [1522] for host [DESKTOP-LPE9H33] user [User] with process ID [9052] created
+[2017.03.14 01:16:01] [0415m.38s.808ms] [1] SC[1522]: Registered sub-client [DCDV] with ID [1] for session ID [1522] host [DESKTOP-LPE9H33] user [User] process ID [9052]
+[2017.03.14 01:16:01] [0415m.38s.825ms] [1] CMT: There are [2] clients now: 1510, 1522
+[2017.03.14 01:28:49] [0428m.26s.306ms] [1] SC[1522]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1522] host [DESKTOP-LPE9H33] user [User] process ID [9052]
+[2017.03.14 01:28:49] [0428m.26s.344ms] [1] CMT: Removed client [1522]
+[2017.03.14 01:28:49] [0428m.26s.344ms] [1] CMT: There are [1] clients now: 1510
+[2017.03.14 02:36:37] [0496m.14s.230ms] [1] PrjBackupMgr: Successfully created Project Backup [X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-14 02.36.36 - auto.zip] with GUID [f675-8442-7d1e-9f77-40d2-7c89-0d27-c850-1855-63f0-f2a1-c1a8]
+[2017.03.14 02:36:37] [0496m.14s.230ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[36b5-3879-4fd8-5410-4448-6c89-4486-c850-1a53-63f0-f2a1-c1a8] CreationTime[Monday, March 13, 2017 11:36:36] Type[Autosave] Creator[iCDB Server (2017-03-11 19.39.48-9316)] ApplicationName[iCDB Server (2017-03-11 19.39.48-9316)] UserName[User] MachineName[DESKTOP-LPE9H33] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 23 for EE7.9.5; Expedition Enterprise Flow; Expedition Enterprise Flow - Update 5 for DC7.9.5] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 40692; 30120; 34984] GBSBuildId[591687] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-13 14.36.36 - auto.zip] BackupFileSize[6238972] Persistent[FALSE]
+[2017.03.14 02:36:37] [0496m.14s.230ms] [0] PrjBackupMgr: Project Backup file [X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-13 14.36.36 - auto.zip] with GUID [36b5-3879-4fd8-5410-4448-6c89-4486-c850-1a53-63f0-f2a1-c1a8] removed
+[2017.03.14 02:36:37] [0496m.14s.230ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[f675-8442-7d1e-9f77-40d2-7c89-0d27-c850-1855-63f0-f2a1-c1a8] CreationTime[Monday, March 13, 2017 23:36:36] Type[Autosave] Creator[iCDB Server (2017-03-13 18.20.23-9448)] ApplicationName[iCDB Server (2017-03-13 18.20.23-9448)] UserName[User] MachineName[DESKTOP-LPE9H33] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 23 for EE7.9.5; Expedition Enterprise Flow; Expedition Enterprise Flow - Update 5 for DC7.9.5] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 40692; 30120; 34984] GBSBuildId[591687] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-14 02.36.36 - auto.zip] BackupFileSize[6223706] Persistent[FALSE]
+[2017.03.14 11:41:42] [1041m.19s.310ms] [1] PrjBackupMgr: Successfully created Project Backup [X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-14 11.41.41 - auto.zip] with GUID [fd27-3780-3b3b-2495-5cca-7c8a-cca7-c850-1855-63f0-f2a1-c1a8]
+[2017.03.14 11:41:42] [1041m.19s.310ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[7b8a-20eb-270a-62bf-48cb-6c89-8cb6-c850-1855-63f0-f2a1-c1a8] CreationTime[Monday, March 13, 2017 15:36:36] Type[Autosave] Creator[iCDB Server (2017-03-13 18.20.23-9448)] ApplicationName[iCDB Server (2017-03-13 18.20.23-9448)] UserName[User] MachineName[DESKTOP-LPE9H33] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 23 for EE7.9.5; Expedition Enterprise Flow; Expedition Enterprise Flow - Update 5 for DC7.9.5] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 40692; 30120; 34984] GBSBuildId[591687] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-13 18.36.36 - auto.zip] BackupFileSize[6218699] Persistent[FALSE]
+[2017.03.14 11:41:42] [1041m.19s.310ms] [0] PrjBackupMgr: Project Backup file [X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-13 18.36.36 - auto.zip] with GUID [7b8a-20eb-270a-62bf-48cb-6c89-8cb6-c850-1855-63f0-f2a1-c1a8] removed
+[2017.03.14 11:41:42] [1041m.19s.310ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[fd27-3780-3b3b-2495-5cca-7c8a-cca7-c850-1855-63f0-f2a1-c1a8] CreationTime[Tuesday, March 14, 2017 08:41:41] Type[Autosave] Creator[iCDB Server (2017-03-13 18.20.23-9448)] ApplicationName[iCDB Server (2017-03-13 18.20.23-9448)] UserName[User] MachineName[DESKTOP-LPE9H33] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 23 for EE7.9.5; Expedition Enterprise Flow; Expedition Enterprise Flow - Update 5 for DC7.9.5] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 40692; 30120; 34984] GBSBuildId[591687] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-14 11.41.41 - auto.zip] BackupFileSize[6231518] Persistent[FALSE]
+[2017.03.14 14:39:19] [1218m.56s.253ms] [0] IT: Session [1523] for host [DESKTOP-LPE9H33] user [User] with process ID [3388] created
+[2017.03.14 14:39:19] [1218m.56s.253ms] [1] SC[1523]: Registered sub-client [DCDV] with ID [1] for session ID [1523] host [DESKTOP-LPE9H33] user [User] process ID [3388]
+[2017.03.14 14:39:19] [1218m.56s.256ms] [1] SC[1523]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1523] host [DESKTOP-LPE9H33] user [User] process ID [3388]
+[2017.03.14 14:39:19] [1218m.56s.347ms] [1] CMT: There are [2] clients now: 1510, 1523
+[2017.03.14 14:39:19] [1218m.56s.347ms] [1] CMT: Removed client [1523]
+[2017.03.14 14:39:19] [1218m.56s.347ms] [1] CMT: There are [1] clients now: 1510
+[2017.03.14 14:39:19] [1218m.56s.807ms] [0] IT: Session [1524] for host [DESKTOP-LPE9H33] user [User] with process ID [3388] created
+[2017.03.14 14:39:19] [1218m.56s.808ms] [1] SC[1524]: Registered sub-client [DCDV] with ID [1] for session ID [1524] host [DESKTOP-LPE9H33] user [User] process ID [3388]
+[2017.03.14 14:39:19] [1218m.56s.813ms] [1] SC[1524]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1524] host [DESKTOP-LPE9H33] user [User] process ID [3388]
+[2017.03.14 14:39:19] [1218m.56s.851ms] [1] CMT: There are [2] clients now: 1510, 1524
+[2017.03.14 14:39:19] [1218m.56s.851ms] [1] CMT: Removed client [1524]
+[2017.03.14 14:39:19] [1218m.56s.851ms] [1] CMT: There are [1] clients now: 1510
+[2017.03.14 14:39:20] [1218m.57s.396ms] [0] IT: Session [1525] for host [DESKTOP-LPE9H33] user [User] with process ID [3388] created
+[2017.03.14 14:39:20] [1218m.57s.397ms] [1] SC[1525]: Registered sub-client [DCDV] with ID [1] for session ID [1525] host [DESKTOP-LPE9H33] user [User] process ID [3388]
+[2017.03.14 14:39:20] [1218m.57s.415ms] [1] SC[1525]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1525] host [DESKTOP-LPE9H33] user [User] process ID [3388]
+[2017.03.14 14:39:20] [1218m.57s.456ms] [1] CMT: There are [2] clients now: 1510, 1525
+[2017.03.14 14:39:20] [1218m.57s.570ms] [1] CMT: Removed client [1525]
+[2017.03.14 14:39:20] [1218m.57s.570ms] [1] CMT: There are [1] clients now: 1510
+[2017.03.14 14:39:21] [1218m.58s.163ms] [0] IT: Session [1526] for host [DESKTOP-LPE9H33] user [User] with process ID [3388] created
+[2017.03.14 14:39:21] [1218m.58s.164ms] [1] SC[1526]: Registered sub-client [DCDV] with ID [1] for session ID [1526] host [DESKTOP-LPE9H33] user [User] process ID [3388]
+[2017.03.14 14:39:21] [1218m.58s.178ms] [1] CMT: There are [2] clients now: 1510, 1526
+[2017.03.14 14:41:34] [1221m.11s.645ms] [1] SC[1526]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1526] host [DESKTOP-LPE9H33] user [User] process ID [3388]
+[2017.03.14 14:41:34] [1221m.11s.683ms] [1] CMT: Removed client [1526]
+[2017.03.14 14:41:34] [1221m.11s.683ms] [1] CMT: There are [1] clients now: 1510
+[2017.03.14 14:41:48] [1221m.25s.414ms] [0] IT: Session [1527] for host [DESKTOP-LPE9H33] user [User] with process ID [5048] created
+[2017.03.14 14:41:48] [1221m.25s.415ms] [1] SC[1527]: Registered sub-client [DCDV] with ID [1] for session ID [1527] host [DESKTOP-LPE9H33] user [User] process ID [5048]
+[2017.03.14 14:41:48] [1221m.25s.418ms] [1] SC[1527]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1527] host [DESKTOP-LPE9H33] user [User] process ID [5048]
+[2017.03.14 14:41:48] [1221m.25s.497ms] [1] CMT: There are [2] clients now: 1510, 1527
+[2017.03.14 14:41:48] [1221m.25s.497ms] [1] CMT: Removed client [1527]
+[2017.03.14 14:41:48] [1221m.25s.497ms] [1] CMT: There are [1] clients now: 1510
+[2017.03.14 14:41:48] [1221m.25s.970ms] [0] IT: Session [1528] for host [DESKTOP-LPE9H33] user [User] with process ID [5048] created
+[2017.03.14 14:41:48] [1221m.25s.971ms] [1] SC[1528]: Registered sub-client [DCDV] with ID [1] for session ID [1528] host [DESKTOP-LPE9H33] user [User] process ID [5048]
+[2017.03.14 14:41:48] [1221m.25s.974ms] [1] SC[1528]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1528] host [DESKTOP-LPE9H33] user [User] process ID [5048]
+[2017.03.14 14:41:48] [1221m.26s.000ms] [1] CMT: There are [2] clients now: 1510, 1528
+[2017.03.14 14:41:48] [1221m.26s.000ms] [1] CMT: Removed client [1528]
+[2017.03.14 14:41:48] [1221m.26s.000ms] [1] CMT: There are [1] clients now: 1510
+[2017.03.14 14:41:49] [1221m.26s.541ms] [0] IT: Session [1529] for host [DESKTOP-LPE9H33] user [User] with process ID [5048] created
+[2017.03.14 14:41:49] [1221m.26s.542ms] [1] SC[1529]: Registered sub-client [DCDV] with ID [1] for session ID [1529] host [DESKTOP-LPE9H33] user [User] process ID [5048]
+[2017.03.14 14:41:49] [1221m.26s.555ms] [1] SC[1529]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1529] host [DESKTOP-LPE9H33] user [User] process ID [5048]
+[2017.03.14 14:41:49] [1221m.26s.604ms] [1] CMT: There are [2] clients now: 1510, 1529
+[2017.03.14 14:41:49] [1221m.26s.722ms] [1] CMT: Removed client [1529]
+[2017.03.14 14:41:49] [1221m.26s.722ms] [1] CMT: There are [1] clients now: 1510
+[2017.03.14 14:41:50] [1221m.27s.300ms] [0] IT: Session [1530] for host [DESKTOP-LPE9H33] user [User] with process ID [5048] created
+[2017.03.14 14:41:50] [1221m.27s.301ms] [1] SC[1530]: Registered sub-client [DCDV] with ID [1] for session ID [1530] host [DESKTOP-LPE9H33] user [User] process ID [5048]
+[2017.03.14 14:41:50] [1221m.27s.325ms] [1] CMT: There are [2] clients now: 1510, 1530
+[2017.03.14 15:41:42] [1281m.19s.281ms] [1] PrjBackupMgr: Successfully created Project Backup [X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-14 15.41.41 - auto.zip] with GUID [c784-2f96-dc9f-0581-505e-7c8a-05e7-c850-1855-63f0-f2a1-c1a8]
+[2017.03.14 15:41:42] [1281m.19s.281ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[42d0-5240-7048-270f-4c4f-6c89-c4f6-c850-1855-63f0-f2a1-c1a8] CreationTime[Monday, March 13, 2017 19:36:36] Type[Autosave] Creator[iCDB Server (2017-03-13 18.20.23-9448)] ApplicationName[iCDB Server (2017-03-13 18.20.23-9448)] UserName[User] MachineName[DESKTOP-LPE9H33] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 23 for EE7.9.5; Expedition Enterprise Flow; Expedition Enterprise Flow - Update 5 for DC7.9.5] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 40692; 30120; 34984] GBSBuildId[591687] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-13 22.36.36 - auto.zip] BackupFileSize[6225423] Persistent[FALSE]
+[2017.03.14 15:41:42] [1281m.19s.281ms] [0] PrjBackupMgr: Project Backup file [X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-13 22.36.36 - auto.zip] with GUID [42d0-5240-7048-270f-4c4f-6c89-c4f6-c850-1855-63f0-f2a1-c1a8] removed
+[2017.03.14 15:41:42] [1281m.19s.281ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[c784-2f96-dc9f-0581-505e-7c8a-05e7-c850-1855-63f0-f2a1-c1a8] CreationTime[Tuesday, March 14, 2017 12:41:41] Type[Autosave] Creator[iCDB Server (2017-03-13 18.20.23-9448)] ApplicationName[iCDB Server (2017-03-13 18.20.23-9448)] UserName[User] MachineName[DESKTOP-LPE9H33] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 23 for EE7.9.5; Expedition Enterprise Flow; Expedition Enterprise Flow - Update 5 for DC7.9.5] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 40692; 30120; 34984] GBSBuildId[591687] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-14 15.41.41 - auto.zip] BackupFileSize[6231516] Persistent[FALSE]
+[2017.03.14 19:41:42] [1521m.19s.533ms] [1] PrjBackupMgr: Successfully created Project Backup [X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-14 19.41.41 - auto.zip] with GUID [0308-f32c-8587-73f1-54d1-8c8a-4d18-c850-1855-63f0-f2a1-c1a8]
+[2017.03.14 19:41:42] [1521m.19s.534ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[f675-8442-7d1e-9f77-40d2-7c89-0d27-c850-1855-63f0-f2a1-c1a8] CreationTime[Monday, March 13, 2017 23:36:36] Type[Autosave] Creator[iCDB Server (2017-03-13 18.20.23-9448)] ApplicationName[iCDB Server (2017-03-13 18.20.23-9448)] UserName[User] MachineName[DESKTOP-LPE9H33] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 23 for EE7.9.5; Expedition Enterprise Flow; Expedition Enterprise Flow - Update 5 for DC7.9.5] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 40692; 30120; 34984] GBSBuildId[591687] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-14 02.36.36 - auto.zip] BackupFileSize[6223706] Persistent[FALSE]
+[2017.03.14 19:41:42] [1521m.19s.536ms] [0] PrjBackupMgr: Project Backup file [X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-14 02.36.36 - auto.zip] with GUID [f675-8442-7d1e-9f77-40d2-7c89-0d27-c850-1855-63f0-f2a1-c1a8] removed
+[2017.03.14 19:41:42] [1521m.19s.538ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[0308-f32c-8587-73f1-54d1-8c8a-4d18-c850-1855-63f0-f2a1-c1a8] CreationTime[Tuesday, March 14, 2017 16:41:41] Type[Autosave] Creator[iCDB Server (2017-03-13 18.20.23-9448)] ApplicationName[iCDB Server (2017-03-13 18.20.23-9448)] UserName[User] MachineName[DESKTOP-LPE9H33] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 23 for EE7.9.5; Expedition Enterprise Flow; Expedition Enterprise Flow - Update 5 for DC7.9.5] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 40692; 30120; 34984] GBSBuildId[591687] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-14 19.41.41 - auto.zip] BackupFileSize[6229228] Persistent[FALSE]

@@ -1,0 +1,168 @@
+[2017.03.18 17:25:11] [0000m.00s.053ms] [0] WELCOME
+[2017.03.18 17:25:11] [0000m.00s.060ms] [1] iCDB Server ver.1.094, Q8/qRGZ6TkAm41ha2aY19Q, build:591687 created 2013-12-13 12:45:14, sources stamp:Q8/qRGZ6TkAm41ha2aY19Q
+[2017.03.18 17:25:11] [0000m.00s.060ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2017.03.18 17:25:11] [0000m.00s.060ms] [1] Base flow version [7.9.4]
+[2017.03.18 17:25:11] [0000m.00s.060ms] [1] GBS Install Id [30163], Flow Id [EE7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2017.03.18 17:25:11] [0000m.00s.060ms] [1] UPDATE Install Info, GBS Install Id [40692], UPDATE Name [Expedition Enterprise Flow - Update 23 for EE7.9.5]
+[2017.03.18 17:25:11] [0000m.00s.060ms] [1] GBS Install Id [30120], Flow Id [EE 7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2017.03.18 17:25:11] [0000m.00s.060ms] [1] UPDATE Install Info, GBS Install Id [34984], UPDATE Name [Expedition Enterprise Flow - Update 5 for DC7.9.5]
+[2017.03.18 17:25:11] [0000m.00s.061ms] [1] Machine [DESKTOP-ANDREW]  User [User]  PID [9664]
+[2017.03.18 17:25:11] [0000m.00s.061ms] [1] Operating system [Microsoft Business Edition, 64-bit (build 9200)]
+[2017.03.18 17:25:11] [0000m.00s.061ms] [1] Current working dir [X:\MG\projects\L02-0101\PCB]
+[2017.03.18 17:25:11] [0000m.00s.061ms] [1] PATH [C:\mentorgraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\mentorgraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\mentorgraphics\7.9.5EE\SDD_HOME\xe\win32\lib;C:\mentorgraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\mentorgraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\mentorgraphics\7.9.5EE\SDD_HOME\wg\win32\lib;C:\mentorgraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\mentorgraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\mentorgraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\mentorgraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\Program Files (x86)\Skype\Phone\;C:\WINDOWS\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft Emulator Manager\1.0\;C:\Program Files\MATLAB\R2011a\runtime\win64;C:\Program Files\MATLAB\R2011a\bin;C:\Users\User\AppData\Local\Microsoft\WindowsApps;;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib]
+[2017.03.18 17:25:11] [0000m.00s.061ms] [1] SDD_HOME [C:\mentorgraphics\7.9.5EE\SDD_HOME] on file system [NTFS]
+[2017.03.18 17:25:11] [0000m.00s.061ms] [1] SDD_PLATFORM [win32]
+[2017.03.18 17:25:11] [0000m.00s.061ms] [1] WDIR [C:\WDIR;C:\mentorgraphics\7.9.5EE\SDD_HOME\standard]
+[2017.03.18 17:25:11] [0000m.00s.061ms] [1] Local iCDB working dir [C:\WDIR\iCDB] on file system [NTFS]
+[2017.03.18 17:25:11] [0000m.00s.061ms] [1] S: Config file name [ServerWG.cfg]
+[2017.03.18 17:25:11] [0000m.00s.061ms] [2] S: Loading config files
+[2017.03.18 17:25:11] [0000m.00s.064ms] [1] Config file [X:\MG\projects\L02-0101\default\default.icdb\cdbsvr\ServerWG.cfg] not found
+[2017.03.18 17:25:11] [0000m.00s.064ms] [1] Config: Non-default value [System.SingleUserMode] = [no]
+[2017.03.18 17:25:11] [0000m.00s.066ms] [3] S: Config loaded
+[2017.03.18 17:25:11] [0000m.00s.106ms] [0] S: Project path [X:\MG\projects\L02-0101\default\default.icdb] on file system [NTFS]
+[2017.03.18 17:25:11] [0000m.00s.107ms] [0] S: Project file (.prj) path [X:\MG\projects\L02-0101\L02-0101.prj] on file system [NTFS]
+[2017.03.18 17:25:11] [0000m.00s.107ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2017.03.18 17:25:11] [0000m.00s.107ms] [0] S: Multi-user mode (config)
+[2017.03.18 17:25:11] [0000m.00s.107ms] [0] S: Event polling mode autodetection
+[2017.03.18 17:25:11] [0000m.00s.114ms] [0] S: Started up automatically by iCDB Client: DESKTOP-ANDREW:User:7780
+[2017.03.18 17:25:11] [0000m.00s.114ms] [0] S: Auto close mode
+[2017.03.18 17:25:11] [0000m.00s.114ms] [0] S: Database ID [d994-4355-4a5a-433e-7a35-2c8c-a352-c850-9205-63f0-f2a1-c1a8]
+[2017.03.18 17:25:11] [0000m.00s.114ms] [0] PathTranslator: BEGIN dumping
+[2017.03.18 17:25:11] [0000m.00s.114ms] [0] PathTranslator: Local -> global path prefix list
+[2017.03.18 17:25:11] [0000m.00s.114ms] [0] PathTranslator: Global -> local path prefix list
+[2017.03.18 17:25:11] [0000m.00s.114ms] [0] PathTranslator: END dumping
+[2017.03.18 17:25:11] [0000m.00s.114ms] [0] S: START
+[2017.03.18 17:25:11] [0000m.00s.114ms] [0] S: Server startup lock file created
+[2017.03.18 17:25:11] [0000m.00s.115ms] [0] S: Listening for client connections on port [10000]
+[2017.03.18 17:25:11] [0000m.00s.119ms] [0] S: Server network ID [DESKTOP-ANDREW:192.168.204.130,DESKTOP-ANDREW:10000]
+[2017.03.18 17:25:11] [0000m.00s.119ms] [0] S: Server GUID [9bed-f6dd-99c6-b9b4-7434-dc8c-434d-c850-2c65-5382-c2e3-9e98]
+[2017.03.18 17:25:11] [0000m.00s.119ms] [0] S: Project GUID [d994-4355-4a5a-433e-7a35-2c8c-a352-c850-9205-63f0-f2a1-c1a8]
+[2017.03.18 17:25:11] [0000m.00s.120ms] [0] S: Wrote data to server address file
+[2017.03.18 17:25:11] [0000m.00s.120ms] [0] S: Server startup lock file removed
+[2017.03.18 17:25:11] [0000m.00s.121ms] [1] ProjectBackupManager: Setting project file (.prj) path: [X:\MG\projects\L02-0101\L02-0101.prj]
+[2017.03.18 17:25:11] [0000m.00s.319ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2017.03.18 17:25:11] [0000m.00s.319ms] [0] S: Local disc access time: 44 us
+[2017.03.18 17:25:11] [0000m.00s.319ms] [0] S: File server access time: 44 us
+[2017.03.18 17:25:11] [0000m.00s.328ms] [0] Single file [X:\MG\projects\L02-0101\default\default.icdb\icdb.dat] size [127920 (124.9 kB)]
+[2017.03.18 17:25:11] [0000m.00s.328ms] [1] Single file [X:\MG\projects\L02-0101\default\default.icdb\icdb.dat] opened in read-write mode
+[2017.03.18 17:25:11] [0000m.00s.328ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.03.18 17:25:11] [0000m.00s.328ms] [0] Database GUARD OK: [127920]
+[2017.03.18 17:25:11] [0000m.00s.329ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.03.18 17:25:11] [0000m.00s.329ms] [0] Database GUARD OK: [127920]
+[2017.03.18 17:25:11] [0000m.00s.329ms] [0] SingleFile: [d6de-c2d2-e05e-cd27] SFI version check [1009] [1009]
+[2017.03.18 17:25:11] [0000m.00s.331ms] [0] SingleFile: [d6de-c2d2-e05e-cd27] Database SFI header has been read in [2ms 52us]
+[2017.03.18 17:25:11] [0000m.00s.333ms] [0] iCDB Server PI: Server & plugin session [1531]
+[2017.03.18 17:25:11] [0000m.00s.333ms] [0] iCDB Server PI: Opening database [X:\MG\projects\L02-0101\default\default.icdb]
+[2017.03.18 17:25:11] [0000m.00s.333ms] [0] iCDB Server PI: Database [X:\MG\projects\L02-0101\default\default.icdb] opened
+[2017.03.18 17:25:11] [0000m.00s.384ms] [0] iCDB Database: Checking existence of constraint definitions
+[2017.03.18 17:25:11] [0000m.00s.384ms] [0] iCDB Database: Checking constraint definitions version
+[2017.03.18 17:25:11] [0000m.00s.420ms] [0] iCDB Database: Creating database content backup before upgrade
+[2017.03.18 17:25:11] [0000m.00s.420ms] [1] iCDB Storage Server: Database backup: ProjectPath[X:\MG\projects\L02-0101\default\default.icdb]
+[2017.03.18 17:25:11] [0000m.00s.422ms] [0] iCDB Storage Server Backup Thread: Database backup: BackupPath[X:\MG\projects\L02-0101\default\default.icdb\cdbback\2017-03-18 17.25.11-9664.zip]
+[2017.03.18 17:25:11] [0000m.00s.633ms] [0] iCDB Storage Server Backup Thread: Backup database DONE: Result[ Succeeded[TRUE]] BackupPath[X:\MG\projects\L02-0101\default\default.icdb\cdbback\2017-03-18 17.25.11-9664.zip]
+[2017.03.18 17:25:11] [0000m.00s.635ms] [0] iCDB Database: Database content backed up to [X:\MG\projects\L02-0101\default\default.icdb\cdbback\2017-03-18 17.25.11-9664.zip] of size [222 568 bytes (217.4 kB)]  in [214ms 888us]
+[2017.03.18 17:25:11] [0000m.00s.647ms] [0] iCDB Database: Upgrading constraint definitions from version [ce_ee.cns=7.10.24;user.cns=1d5b-f9b1-6358-ad06-f0fb-d984-1fbd-9850-14e4-63f0-f2a1-c1a8]
+[2017.03.18 17:25:11] [0000m.00s.668ms] [0] iCDB Database: Loading snapshot [1:DCDV] version [2709]
+[2017.03.18 17:25:11] [0000m.00s.687ms] [0] iCDB Database: Snapshot [1:DCDV] loaded in [18ms 554us]
+[2017.03.18 17:25:11] [0000m.00s.687ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [1:DCDV]
+[2017.03.18 17:25:11] [0000m.00s.687ms] [0] iCDB Database: Constraint definitions for snapshot [1:DCDV] upgraded in [96us]
+[2017.03.18 17:25:11] [0000m.00s.687ms] [0] iCDB Database: Saving snapshot [1:DCDV]
+[2017.03.18 17:25:11] [0000m.00s.689ms] [0] iCDB Database: Snapshot [1:DCDV] saved in [1ms 766us]
+[2017.03.18 17:25:11] [0000m.00s.696ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [X:\MG\projects\L02-0101\default\default.icdb\s1\cdbcatlg\catlgatl.v] - auto-saving it
+[2017.03.18 17:25:12] [0000m.00s.824ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [X:\MG\projects\L02-0101\default\default.icdb\s1\cdbcnfgs\9d20000010000050.blk\cesatl.v] - auto-saving it
+[2017.03.18 17:25:12] [0000m.00s.825ms] [0] iCDB Database: Loading snapshot [2:PCB_Layout_Temp] version [2709]
+[2017.03.18 17:25:12] [0000m.00s.842ms] [0] iCDB Database: Snapshot [2:PCB_Layout_Temp] loaded in [17ms 295us]
+[2017.03.18 17:25:12] [0000m.00s.843ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [2:PCB_Layout_Temp]
+[2017.03.18 17:25:12] [0000m.00s.843ms] [0] iCDB Database: Constraint definitions for snapshot [2:PCB_Layout_Temp] upgraded in [138us]
+[2017.03.18 17:25:12] [0000m.00s.843ms] [0] iCDB Database: Saving snapshot [2:PCB_Layout_Temp]
+[2017.03.18 17:25:12] [0000m.00s.846ms] [0] iCDB Database: Snapshot [2:PCB_Layout_Temp] saved in [3ms 265us]
+[2017.03.18 17:25:12] [0000m.00s.857ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [X:\MG\projects\L02-0101\default\default.icdb\s2\cdbcatlg\catlgatl.v] - auto-saving it
+[2017.03.18 17:25:12] [0000m.00s.858ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [X:\MG\projects\L02-0101\default\default.icdb\s2\cdbcnfgs\9d20000010000050.blk\cesatl.v] - auto-saving it
+[2017.03.18 17:25:12] [0000m.00s.858ms] [0] iCDB Database: Loading snapshot [3:PCB] version [2709]
+[2017.03.18 17:25:12] [0000m.00s.868ms] [0] iCDB Database: Snapshot [3:PCB] loaded in [10ms 57us]
+[2017.03.18 17:25:12] [0000m.00s.869ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [3:PCB]
+[2017.03.18 17:25:12] [0000m.00s.869ms] [0] iCDB Database: Constraint definitions for snapshot [3:PCB] upgraded in [91us]
+[2017.03.18 17:25:12] [0000m.00s.869ms] [0] iCDB Database: Saving snapshot [3:PCB]
+[2017.03.18 17:25:12] [0000m.00s.871ms] [0] iCDB Database: Snapshot [3:PCB] saved in [2ms 1us]
+[2017.03.18 17:25:12] [0000m.00s.878ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [X:\MG\projects\L02-0101\default\default.icdb\s3\cdbcatlg\catlgatl.v] - auto-saving it
+[2017.03.18 17:25:12] [0000m.00s.878ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [X:\MG\projects\L02-0101\default\default.icdb\s3\cdbcnfgs\9d20000010000050.blk\cesatl.v] - auto-saving it
+[2017.03.18 17:25:12] [0000m.00s.878ms] [0] iCDB Database: Loading snapshot [4:RefSync] version [2709]
+[2017.03.18 17:25:12] [0000m.00s.894ms] [0] iCDB Database: Snapshot [4:RefSync] loaded in [15ms 839us]
+[2017.03.18 17:25:12] [0000m.00s.894ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [4:RefSync]
+[2017.03.18 17:25:12] [0000m.00s.894ms] [0] iCDB Database: Constraint definitions for snapshot [4:RefSync] upgraded in [99us]
+[2017.03.18 17:25:12] [0000m.00s.895ms] [0] iCDB Database: Saving snapshot [4:RefSync]
+[2017.03.18 17:25:12] [0000m.00s.897ms] [0] iCDB Database: Snapshot [4:RefSync] saved in [1ms 941us]
+[2017.03.18 17:25:12] [0000m.00s.904ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [X:\MG\projects\L02-0101\default\default.icdb\s4\cdbcatlg\catlgatl.v] - auto-saving it
+[2017.03.18 17:25:12] [0000m.00s.905ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [X:\MG\projects\L02-0101\default\default.icdb\s4\cdbcnfgs\9d20000010000050.blk\cesatl.v] - auto-saving it
+[2017.03.18 17:25:12] [0000m.00s.905ms] [0] iCDB Database: Loading snapshot [5:DCDV_INST_PROP_TEMPORARY_STORAGE] version [2709]
+[2017.03.18 17:25:12] [0000m.00s.907ms] [0] iCDB Database: Snapshot [5:DCDV_INST_PROP_TEMPORARY_STORAGE] loaded in [2ms 122us]
+[2017.03.18 17:25:12] [0000m.00s.907ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [5:DCDV_INST_PROP_TEMPORARY_STORAGE]
+[2017.03.18 17:25:12] [0000m.00s.909ms] [0] iCDB Database: Constraint definitions for snapshot [5:DCDV_INST_PROP_TEMPORARY_STORAGE] upgraded in [1ms 241us]
+[2017.03.18 17:25:12] [0000m.00s.909ms] [0] iCDB Database: Saving snapshot [5:DCDV_INST_PROP_TEMPORARY_STORAGE]
+[2017.03.18 17:25:12] [0000m.00s.909ms] [0] iCDB Database: Snapshot [5:DCDV_INST_PROP_TEMPORARY_STORAGE] saved in [43us]
+[2017.03.18 17:25:12] [0000m.00s.912ms] [0] iCDB Database: Constraint definitions upgraded to version [ce_ee.cns=7.10.24;user.cns=2e93-b1bf-ceb1-d05a-7434-dc8c-434d-c850-2c65-5382-c2e3-9e98]
+[2017.03.18 17:25:12] [0000m.01s.062ms] [0] iCDB Server PI: Initializing plugins
+[2017.03.18 17:25:12] [0000m.01s.063ms] [0] iCDB Server PI: Plugins initialized
+[2017.03.18 17:25:12] [0000m.01s.063ms] [0] S: iCDB database loaded
+[2017.03.18 17:25:13] [0000m.02s.485ms] [1] PrjBackupMgr: Successfully created Project Backup [X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-18 17.25.12 - consDefUpgr.zip] with GUID [726a-cf01-b770-e568-8434-dc8d-434d-c850-2c65-5382-c2e3-9e98]
+[2017.03.18 17:25:13] [0000m.02s.486ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[3218-0060-4ae1-5eb2-b45a-aa80-55aa-a850-5095-63f0-f2a1-c1a8] CreationTime[Monday, February 20, 2017 08:10:43] Type[ConsDefUpgrade] Creator[iCDB Server (2017-02-20 11.10.59-10772)] ApplicationName[iCDB Server (2017-02-20 11.10.43-10096)] UserName[toivo] MachineName[DESKTOP-MHMPJ0K] Description[Before constraint definitions upgrade using flow install:\n    Expedition Enterprise Flow; Expedition Enterprise Flow - Update 23 for EE7.9.5; Expedition Enterprise Flow; Expedition Enterprise Flow - Update 5 for DC7.9.5\n    Flow Id: EE7.9.5; EE 7.9.5\n    GBS Install Id: 30163; 40692; 30120; 34984\n    iCDB GBS Build Id: 591687\n    iCDB Version: 2709] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 23 for EE7.9.5; Expedition Enterprise Flow; Expedition Enterprise Flow - Update 5 for DC7.9.5] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 40692; 30120; 34984] GBSBuildId[591687] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-02-20 11.10.43 - consDefUpgr.zip] BackupFileSize[169391] Persistent[FALSE]
+[2017.03.18 17:25:13] [0000m.02s.486ms] [0] PrjBackupMgr: Project Backup file [X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-02-20 11.10.43 - consDefUpgr.zip] with GUID [3218-0060-4ae1-5eb2-b45a-aa80-55aa-a850-5095-63f0-f2a1-c1a8] removed
+[2017.03.18 17:25:13] [0000m.02s.487ms] [1] PrjBackupMgr: Migrated iCDB content backup file [X:\MG\projects\L02-0101\default\default.icdb\cdbback\2017-03-18 17.25.11-9664.zip] removed
+[2017.03.18 17:25:13] [0000m.02s.488ms] [0] S: Starting threads
+[2017.03.18 17:25:13] [0000m.02s.488ms] [0] BT: Listening for broadcast messages on port [10000]
+[2017.03.18 17:25:13] [0000m.02s.489ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2017.03.18 17:25:13] [0000m.02s.490ms] [0] IT: Session [1532] for host [DESKTOP-ANDREW] user [User] with process ID [7780] created
+[2017.03.18 17:25:13] [0000m.02s.491ms] [1] SC[1532]: Registered sub-client [Expedition PCB_175981515] with ID [1] for session ID [1532] host [DESKTOP-ANDREW] user [User] process ID [7780]
+[2017.03.18 17:25:13] [0000m.02s.589ms] [1] CMT: There are [1] clients now: 1532
+[2017.03.18 17:25:13] [0000m.02s.605ms] [1] SC[1532]: Registered sub-client [EEVM] with ID [2] for session ID [1532] host [DESKTOP-ANDREW] user [User] process ID [7780]
+[2017.03.18 17:25:14] [0000m.03s.155ms] [1] SC[1532]: UnRegistered sub-client [EEVM] with ID [2] for session ID [1532] host [DESKTOP-ANDREW] user [User] process ID [7780]
+[2017.03.18 17:25:15] [0000m.04s.685ms] [1] SC[1532]: Registered sub-client [ExpeditionCrossProber] with ID [3] for session ID [1532] host [DESKTOP-ANDREW] user [User] process ID [7780]
+[2017.03.18 17:25:19] [0000m.08s.339ms] [1] PrjBackupMgr: Successfully created Project Backup [X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-18 17.25.18 - auto.zip] with GUID [f25f-0815-d0ab-d530-e434-dc83-534d-c850-ab84-5382-c2e3-9e98]
+[2017.03.18 17:25:19] [0000m.08s.339ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[fd27-3780-3b3b-2495-5cca-7c8a-cca7-c850-1855-63f0-f2a1-c1a8] CreationTime[Tuesday, March 14, 2017 08:41:41] Type[Autosave] Creator[iCDB Server (2017-03-13 18.20.23-9448)] ApplicationName[iCDB Server (2017-03-13 18.20.23-9448)] UserName[User] MachineName[DESKTOP-LPE9H33] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 23 for EE7.9.5; Expedition Enterprise Flow; Expedition Enterprise Flow - Update 5 for DC7.9.5] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 40692; 30120; 34984] GBSBuildId[591687] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-14 11.41.41 - auto.zip] BackupFileSize[6231518] Persistent[FALSE]
+[2017.03.18 17:25:19] [0000m.08s.340ms] [0] PrjBackupMgr: Project Backup file [X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-14 11.41.41 - auto.zip] with GUID [fd27-3780-3b3b-2495-5cca-7c8a-cca7-c850-1855-63f0-f2a1-c1a8] removed
+[2017.03.18 17:25:19] [0000m.08s.341ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[f25f-0815-d0ab-d530-e434-dc83-534d-c850-ab84-5382-c2e3-9e98] CreationTime[Saturday, March 18, 2017 14:25:18] Type[Autosave] Creator[iCDB Server (2017-03-18 17.25.11-9664)] ApplicationName[iCDB Server (2017-03-18 17.25.11-9664)] UserName[User] MachineName[DESKTOP-ANDREW] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 23 for EE7.9.5; Expedition Enterprise Flow; Expedition Enterprise Flow - Update 5 for DC7.9.5] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 40692; 30120; 34984] GBSBuildId[591687] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[X:\MG\projects\L02-0101\default\ProjectBackup\backups\2017-03-18 17.25.18 - auto.zip] BackupFileSize[6180996] Persistent[FALSE]
+[2017.03.18 17:25:33] [0000m.22s.689ms] [0] DFAMT: File server access time: 196 us
+[2017.03.18 17:26:32] [0001m.21s.672ms] [0] IT: Session [1533] for host [DESKTOP-ANDREW] user [User] with process ID [11648] created
+[2017.03.18 17:26:32] [0001m.21s.673ms] [1] SC[1533]: Registered sub-client [DCDV] with ID [1] for session ID [1533] host [DESKTOP-ANDREW] user [User] process ID [11648]
+[2017.03.18 17:26:32] [0001m.21s.675ms] [1] SC[1533]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1533] host [DESKTOP-ANDREW] user [User] process ID [11648]
+[2017.03.18 17:26:32] [0001m.21s.749ms] [1] CMT: There are [2] clients now: 1532, 1533
+[2017.03.18 17:26:32] [0001m.21s.749ms] [1] CMT: Removed client [1533]
+[2017.03.18 17:26:32] [0001m.21s.749ms] [1] CMT: There are [1] clients now: 1532
+[2017.03.18 17:26:33] [0001m.22s.240ms] [0] IT: Session [1534] for host [DESKTOP-ANDREW] user [User] with process ID [11648] created
+[2017.03.18 17:26:33] [0001m.22s.241ms] [1] SC[1534]: Registered sub-client [DCDV] with ID [1] for session ID [1534] host [DESKTOP-ANDREW] user [User] process ID [11648]
+[2017.03.18 17:26:33] [0001m.22s.245ms] [1] SC[1534]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1534] host [DESKTOP-ANDREW] user [User] process ID [11648]
+[2017.03.18 17:26:33] [0001m.22s.252ms] [1] CMT: There are [2] clients now: 1532, 1534
+[2017.03.18 17:26:33] [0001m.22s.252ms] [1] CMT: Removed client [1534]
+[2017.03.18 17:26:33] [0001m.22s.252ms] [1] CMT: There are [1] clients now: 1532
+[2017.03.18 17:26:34] [0001m.22s.800ms] [0] IT: Session [1535] for host [DESKTOP-ANDREW] user [User] with process ID [11648] created
+[2017.03.18 17:26:34] [0001m.22s.801ms] [1] SC[1535]: Registered sub-client [DCDV] with ID [1] for session ID [1535] host [DESKTOP-ANDREW] user [User] process ID [11648]
+[2017.03.18 17:26:34] [0001m.22s.822ms] [1] SC[1535]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1535] host [DESKTOP-ANDREW] user [User] process ID [11648]
+[2017.03.18 17:26:34] [0001m.22s.856ms] [1] CMT: There are [2] clients now: 1532, 1535
+[2017.03.18 17:26:34] [0001m.22s.949ms] [1] CMT: Removed client [1535]
+[2017.03.18 17:26:34] [0001m.22s.949ms] [1] CMT: There are [1] clients now: 1532
+[2017.03.18 17:26:34] [0001m.23s.631ms] [0] IT: Session [1536] for host [DESKTOP-ANDREW] user [User] with process ID [11648] created
+[2017.03.18 17:26:34] [0001m.23s.632ms] [1] SC[1536]: Registered sub-client [DCDV] with ID [1] for session ID [1536] host [DESKTOP-ANDREW] user [User] process ID [11648]
+[2017.03.18 17:26:34] [0001m.23s.654ms] [1] CMT: There are [2] clients now: 1532, 1536
+[2017.03.18 17:26:59] [0001m.48s.699ms] [1] SC[1536]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1536] host [DESKTOP-ANDREW] user [User] process ID [11648]
+[2017.03.18 17:27:00] [0001m.48s.799ms] [1] CMT: Removed client [1536]
+[2017.03.18 17:27:00] [0001m.48s.799ms] [1] CMT: There are [1] clients now: 1532
+[2017.03.18 17:27:02] [0001m.50s.951ms] [1] SC[1532]: UnRegistered sub-client [ExpeditionCrossProber] with ID [3] for session ID [1532] host [DESKTOP-ANDREW] user [User] process ID [7780]
+[2017.03.18 17:27:02] [0001m.51s.305ms] [1] SC[1532]: UnRegistered sub-client [Expedition PCB_175981515] with ID [1] for session ID [1532] host [DESKTOP-ANDREW] user [User] process ID [7780]
+[2017.03.18 17:27:02] [0001m.51s.314ms] [1] CMT: Removed client [1532]
+[2017.03.18 17:27:02] [0001m.51s.314ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2017.03.18 17:27:04] [0001m.52s.822ms] [0] CMT: Starting server auto-close
+[2017.03.18 17:27:04] [0001m.52s.850ms] [0] S: Closing server
+[2017.03.18 17:27:04] [0001m.52s.937ms] [0] iCDB Server PI: Closing plugins
+[2017.03.18 17:27:04] [0001m.52s.937ms] [0] iCDB Server PI: Plugins closed
+[2017.03.18 17:27:04] [0001m.52s.937ms] [0] iCDB Server PI: Unloading database
+[2017.03.18 17:27:04] [0001m.52s.937ms] [0] iCDB Server PI: Saving storage
+[2017.03.18 17:27:04] [0001m.52s.938ms] [0] iCDB Server PI: Closing database
+[2017.03.18 17:27:04] [0001m.52s.957ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[1%] data[95%]
+[2017.03.18 17:27:04] [0001m.52s.957ms] [1] iCDB Server PI: Stats: Database file size [145336 (141.9 kB)]
+[2017.03.18 17:27:04] [0001m.52s.978ms] [0] iCDB Server PI: Database closed
+[2017.03.18 17:27:04] [0001m.52s.978ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [14270] ticks
+[2017.03.18 17:27:04] [0001m.52s.978ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [4577] microseconds
+[2017.03.18 17:27:04] [0001m.52s.978ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [11]
+[2017.03.18 17:27:04] [0001m.52s.978ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [2402] commands per second
+[2017.03.18 17:27:04] [0001m.52s.979ms] [0] Single file [X:\MG\projects\L02-0101\default\default.icdb\icdb.dat] closed with size [145336 (141.9 kB)]
+[2017.03.18 17:27:04] [0001m.53s.052ms] [0] S: STOP

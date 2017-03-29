@@ -1,0 +1,41 @@
+[2016.06.14 14:25:57] [0000m.00s.234ms] [0] WELCOME
+[2016.06.14 14:25:57] [0000m.00s.235ms] [1] iCDB Server ver.1.094, 6gd90oQ3k14LFbtGTR11Rg, build:689985 created 2015-09-22 09:52:52, sources stamp:6gd90oQ3k14LFbtGTR11Rg
+[2016.06.14 14:25:57] [0000m.00s.235ms] [1] Copyright 2015 Mentor Graphics Corporation. All Rights Reserved.
+[2016.06.14 14:25:57] [0000m.00s.235ms] [1] Base flow version [7.9.4]
+[2016.06.14 14:25:57] [0000m.00s.235ms] [1] GBS Install Id [30163], Flow Id [EE7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2016.06.14 14:25:57] [0000m.00s.235ms] [1] GBS Install Id [30120], Flow Id [EE 7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2016.06.14 14:25:57] [0000m.00s.235ms] [1] UPDATE Install Info, GBS Install Id [34984], UPDATE Name [Expedition Enterprise Flow - Update 5 for DC7.9.5]
+[2016.06.14 14:25:57] [0000m.00s.235ms] [1] UPDATE Install Info, GBS Install Id [45533], UPDATE Name [Expedition Enterprise Flow - Update 35 for EE7.9.5]
+[2016.06.14 14:25:57] [0000m.00s.235ms] [1] Machine [DUTENKOV-ой]  User [D.Utenkov]  PID [6572]
+[2016.06.14 14:25:57] [0000m.00s.235ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2016.06.14 14:25:57] [0000m.00s.235ms] [1] Current working dir [F:\repository\OU\045_SWC4\PCBs\0451706_SC_ARB_USB_LED\PCB]
+[2016.06.14 14:25:57] [0000m.00s.235ms] [1] PATH [C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\xe\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\TortoiseSVN\bin;C:\CooCox\CoIDE_V2Beta\gcc\bin;C:\CooCox\CoIDE_V2Beta\bin;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files (x86)\Skype\Phone\;]
+[2016.06.14 14:25:57] [0000m.00s.235ms] [1] SDD_HOME [C:\MentorGraphics\7.9.5EE\SDD_HOME] on file system [NTFS]
+[2016.06.14 14:25:57] [0000m.00s.235ms] [1] SDD_PLATFORM [win32]
+[2016.06.14 14:25:57] [0000m.00s.235ms] [1] WDIR [C:\WDIR;C:\MentorGraphics\7.9.5EE\SDD_HOME\standard]
+[2016.06.14 14:25:57] [0000m.00s.235ms] [1] Local iCDB working dir [C:\WDIR\iCDB] on file system [NTFS]
+[2016.06.14 14:25:57] [0000m.00s.235ms] [0] Creating database content backup before upgrade
+[2016.06.14 14:25:57] [0000m.00s.360ms] [0] Database content backed up to [F:\repository\OU\045_SWC4\PCBs\0451706_SC_ARB_USB_LED\default\default.icdb\cdbback\2016-06-14 14.25.57-6572.zip] of size [55 745 bytes (54.4 kB)] in [123ms 911us]
+[2016.06.14 14:25:57] [0000m.00s.363ms] [0] Global fix needed! Loading all snapshots!
+[2016.06.14 14:25:57] [0000m.00s.363ms] [0] Loading snapshot [1:DCDV] version [2709]
+[2016.06.14 14:25:57] [0000m.00s.434ms] [0] Snapshot [1:DCDV] loaded in [70ms 837us]
+[2016.06.14 14:25:57] [0000m.00s.434ms] [0] Saving snapshot [1:DCDV]
+[2016.06.14 14:25:57] [0000m.00s.436ms] [0] Snapshot [1:DCDV] saved in [1ms 799us]
+[2016.06.14 14:25:57] [0000m.00s.441ms] [0] Loading snapshot [2:PCB_Layout_Temp] version [2709]
+[2016.06.14 14:25:57] [0000m.00s.448ms] [0] Snapshot [2:PCB_Layout_Temp] loaded in [7ms 71us]
+[2016.06.14 14:25:57] [0000m.00s.448ms] [0] Saving snapshot [2:PCB_Layout_Temp]
+[2016.06.14 14:25:57] [0000m.00s.450ms] [0] Snapshot [2:PCB_Layout_Temp] saved in [1ms 800us]
+[2016.06.14 14:25:57] [0000m.00s.454ms] [0] Loading snapshot [3:PCB] version [2709]
+[2016.06.14 14:25:57] [0000m.00s.461ms] [0] Snapshot [3:PCB] loaded in [7ms 62us]
+[2016.06.14 14:25:57] [0000m.00s.461ms] [0] Saving snapshot [3:PCB]
+[2016.06.14 14:25:57] [0000m.00s.463ms] [0] Snapshot [3:PCB] saved in [1ms 864us]
+[2016.06.14 14:25:57] [0000m.00s.467ms] [0] Loading snapshot [4:RefSync] version [2709]
+[2016.06.14 14:25:57] [0000m.00s.475ms] [0] Snapshot [4:RefSync] loaded in [7ms 382us]
+[2016.06.14 14:25:57] [0000m.00s.475ms] [0] Saving snapshot [4:RefSync]
+[2016.06.14 14:25:57] [0000m.00s.476ms] [0] Snapshot [4:RefSync] saved in [918us]
+[2016.06.14 14:25:57] [0000m.00s.478ms] [0] Loading snapshot [5:DCDV_INST_PROP_TEMPORARY_STORAGE] version [2709]
+[2016.06.14 14:25:57] [0000m.00s.479ms] [0] Snapshot [5:DCDV_INST_PROP_TEMPORARY_STORAGE] loaded in [1ms 122us]
+[2016.06.14 14:25:57] [0000m.00s.479ms] [0] Saving snapshot [5:DCDV_INST_PROP_TEMPORARY_STORAGE]
+[2016.06.14 14:25:57] [0000m.00s.479ms] [0] Snapshot [5:DCDV_INST_PROP_TEMPORARY_STORAGE] saved in [18us]
+[2016.06.14 14:25:57] [0000m.00s.481ms] [0] DONE
+[2016.06.14 14:25:57] [0000m.00s.481ms] [0] .

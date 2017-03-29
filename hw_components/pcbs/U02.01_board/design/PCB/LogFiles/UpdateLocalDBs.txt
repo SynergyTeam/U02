@@ -1,0 +1,12 @@
+
+                       Update Local Cell And Padstack DBs
+                       ----------------------------------
+
+                         01:46 PM Friday, March 10, 2017
+               Job Name: X:\MG\projects\L02-0101\PCB\L02-0101.pcb
+
+
+     Version:  99.01.00
+
+The Local Cell And Padstack DBs have been updated with no errors or warnings.
+Please proceed with your component Design.

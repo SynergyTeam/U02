@@ -1,0 +1,95 @@
+[2017.02.18 21:13:30] [1671m.30s.889ms] [0] IT: Session [53] for host [DESKTOP-MHMPJ0K] user [toivo] with process ID [12884] created
+[2017.02.18 21:13:30] [1671m.30s.895ms] [1] SC[53]: Registered sub-client [ICDBC] with ID [1] for session ID [53] host [DESKTOP-MHMPJ0K] user [toivo] process ID [12884]
+[2017.02.18 21:13:30] [1671m.30s.970ms] [1] CMT: There are [2] clients now: 52, 53
+[2017.02.18 21:13:31] [1671m.31s.713ms] [1] SC[53]: UnRegistered sub-client [ICDBC] with ID [1] for session ID [53] host [DESKTOP-MHMPJ0K] user [toivo] process ID [12884]
+[2017.02.18 21:13:31] [1671m.31s.773ms] [1] CMT: Removed client [53]
+[2017.02.18 21:13:31] [1671m.31s.773ms] [1] CMT: There are [1] clients now: 52
+[2017.02.18 21:13:31] [1671m.32s.506ms] [0] IT: Session [54] for host [DESKTOP-MHMPJ0K] user [toivo] with process ID [13400] created
+[2017.02.18 21:13:31] [1671m.32s.507ms] [1] CMT: There are [2] clients now: 52, 54
+[2017.02.18 21:13:31] [1671m.32s.507ms] [1] SC[54]: Registered sub-client [Packager_298386562] with ID [1] for session ID [54] host [DESKTOP-MHMPJ0K] user [toivo] process ID [13400]
+[2017.02.18 21:13:32] [1671m.33s.263ms] [1] SC[54]: UnRegistered sub-client [Packager_298386562] with ID [1] for session ID [54] host [DESKTOP-MHMPJ0K] user [toivo] process ID [13400]
+[2017.02.18 21:13:32] [1671m.33s.310ms] [1] CMT: Removed client [54]
+[2017.02.18 21:13:32] [1671m.33s.310ms] [1] CMT: There are [1] clients now: 52
+[2017.02.18 21:14:43] [1672m.44s.417ms] [0] IT: Session [55] for host [DESKTOP-MHMPJ0K] user [toivo] with process ID [13392] created
+[2017.02.18 21:14:43] [1672m.44s.417ms] [1] ProjectBackupManager: Client [ClientData[ClientNetAddress[DESKTOP-MHMPJ0K] # ClientUserName[toivo] # ClientProcessID[13392] # SessionID[55]] # SubClientData[SubClientName[] # SubClientID[0]]] set project file (.prj): local path [C:\MG\projects\L02.011\L02.011.prj], global path [C:\MG\projects\L02.011\L02.011.prj]
+[2017.02.18 21:14:43] [1672m.44s.461ms] [0] PrjBackupMgr: Migrating iCDB upgrade backups from directory [L02.011\1\1.icdb\cdbback] to Project Backup format.
+[2017.02.18 21:14:43] [1672m.44s.462ms] [0] PrjBackupMgr: Migrating iCDB upgrade backup file [2017-02-15 17.38.31-8612].
+[2017.02.18 21:14:43] [1672m.44s.469ms] [0] WARNING: Could not get iCDB content version info from upgrade backup file [C:\MG\projects\L02.011\1\1.icdb\cdbback\2017-02-15 17.38.31-8612.zip] - will not be migrated.
+[2017.02.18 21:14:43] [1672m.44s.471ms] [1] PrjBackupMgr: iCDB backup upgrade file [C:\MG\projects\L02.011\1\1.icdb\cdbback\2017-02-15 17.38.31-8612.zip] which failed to migrate to Project Backup renamed to [C:\MG\projects\L02.011\1\1.icdb\cdbback\2017-02-15 17.38.31-8612-pbmf.zip]
+[2017.02.18 21:14:43] [1672m.44s.472ms] [1] SC[55]: Registered sub-client [Expedition PCB_298458484] with ID [1] for session ID [55] host [DESKTOP-MHMPJ0K] user [toivo] process ID [13392]
+[2017.02.18 21:14:43] [1672m.44s.510ms] [1] CMT: There are [2] clients now: 52, 55
+[2017.02.18 21:14:43] [1672m.44s.544ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\MG\projects\L02.011\default\ProjectBackup\backups\2017-02-18 21.14.43 - auto.zip] with GUID [bd4c-b19b-817c-c22e-31f8-8a88-1f88-a850-9734-b3e2-534e-30a8]
+[2017.02.18 21:14:43] [1672m.44s.545ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[87ea-9c2e-d366-1f6f-99b5-b98e-9b5b-9850-20b4-e362-1371-63a8] CreationTime[Wednesday, February 08, 2017 17:55:37] Type[Autosave] Creator[iCDB Server (2017-02-08 17.42.02-7024)] ApplicationName[iCDB Server (2017-02-08 17.42.02-7024)] UserName[toivo] MachineName[DESKTOP-MHMPJ0K] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 23 for EE7.9.5; Expedition Enterprise Flow; Expedition Enterprise Flow - Update 5 for DC7.9.5] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 40692; 30120; 34984] GBSBuildId[591687] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[C:\MG\projects\L02.011\default\ProjectBackup\backups\2017-02-08 20.55.37 - auto.zip] BackupFileSize[959290] Persistent[FALSE]
+[2017.02.18 21:14:43] [1672m.44s.546ms] [0] PrjBackupMgr: Project Backup file [C:\MG\projects\L02.011\default\ProjectBackup\backups\2017-02-08 20.55.37 - auto.zip] with GUID [87ea-9c2e-d366-1f6f-99b5-b98e-9b5b-9850-20b4-e362-1371-63a8] removed
+[2017.02.18 21:14:43] [1672m.44s.547ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[74a8-1e6e-aaa4-f8b7-3461-c988-461c-9850-20b4-e362-1371-63a8] CreationTime[Thursday, February 09, 2017 07:12:03] Type[Autosave] Creator[iCDB Server (2017-02-08 17.42.02-7024)] ApplicationName[iCDB Server (2017-02-08 17.42.02-7024)] UserName[toivo] MachineName[DESKTOP-MHMPJ0K] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 23 for EE7.9.5; Expedition Enterprise Flow; Expedition Enterprise Flow - Update 5 for DC7.9.5] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 40692; 30120; 34984] GBSBuildId[591687] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[C:\MG\projects\L02.011\default\ProjectBackup\backups\2017-02-09 10.12.03 - auto.zip] BackupFileSize[946411] Persistent[FALSE]
+[2017.02.18 21:14:43] [1672m.44s.547ms] [0] PrjBackupMgr: Project Backup file [C:\MG\projects\L02.011\default\ProjectBackup\backups\2017-02-09 10.12.03 - auto.zip] with GUID [74a8-1e6e-aaa4-f8b7-3461-c988-461c-9850-20b4-e362-1371-63a8] removed
+[2017.02.18 21:14:43] [1672m.44s.549ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[49b7-b6e1-7798-f742-b60a-3980-70a3-9850-1044-b3e2-534e-30a8] CreationTime[Wednesday, February 01, 2017 13:39:37] Type[ConsDefUpgrade] Creator[iCDB Server (2017-02-03 00.09.58-8908)] ApplicationName[iCDB Server (2017-02-01 16.39.37-3580)] UserName[D.Utenkov] MachineName[DUTENKOV-ой] Description[Before constraint definitions upgrade using flow install:\n    Expedition Enterprise Flow; Expedition Enterprise Flow - Update 5 for DC7.9.5; Expedition Enterprise Flow - Update 35 for EE7.9.5\n    Flow Id: EE7.9.5; EE 7.9.5\n    GBS Install Id: 30163; 30120; 34984; 45533\n    iCDB GBS Build Id: 689985\n    iCDB Version: 2709] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 5 for DC7.9.5; Expedition Enterprise Flow - Update 35 for EE7.9.5] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 30120; 34984; 45533] GBSBuildId[689985] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[C:\MG\projects\L02.011\default\ProjectBackup\backups\2017-02-01 16.39.37 - consDefUpgr.zip] BackupFileSize[6032002] Persistent[FALSE]
+[2017.02.18 21:14:43] [1672m.44s.549ms] [0] PrjBackupMgr: Project Backup file [C:\MG\projects\L02.011\default\ProjectBackup\backups\2017-02-01 16.39.37 - consDefUpgr.zip] with GUID [49b7-b6e1-7798-f742-b60a-3980-70a3-9850-1044-b3e2-534e-30a8] removed
+[2017.02.18 21:14:43] [1672m.44s.551ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[3bc4-2971-a569-7618-a919-1a8f-9191-a850-9a83-63f0-f2a1-c1a8] CreationTime[Monday, February 13, 2017 10:59:38] Type[ProjectRepair] Creator[iCDB Project Backup (2017-02-13 13.59.06-7604)] ApplicationName[iCDB Project Backup] UserName[User] MachineName[DESKTOP-LPE9H33] Description[] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 23 for EE7.9.5; Expedition Enterprise Flow; Expedition Enterprise Flow - Update 5 for DC7.9.5] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 40692; 30120; 34984] GBSBuildId[591687] IcdbVersion[] ReferenceLogFilePath[] BackupFilePath[C:\MG\projects\L02.011\default\ProjectBackup\backups\2017-02-13 13.59.38 - repair.zip] BackupFileSize[6371986] Persistent[FALSE]
+[2017.02.18 21:14:43] [1672m.44s.551ms] [0] PrjBackupMgr: Project Backup file [C:\MG\projects\L02.011\default\ProjectBackup\backups\2017-02-13 13.59.38 - repair.zip] with GUID [3bc4-2971-a569-7618-a919-1a8f-9191-a850-9a83-63f0-f2a1-c1a8] removed
+[2017.02.18 21:14:43] [1672m.44s.552ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[ea76-04cc-7408-89b6-b429-1a80-5291-a850-9633-63f0-f2a1-c1a8] CreationTime[Monday, February 13, 2017 11:02:35] Type[ProjectRepair] Creator[iCDB Project Backup (2017-02-13 14.02.24-8744)] ApplicationName[iCDB Project Backup] UserName[User] MachineName[DESKTOP-LPE9H33] Description[] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 23 for EE7.9.5; Expedition Enterprise Flow; Expedition Enterprise Flow - Update 5 for DC7.9.5] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 40692; 30120; 34984] GBSBuildId[591687] IcdbVersion[] ReferenceLogFilePath[] BackupFilePath[C:\MG\projects\L02.011\default\ProjectBackup\backups\2017-02-13 14.02.35 - repair.zip] BackupFileSize[6371987] Persistent[FALSE]
+[2017.02.18 21:14:43] [1672m.44s.553ms] [0] PrjBackupMgr: Project Backup file [C:\MG\projects\L02.011\default\ProjectBackup\backups\2017-02-13 14.02.35 - repair.zip] with GUID [ea76-04cc-7408-89b6-b429-1a80-5291-a850-9633-63f0-f2a1-c1a8] removed
+[2017.02.18 21:14:43] [1672m.44s.554ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[bd4c-b19b-817c-c22e-31f8-8a88-1f88-a850-9734-b3e2-534e-30a8] CreationTime[Saturday, February 18, 2017 18:14:43] Type[Autosave] Creator[iCDB Server (2017-02-17 17.21.59-1528)] ApplicationName[iCDB Server (2017-02-17 17.21.59-1528)] UserName[toivo] MachineName[DESKTOP-MHMPJ0K] Description[Autosave] FullFlowName[Expedition Enterprise Flow; Expedition Enterprise Flow - Update 23 for EE7.9.5; Expedition Enterprise Flow; Expedition Enterprise Flow - Update 5 for DC7.9.5] FlowId[EE7.9.5; EE 7.9.5] GBSInstallId[30163; 40692; 30120; 34984] GBSBuildId[591687] IcdbVersion[2709] ReferenceLogFilePath[] BackupFilePath[C:\MG\projects\L02.011\default\ProjectBackup\backups\2017-02-18 21.14.43 - auto.zip] BackupFileSize[107305] Persistent[FALSE]
+[2017.02.18 21:14:51] [1672m.52s.152ms] [1] SC[55]: UnRegistered sub-client [Expedition PCB_298458484] with ID [1] for session ID [55] host [DESKTOP-MHMPJ0K] user [toivo] process ID [13392]
+[2017.02.18 21:14:51] [1672m.52s.247ms] [1] CMT: Removed client [55]
+[2017.02.18 21:14:51] [1672m.52s.247ms] [1] CMT: There are [1] clients now: 52
+[2017.02.18 21:15:33] [1673m.34s.097ms] [0] IT: Session [56] for host [DESKTOP-MHMPJ0K] user [toivo] with process ID [7008] created
+[2017.02.18 21:15:33] [1673m.34s.099ms] [1] SC[56]: Registered sub-client [Expedition PCB_298508156] with ID [1] for session ID [56] host [DESKTOP-MHMPJ0K] user [toivo] process ID [7008]
+[2017.02.18 21:15:33] [1673m.34s.138ms] [1] CMT: There are [2] clients now: 52, 56
+[2017.02.18 21:15:34] [1673m.35s.106ms] [1] SC[56]: UnRegistered sub-client [Expedition PCB_298508156] with ID [1] for session ID [56] host [DESKTOP-MHMPJ0K] user [toivo] process ID [7008]
+[2017.02.18 21:15:34] [1673m.35s.141ms] [1] CMT: Removed client [56]
+[2017.02.18 21:15:34] [1673m.35s.141ms] [1] CMT: There are [1] clients now: 52
+[2017.02.18 21:16:26] [1674m.26s.866ms] [0] IT: Session [57] for host [DESKTOP-MHMPJ0K] user [toivo] with process ID [12872] created
+[2017.02.18 21:16:26] [1674m.26s.867ms] [1] SC[57]: Registered sub-client [ICDBC] with ID [1] for session ID [57] host [DESKTOP-MHMPJ0K] user [toivo] process ID [12872]
+[2017.02.18 21:16:26] [1674m.26s.884ms] [1] CMT: There are [2] clients now: 52, 57
+[2017.02.18 21:16:28] [1674m.29s.077ms] [1] SC[57]: UnRegistered sub-client [ICDBC] with ID [1] for session ID [57] host [DESKTOP-MHMPJ0K] user [toivo] process ID [12872]
+[2017.02.18 21:16:28] [1674m.29s.096ms] [1] CMT: Removed client [57]
+[2017.02.18 21:16:28] [1674m.29s.096ms] [1] CMT: There are [1] clients now: 52
+[2017.02.18 21:16:29] [1674m.29s.899ms] [0] IT: Session [58] for host [DESKTOP-MHMPJ0K] user [toivo] with process ID [8872] created
+[2017.02.18 21:16:29] [1674m.29s.900ms] [1] SC[58]: Registered sub-client [Packager_298563953] with ID [1] for session ID [58] host [DESKTOP-MHMPJ0K] user [toivo] process ID [8872]
+[2017.02.18 21:16:29] [1674m.29s.900ms] [1] CMT: There are [2] clients now: 52, 58
+[2017.02.18 21:16:29] [1674m.30s.531ms] [1] SC[58]: UnRegistered sub-client [Packager_298563953] with ID [1] for session ID [58] host [DESKTOP-MHMPJ0K] user [toivo] process ID [8872]
+[2017.02.18 21:16:29] [1674m.30s.602ms] [1] CMT: Removed client [58]
+[2017.02.18 21:16:29] [1674m.30s.602ms] [1] CMT: There are [1] clients now: 52
+[2017.02.18 21:16:56] [1674m.57s.280ms] [0] IT: Session [59] for host [DESKTOP-MHMPJ0K] user [toivo] with process ID [13152] created
+[2017.02.18 21:16:56] [1674m.57s.281ms] [1] SC[59]: Registered sub-client [Expedition PCB_298591343] with ID [1] for session ID [59] host [DESKTOP-MHMPJ0K] user [toivo] process ID [13152]
+[2017.02.18 21:16:56] [1674m.57s.334ms] [1] CMT: There are [2] clients now: 52, 59
+[2017.02.18 21:16:58] [1674m.58s.920ms] [1] SC[59]: UnRegistered sub-client [Expedition PCB_298591343] with ID [1] for session ID [59] host [DESKTOP-MHMPJ0K] user [toivo] process ID [13152]
+[2017.02.18 21:16:58] [1674m.58s.940ms] [1] CMT: Removed client [59]
+[2017.02.18 21:16:58] [1674m.58s.940ms] [1] CMT: There are [1] clients now: 52
+[2017.02.18 21:17:16] [1675m.17s.091ms] [0] IT: Session [60] for host [DESKTOP-MHMPJ0K] user [toivo] with process ID [13648] created
+[2017.02.18 21:17:16] [1675m.17s.093ms] [1] SC[60]: Registered sub-client [Expedition PCB_298611156] with ID [1] for session ID [60] host [DESKTOP-MHMPJ0K] user [toivo] process ID [13648]
+[2017.02.18 21:17:16] [1675m.17s.117ms] [1] CMT: There are [2] clients now: 52, 60
+[2017.02.18 21:17:27] [1675m.28s.056ms] [1] SC[60]: UnRegistered sub-client [Expedition PCB_298611156] with ID [1] for session ID [60] host [DESKTOP-MHMPJ0K] user [toivo] process ID [13648]
+[2017.02.18 21:17:27] [1675m.28s.065ms] [1] CMT: Removed client [60]
+[2017.02.18 21:17:27] [1675m.28s.065ms] [1] CMT: There are [1] clients now: 52
+[2017.02.18 21:19:09] [1677m.09s.741ms] [1] SC[52]: UnRegistered sub-client [DCDV] with ID [1] for session ID [52] host [DESKTOP-MHMPJ0K] user [toivo] process ID [2512]
+[2017.02.18 21:19:09] [1677m.09s.816ms] [1] CMT: Removed client [52]
+[2017.02.18 21:19:09] [1677m.09s.816ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2017.02.18 21:19:11] [1677m.11s.727ms] [0] CMT: Starting server auto-close
+[2017.02.18 21:19:11] [1677m.11s.752ms] [0] S: Closing server
+[2017.02.18 21:19:11] [1677m.11s.834ms] [0] iCDB Server PI: Closing plugins
+[2017.02.18 21:19:11] [1677m.11s.836ms] [0] iCDB Server PI: Plugins closed
+[2017.02.18 21:19:11] [1677m.11s.836ms] [0] iCDB Server PI: Unloading database
+[2017.02.18 21:19:11] [1677m.11s.836ms] [0] iCDB Server PI: Saving storage
+[2017.02.18 21:19:11] [1677m.11s.836ms] [0] iCDB Server PI: Closing database
+[2017.02.18 21:19:11] [1677m.11s.838ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[68%] data[72%]
+[2017.02.18 21:19:11] [1677m.11s.838ms] [1] iCDB Server PI: Stats: Database file size [86176 (84.2 kB)]
+[2017.02.18 21:19:11] [1677m.11s.839ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2017.02.18 21:19:11] [1677m.11s.843ms] [0] iCDB Server PI: Database closed
+[2017.02.18 21:19:11] [1677m.11s.843ms] [0] iCDB Server PI: Defragmenting database
+[2017.02.18 21:19:11] [1677m.11s.844ms] [0] iCDB Server PI: Creating database [C:\MG\projects\L02.011\1\1.icdb] backup to file [C:\MG\projects\L02.011\1\1.icdb\cdbback\2017-02-18 21.19.11-1528-d.zip]
+[2017.02.18 21:19:11] [1677m.11s.878ms] [0] iCDB Server PI: Database backup: DONE
+[2017.02.18 21:19:11] [1677m.11s.884ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2017.02.18 21:19:11] [1677m.11s.884ms] [0] Database GUARD OK: [86176]
+[2017.02.18 21:19:11] [1677m.11s.884ms] [0] SingleFile: [a58a-fb76-b272-4610] SFI version check [1009] [1009]
+[2017.02.18 21:19:11] [1677m.11s.884ms] [0] SingleFile: [a58a-fb76-b272-4610] Database SFI header has been read in [836us]
+[2017.02.18 21:19:11] [1677m.11s.894ms] [1] iCDB Server PI: Stats: Database file sizes: before[86176 (84.2 kB)], after[61168 (59.7 kB)], gain[25008 (24.4 kB)]
+[2017.02.18 21:19:11] [1677m.11s.897ms] [0] Single file [C:\MG\projects\L02.011\1\1.icdb\icdb.dat] closed with size [61168 (59.7 kB)]
+[2017.02.18 21:19:11] [1677m.11s.897ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2017.02.18 21:19:11] [1677m.11s.897ms] [1] BackupTransaction: Removing database backup [C:\MG\projects\L02.011\1\1.icdb\cdbback\2017-02-18 21.19.11-1528-d.zip]
+[2017.02.18 21:19:11] [1677m.11s.898ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [205067] ticks
+[2017.02.18 21:19:11] [1677m.11s.898ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [91506] microseconds
+[2017.02.18 21:19:11] [1677m.11s.898ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [313]
+[2017.02.18 21:19:11] [1677m.11s.898ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [3420] commands per second
+[2017.02.18 21:19:11] [1677m.12s.061ms] [0] S: STOP

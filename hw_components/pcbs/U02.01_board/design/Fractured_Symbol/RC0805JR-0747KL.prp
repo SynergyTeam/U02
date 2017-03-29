@@ -1,0 +1,13 @@
+$symbol Resistor
+  Part Name	""
+  Part Number	""
+  Model Suffix	""
+  Ref Designator	""
+  Value	""
+  222	"alws"
+    $pin
+       PIN_NO   "1"
+       PIN_NAME    "1"
+    $pin
+       PIN_NO   "2"
+       PIN_NAME    "2"

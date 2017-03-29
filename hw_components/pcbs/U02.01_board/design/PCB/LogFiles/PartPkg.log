@@ -1,0 +1,221 @@
+
+                                    Packager
+                                    --------
+
+                         11:23 AM Monday, March 20, 2017
+                 Job Name: X:\MG\projects\L02-0101\L02-0101.prj
+
+
+     Packager     Version: 020806.00
+
+        Commandline is: "C:\mentorgraphics\7.9.5EE\SDD_HOME\wg\win32\bin\Package.exe -j"X:\MG\projects\L02-0101\L02-0101.prj" -CleanBuild -NoFill "
+
+     The Common Database is at "X:\MG\projects\L02-0101\default\default.icdb".
+
+     The Root of this design is "000_main".
+
+     The Front End Snapshot of this design is "DCDV".
+
+     The PCB Design Path of this design is at "X:\MG\projects\L02-0101\PCB\L02-0101.pcb".
+
+     The Central Library is at "X:\MG\lib\PCB_Lib\SWITRON_CLIB\Central_Library.lmc".
+
+     The SchematicDesignBackAnno status indicates that the
+      Common DataBase is not available to receive updates.
+     !THE iCDB WILL NOT BE UPDATED!
+
+     Back annotation will not take place to the Common DataBase, however a
+      BAM file will be created for reading purposes or processing through
+      BAM Plus.
+
+     The Disable Repackage status indicates that 
+      Repackaging should be allowed.
+
+     A new Target PDB will be created from the Central Library to satisfy the parts
+      requirements of the iCDB.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be deleted
+      and the relevant symbols repackaged.
+
+     Back annotation will not take place to the Common DataBase, however a
+      BAM file will be created for reading purposes or processing through
+      BAM Plus.  This -y option is useful in conjunction with the -i or -m
+      options where the intent is only to test a new PDB against the 
+      schematic symbols.
+     !THE iCDB WILL NOT BE UPDATED!
+
+     The cross mapping of symbol pin names to Part Number pin
+      numbers will be checked for packaged symbols and mapped correctly
+      for unpackaged symbols.
+
+     Properties that have been checked off in the Property Definition Editor
+      found at Library Manager/Common Properties will be checked for value
+      differences between the PartsDB and the non-null properties on symbols.
+     Those properties checked off (other than Part Number)
+      will not be transferred from the PartsDB to symbols.
+     The following properties were checked off in the Property Definition Editor:
+       "Parametric"
+       "Value2"
+       "AmtTHPin"
+       "AmtSMDPin"
+       "PAGE_#"
+       "DWG_NO"
+       "UMD"
+       "MFG"
+       "IBIS"
+       "Model Suffix"
+       "Part Label"
+       "VHDL Model"
+       "Verilog Model"
+       "Description"
+       "Simulation Model"
+       "Rating"
+       "Tolerance"
+       "Part Number"
+       "Value"
+       "Part Name"
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Integration\LocalPartsDB.pdb
+
+     Number of Part Numbers: 75
+          Part Numb: BAV99 -> Vend Part: BAV99 
+          Part Numb: BCP53.115 -> Vend Part: BCP53.115 
+          Part Numb: BCP69 -> Vend Part: BCP69 
+          Part Numb: BC848B -> Vend Part: BC848B 
+          Part Numb: BC856B -> Vend Part: BC856B 
+          Part Numb: BH-6 -> Vend Part: BH-6 
+          Part Numb: BLM21PG220SN1D -> Vend Part: BLM21PG220SN1D 
+          Part Numb: B82793 -> Vend Part: B82793 
+          Part Numb: CC0805JRNPO9BN103 -> Vend Part: CC0805JRNPO9BN103 
+          Part Numb: CC0805JRX7R9BB104 -> Vend Part: CC0805JRX7R9BB104 
+          Part Numb: CC0805KKX5R8BB106 -> Vend Part: CC0805KKX5R8BB106 
+          Part Numb: CC0805KKX7R0BB104 -> Vend Part: CC0805KKX7R0BB104 
+          Part Numb: CC0805KKX7R8BB105 -> Vend Part: CC0805KKX7R8BB105 
+          Part Numb: CC1206KKX7R0BB105 -> Vend Part: CC1206KKX7R0BB105 
+          Part Numb: C_100uF_25V_KF -> Vend Part: C_100uF_25V_KF 
+          Part Numb: DM1-01C-30 -> Vend Part: DM1-01C-30 
+          Part Numb: EDGE_Knife -> Vend Part: EDGE_Knife 
+          Part Numb: EDGE_Knife_r -> Vend Part: EDGE_Knife_r 
+          Part Numb: ES3J -> Vend Part: ES3J 
+          Part Numb: FYLS-0603UBC -> Vend Part: FYLS-0603UBC 
+          Part Numb: ISO7221ADR -> Vend Part: ISO7221ADR 
+          Part Numb: KX-3H 8.0 MHz -> Vend Part: KX-3H 8.0 MHz 
+          Part Numb: LM75AD -> Vend Part: LM75AD 
+          Part Numb: LM5008MM -> Vend Part: LM5008MM 
+          Part Numb: LP2950CDT-3.3RKG -> Vend Part: LP2950CDT-3.3RKG 
+          Part Numb: MAX13487EESA+ -> Vend Part: MAX13487EESA+ 
+          Part Numb: MQ-4 -> Vend Part: MQ-4 
+          Part Numb: NRP02-C12DH-S -> Vend Part: NRP02-C12DH-S 
+          Part Numb: PLS-5 -> Vend Part: PLS-5 
+          Part Numb: RC0805FR-071KL -> Vend Part: RC0805FR-071KL 
+          Part Numb: RC0805FR-073K9L -> Vend Part: RC0805FR-073K9L 
+          Part Numb: RC0805FR-074K7L -> Vend Part: RC0805FR-074K7L 
+          Part Numb: RC0805FR-0710KL -> Vend Part: RC0805FR-0710KL 
+          Part Numb: RC0805FR-0715KL -> Vend Part: RC0805FR-0715KL 
+          Part Numb: RC0805FR-0718KL -> Vend Part: RC0805FR-0718KL 
+          Part Numb: RC0805FR-0730KL -> Vend Part: RC0805FR-0730KL 
+          Part Numb: RC0805FR-07100KL -> Vend Part: RC0805FR-07100KL 
+          Part Numb: RC0805JR-073K0L -> Vend Part: RC0805JR-073K0L 
+          Part Numb: RC0805JR-073K3L -> Vend Part: RC0805JR-073K3L 
+          Part Numb: RC0805JR-074K7L -> Vend Part: RC0805JR-074K7L 
+          Part Numb: RC0805JR-0710KL -> Vend Part: RC0805JR-0710KL 
+          Part Numb: RC0805JR-0720KL -> Vend Part: RC0805JR-0720KL 
+          Part Numb: RC0805JR-0722RL -> Vend Part: RC0805JR-0722RL 
+          Part Numb: RC0805JR-0751KL -> Vend Part: RC0805JR-0751KL 
+          Part Numb: RC0805JR-07100KL -> Vend Part: RC0805JR-07100KL 
+          Part Numb: RC0805JR-07300KL -> Vend Part: RC0805JR-07300KL 
+          Part Numb: RC0805JR-07300RL -> Vend Part: RC0805JR-07300RL 
+          Part Numb: RC1206FR-0710RL -> Vend Part: RC1206FR-0710RL 
+          Part Numb: RC1206JR-070RL -> Vend Part: RC1206JR-070RL 
+          Part Numb: SDR0403-4R7ML -> Vend Part: SDR0403-4R7ML 
+          Part Numb: SDR0805-4R7ML -> Vend Part: SDR0805-4R7ML 
+          Part Numb: SDR0805-331KL -> Vend Part: SDR0805-331KL 
+          Part Numb: SMBJ60A -> Vend Part: SMBJ60A 
+          Part Numb: SMLVT3V3 -> Vend Part: SMLVT3V3 
+          Part Numb: SM712.TCT -> Vend Part: SM712.TCT 
+          Part Numb: SS26-LTP -> Vend Part: SS26-LTP 
+          Part Numb: STM32F070CB -> Vend Part: STM32F070CB 
+          Part Numb: TAJC227K006R -> Vend Part: TAJC227K006R 
+          Part Numb: TH_Single_Conn_1.5mm -> Vend Part: TH_Single_Conn_1.5mm 
+          Part Numb: TPS562200DD -> Vend Part: TPS562200DD 
+          Part Numb: USBLC6-2SC6 -> Vend Part: USBLC6-2SC6 
+          Part Numb: 15EDGVC-3.81-03P -> Vend Part: 15EDGVC-3.81-03P 
+          Part Numb: 15EDGVC-3.81-04P -> Vend Part: 15EDGVC-3.81-04P 
+          Part Numb: 15EDGVC-3.81-08P -> Vend Part: 15EDGVC-3.81-08P 
+          Part Numb: 0805YD225KAT2A -> Vend Part: 0805YD225KAT2A 
+          Part Numb: 0805YD475KAT2A -> Vend Part: 0805YD475KAT2A 
+          Part Numb: 7914J -> Vend Part: 7914J 
+          Part Numb: 08053C102KAT2A -> Vend Part: 08053C102KAT2A 
+          Part Numb: 08053C105KAT2A -> Vend Part: 08053C105KAT2A 
+          Part Numb: 08055A103JAT2A -> Vend Part: 08055A103JAT2A 
+          Part Numb: 08055A220JAT2A -> Vend Part: 08055A220JAT2A 
+          Part Numb: 08055C103KAT2A -> Vend Part: 08055C103KAT2A 
+          Part Numb: 08055C104KAT2A -> Vend Part: 08055C104KAT2A 
+          Part Numb: 08056D226KAT2A -> Vend Part: 08056D226KAT2A 
+          Part Numb: 1981568-1 -> Vend Part: 1981568-1 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between non-null symbol properties and PartsDB properties,
+      but only for those properties checked off in the Property Definition Editor
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 177 Symbols:
+             177  **************************
+             150  **************************************************
+             100  **************************************************
+              50  **************************************************
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     109 nets were found containing 486 pins
+     177 components were found
+
+     Parsed netlist - Augmenting..
+
+     Augmented - Adding phantom pins....
+
+     Numbering Nets....
+
+     Checking Pins....
+
+     Packaging has been successfully tested with no errors or warnings.
+
+     Writing Integration\CDBBackAnno.bam for BAMPlus
+
+     A BAM WasIs List: Integration\CDBBackAnno.bam has been created.
+     There have been 1 pin number changes.
+     The BAM file will list all of the from-to changes.
+
+    REMEMBER, the Common DataBase is not in sync with the schematic
+    until Packager is run again under conditions that permit the direct
+    updating of the Common DataBase.
+
+     Packager finished successfully.
+     !THE iCDB HAS NOT BEEN UPDATED!
+     
+     An unused pin report has been written to Integration\UnusedPins.txt
+     An unused gate report for gates not in schematic has been written to Integration\UnusedGates.txt
+     An augmented pin report has been written to Integration\AugmentedPins.txt.

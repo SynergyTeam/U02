@@ -1,0 +1,22 @@
+; Version : LOCAL
+; Job     : X:\MG\projects\L02-0101\PCB\L02-0101.pcb
+; User    : DESKTOP-LPE9H33:User
+; Date    : Tue Mar 14 15:43:56 2017
+; Format  : 3.3 / Absolute / MM / Leading
+; Contents: Thru / Drill / Non-Plated
+M48
+METRIC,TZ
+FMAT,2
+ICI,OFF
+T06C3.2000
+%
+M71
+G90
+G93X0Y0
+T06
+X-47500Y-14000
+X47500
+X-47500Y14000
+X47500
+T00
+M30

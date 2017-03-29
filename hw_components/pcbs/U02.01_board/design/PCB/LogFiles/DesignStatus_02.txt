@@ -1,0 +1,80 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version 2014.0.638.135
+=======================================================================
+
+Job Directory:        X:\MG\projects\L02.011\PCB\
+
+Design Status Report: X:\MG\projects\L02.011\PCB\LogFiles\DesignStatus_02.txt
+
+Tue Mar 07 18:34:26 2017
+
+=======================================================================
+DESIGN STATUS
+=======================================================================
+Board Size Extents  ............ 125.5 X 55.5 (mm)
+Route Border Extents  .......... 125.5 X 55.5 (mm)
+Actual Board Area  ............. 6,000.5 (mm)
+Actual Route Area  ............. 6,000.5 (mm)
+
+Placement Areas: Name            Available         Required          Required/Available
+                 Entire Board    12,001 Sq. (mm)   3,592.98 Sq. (mm) 29.94 %
+
+Pins  .......................... 482
+Pins per Route Area  ........... 0.08 Pins/Sq. (mm)
+
+Layers  ........................ 2
+    Layer 1 is a signal layer
+        Trace Widths  .......... 0.3, 0.5, 0.6, 0.8, 1
+    Layer 2 is a signal layer
+        Trace Widths  .......... 0.3, 0.5, 0.6, 0.8, 1, 1.5
+
+Nets  .......................... 104
+Connections  ................... 384
+Open Connections  .............. 50
+Differential Pairs  ............ 0
+Percent Routed  ................ 86.98 %
+
+Netline Length  ................ 622.63 (mm)
+Netline Manhattan Length  ...... 765.43 (mm)
+Total Trace Length  ............ 2,140.48 (mm)
+
+Trace Widths Used (mm)  ........ 0.3, 0.5, 0.6, 0.8, 1, 1.5
+Vias  .......................... 113
+Via Span  Name                   Quantity
+   1-2    VIA 0.30_0.20mm        15
+          VIA 0.90_0.40mm_REZONIT98
+
+Teardrops....................... 0
+    Pad Teardrops............... 0
+    Trace Teardrops............. 0
+    Custom Teardrops............ 0
+Breakouts....................... 0
+
+Virtual Pins.................... 0
+Guide Pins ..................... 0
+
+Parts Placed  .................. 172
+    Parts Mounted on Top  ...... 130
+        SMD  ................... 107
+        Through  ............... 23
+        Test Points  ........... 0
+        Mechanical  ............ 0
+    Parts Mounted on Bottom  ... 42
+        SMD  ................... 42
+        Through  ............... 0
+        Test Points  ........... 0
+        Mechanical  ............ 0
+    Embedded Components ........ 0
+        Capacitors ............. 0
+        Resistors .............. 0
+    Edge Connector Parts  ...... 0
+
+Parts not Placed  .............. 0
+
+Nested Cells  .................. 0
+
+Jumpers  ....................... 0
+
+Through Holes  ................. 186
+    Holes per Board Area  ...... 0.03 Holes/Sq. (mm)
+Mounting Holes  ................ 6

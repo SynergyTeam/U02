@@ -1,0 +1,27 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version 2014.0.638.135
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  X:\MG\projects\L02.011\PCB\
+
+
+Design Units:(mm)
+
+Replace Cell Log:   repCellLog82.txt
+
+Mon Mar 06 12:30:27 2017
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Mon Mar 06 12:30:27 2017  ---------------
+
+
+
+
+---------------    Mon Mar 06 12:30:27 2017  ---------------
+
+

@@ -1,0 +1,32 @@
+[2015.06.17 15:46:33] [0000m.02s.269ms] [0] WELCOME
+[2015.06.17 15:46:33] [0000m.02s.269ms] [1] iCDB Database ver.1.094, Q8/qRGZ6TkAm41ha2aY19Q, build:591687 created 2013-12-13 12:45:14, sources stamp:Q8/qRGZ6TkAm41ha2aY19Q
+[2015.06.17 15:46:33] [0000m.02s.269ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2015.06.17 15:46:33] [0000m.02s.269ms] [1] Base flow version [7.9.4]
+[2015.06.17 15:46:33] [0000m.02s.269ms] [1] GBS Install Id [30163], Flow Id [EE7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2015.06.17 15:46:33] [0000m.02s.269ms] [1] UPDATE Install Info, GBS Install Id [40692], UPDATE Name [Expedition Enterprise Flow - Update 23 for EE7.9.5]
+[2015.06.17 15:46:33] [0000m.02s.270ms] [1] GBS Install Id [30120], Flow Id [EE 7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2015.06.17 15:46:33] [0000m.02s.270ms] [1] UPDATE Install Info, GBS Install Id [34984], UPDATE Name [Expedition Enterprise Flow - Update 5 for DC7.9.5]
+[2015.06.17 15:46:33] [0000m.02s.270ms] [1] Machine [NOTEBOOKA10]  User [Сергей]  PID [3220]
+[2015.06.17 15:46:33] [0000m.02s.270ms] [1] Operating system [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2015.06.17 15:46:33] [0000m.02s.270ms] [1] Current working dir [E:\Mentor_proj\0451704_SC]
+[2015.06.17 15:46:33] [0000m.02s.270ms] [1] PATH [C:\mentorgraphics\7.9.5EE\SDD_HOME\wg\help;C:\mentorgraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\mentorgraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\mentorgraphics\7.9.5EE\SDD_HOME\common\win32\_bin;C:\mentorgraphics\7.9.5EE\SDD_HOME\wg\win32\bin;C:\mentorgraphics\7.9.5EE\SDD_HOME\wg\win32\lib;C:\mentorgraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\mentorgraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\mentorgraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\mentorgraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;C:\Program Files (x86)\Skype\Phone\;]
+[2015.06.17 15:46:33] [0000m.02s.270ms] [1] SDD_HOME [C:\mentorgraphics\7.9.5EE\SDD_HOME] on file system [NTFS]
+[2015.06.17 15:46:33] [0000m.02s.270ms] [1] SDD_PLATFORM [win32]
+[2015.06.17 15:46:33] [0000m.02s.270ms] [1] WDIR [C:\temp;C:\mentorgraphics\7.9.5EE\SDD_HOME\standard]
+[2015.06.17 15:46:33] [0000m.02s.270ms] [1] Local iCDB working dir [C:\temp\iCDB] on file system [NTFS]
+[2015.06.17 15:46:33] [0000m.02s.270ms] [3] WARNING: Database [E:\Mentor_proj\0451704_SC\default\default.icdb\icdb.dat] was manually copied
+[2015.06.17 15:46:33] [0000m.02s.270ms] [3] File change time:        [2015-06-17 15.43.51]
+[2015.06.17 15:46:33] [0000m.02s.270ms] [3] File modification time:  [2015-06-17 14.42.00]
+[2015.06.17 15:46:33] [0000m.02s.270ms] [3] Last change time:        [2015-06-17 15.42.00]
+[2015.06.17 15:46:33] [0000m.02s.270ms] [3] Last database open information:
+[2015.06.17 15:46:33] [0000m.02s.270ms] [3] Time:             [2015-06-17 15.40.34]
+[2015.06.17 15:46:33] [0000m.02s.270ms] [3] Location:         [D:\tech\OU\045_SWC4\PCBs\0451701_SC\default\default.icdb\icdb.dat]
+[2015.06.17 15:46:33] [0000m.02s.271ms] [3] Machine:          [COMP000]
+[2015.06.17 15:46:33] [0000m.02s.271ms] [3] User:             [User]
+[2015.06.17 15:46:33] [0000m.02s.271ms] [3] PID:              [15596]
+[2015.06.17 15:46:33] [0000m.02s.271ms] [3] Application:      [iCDB Server]
+[2015.06.17 15:46:33] [0000m.02s.271ms] [3] Operating system: [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2015.06.17 15:46:33] [0000m.02s.271ms] [3] WARNING: Regenerating database GUID
+[2015.06.17 15:46:33] [0000m.02s.271ms] [3] Previous database GUID [5337-6262-1679-8428-7ba6-185c-ba61-8550-b674-50ef-7cac-89c5]
+[2015.06.17 15:46:33] [0000m.02s.280ms] [3] Current database GUID  [43e6-6765-c5d1-b91e-92c6-185e-2c61-8550-bfb4-c33f-9fa0-8d7c]
+[2015.06.17 15:46:33] [0000m.02s.280ms] [0] .

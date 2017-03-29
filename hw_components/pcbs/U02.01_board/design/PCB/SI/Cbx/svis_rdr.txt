@@ -1,0 +1,715 @@
+
+  Compiling IBIS model for component pef24624 from file W:\Central_Library\IBISModels\IC_Analog\pef24624.ibs
+    WARNING  (line   36) - Exceeds official IBIS maximum length of 80 chararacters.
+    WARNING  (line   39) - Exceeds official IBIS maximum length of 80 chararacters.
+    WARNING  (line   43) - Exceeds official IBIS maximum length of 80 chararacters.
+    WARNING  (line   47) - Exceeds official IBIS maximum length of 80 chararacters.
+    WARNING  - Model 'MODEL_248': Extreme currents present in TYP POWER_Clamp VI Curve (18.9019A @ -1.5V)
+    WARNING  - Model 'MODEL_248': Extreme currents present in MIN POWER_Clamp VI Curve (18.3511A @ -1.5V)
+    WARNING  - Model 'MODEL_248': Extreme currents present in MAX POWER_Clamp VI Curve (19.8021A @ -1.5V)
+    WARNING  - Model 'MODEL_249': Extreme currents present in TYP POWER_Clamp VI Curve (18.9019A @ -1.5V)
+    WARNING  - Model 'MODEL_249': Extreme currents present in MIN POWER_Clamp VI Curve (18.3511A @ -1.5V)
+    WARNING  - Model 'MODEL_249': Extreme currents present in MAX POWER_Clamp VI Curve (19.8021A @ -1.5V)
+    WARNING  - Model 'MODEL_256': Extreme currents present in TYP POWER_Clamp VI Curve (18.9019A @ -1.5V)
+    WARNING  - Model 'MODEL_256': Extreme currents present in MIN POWER_Clamp VI Curve (18.3511A @ -1.5V)
+    WARNING  - Model 'MODEL_256': Extreme currents present in MAX POWER_Clamp VI Curve (19.8022A @ -1.5V)
+    WARNING  - Model 'MODEL_253': Extreme currents present in TYP POWER_Clamp VI Curve (18.9019A @ -1.5V)
+    WARNING  - Model 'MODEL_253': Extreme currents present in MIN POWER_Clamp VI Curve (18.3511A @ -1.5V)
+    WARNING  - Model 'MODEL_253': Extreme currents present in MAX POWER_Clamp VI Curve (19.8021A @ -1.5V)
+    WARNING  - Model 'MODEL_250': Extreme currents present in TYP POWER_Clamp VI Curve (18.9019A @ -1.5V)
+    WARNING  - Model 'MODEL_250': Extreme currents present in MIN POWER_Clamp VI Curve (18.3511A @ -1.5V)
+    WARNING  - Model 'MODEL_250': Extreme currents present in MAX POWER_Clamp VI Curve (19.8021A @ -1.5V)
+    WARNING  - Model 'MODEL_255': MAX VI curves cannot drive through Vmeas=1.4V
+          given load Rref=50000 Ohms to Vref=3.3V
+    WARNING  - Model 'MODEL_255': Extreme currents present in TYP POWER_Clamp VI Curve (18.9019A @ -1.5V)
+    WARNING  - Model 'MODEL_255': Extreme currents present in MIN POWER_Clamp VI Curve (18.3511A @ -1.5V)
+    WARNING  - Model 'MODEL_255': Extreme currents present in MAX POWER_Clamp VI Curve (19.8022A @ -1.5V)
+    WARNING  - Model 'MODEL_252': Extreme currents present in TYP POWER_Clamp VI Curve (18.9019A @ -1.5V)
+    WARNING  - Model 'MODEL_252': Extreme currents present in MIN POWER_Clamp VI Curve (18.3511A @ -1.5V)
+    WARNING  - Model 'MODEL_252': Extreme currents present in MAX POWER_Clamp VI Curve (19.8021A @ -1.5V)
+    WARNING  - Model 'MODEL_247': Extreme currents present in TYP POWER_Clamp VI Curve (18.9019A @ -1.5V)
+    WARNING  - Model 'MODEL_247': Extreme currents present in MIN POWER_Clamp VI Curve (18.3511A @ -1.5V)
+    WARNING  - Model 'MODEL_247': Extreme currents present in MAX POWER_Clamp VI Curve (19.8021A @ -1.5V)
+    WARNING  - Model 'MODEL_254': Extreme currents present in TYP POWER_Clamp VI Curve (18.9019A @ -1.5V)
+    WARNING  - Model 'MODEL_254': Extreme currents present in MIN POWER_Clamp VI Curve (18.3511A @ -1.5V)
+    WARNING  - Model 'MODEL_254': Extreme currents present in MAX POWER_Clamp VI Curve (19.8022A @ -1.5V)
+    WARNING  - Model 'MODEL_251': Extreme currents present in TYP POWER_Clamp VI Curve (18.9019A @ -1.5V)
+    WARNING  - Model 'MODEL_251': Extreme currents present in MIN POWER_Clamp VI Curve (18.3511A @ -1.5V)
+    WARNING  - Model 'MODEL_251': Extreme currents present in MAX POWER_Clamp VI Curve (19.8021A @ -1.5V)
+    WARNING  - Model 'MODEL_246': Extreme currents present in TYP POWER_Clamp VI Curve (18.9019A @ -1.5V)
+    WARNING  - Model 'MODEL_246': Extreme currents present in MIN POWER_Clamp VI Curve (18.3511A @ -1.5V)
+    WARNING  - Model 'MODEL_246': Extreme currents present in MAX POWER_Clamp VI Curve (19.8021A @ -1.5V)
+    WARNING  - Pin A1 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin A2 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin A3 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin A4 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin A5 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin A6 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin A7 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin A8 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin A9 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin A10 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin A11 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin B1 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin B2 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin B3 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin B4 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin B5 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin B6 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin B7 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin B8 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin B9 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin B10 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin B11 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin C1 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin C2 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin C3 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin C4 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin C5 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin C6 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin C7 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin C8 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin C9 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin C10 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin C11 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin C13 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin D1 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin D2 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin D3 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin D4 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin D5 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin D6 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin D7 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin D8 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin D9 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin D10 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin D11 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin D13 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin D14 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin D15 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin D16 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin E1 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin E2 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin E3 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin E4 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin E5 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin E6 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin E7 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin E8 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin E9 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin E10 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin E11 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin E12 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin E13 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin E14 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin E15 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin E16 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin F1 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin F2 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin F3 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin F4 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin F5 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin F6 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin F7 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin F8 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin F9 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin F10 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin F11 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin F12 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin F13 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin F14 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin F15 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin F16 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin F17 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin F18 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin G1 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin G2 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin G3 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin G4 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin G5 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin G6 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin G7 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin G8 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin G9 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin G10 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin G11 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin G12 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin G13 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin G14 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin G15 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin G16 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin G17 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin G18 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin H1 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin H2 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin H3 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin H4 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin H5 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin H6 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin H7 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin H8 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin H9 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin H10 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin H11 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin H12 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin H13 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin H14 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin H15 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin H16 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin H17 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin H18 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin J1 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin J2 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin J3 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin J4 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin J5 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin J6 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin J7 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin J8 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin J9 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin J10 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin J11 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin J12 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin J13 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin J14 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin J15 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin J16 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin J17 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin J18 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin K1 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin K2 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin K3 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin K4 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin K5 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin K6 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin K7 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin K8 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin K9 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin K10 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin K11 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin K12 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin K13 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin K14 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin K15 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin K16 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin K17 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin K18 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin L1 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin L2 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin L3 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin L4 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin L5 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin L6 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin L7 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin L8 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin L9 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin L10 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin L11 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin L12 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin L13 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin L14 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin L15 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin L16 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin L17 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin L18 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin M1 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin M2 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin M3 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin M4 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin M5 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin M6 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin M7 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin M8 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin M9 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin M10 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin M11 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin M12 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin M13 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin M14 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin M15 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin M16 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin M17 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin M18 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin N1 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin N2 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin N3 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin N4 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin N5 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin N6 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin N7 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin N8 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin N9 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin N10 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin N11 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin N12 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin N13 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin N14 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin N15 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin N16 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin N17 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin N18 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin P1 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin P2 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin P3 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin P4 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin P5 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin P6 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin P7 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin P8 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin P9 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin P10 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin P11 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin P12 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin P13 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin P14 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin P15 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin P16 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin P17 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin R1 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin R2 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin R3 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin R4 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin R5 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin R6 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin R7 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin R8 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin R9 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin R10 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin R11 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin R12 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin R13 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin R14 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin R15 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin R16 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin R17 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin T1 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin T2 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin T3 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin T4 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin T5 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin T6 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin T7 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin T8 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin T9 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin T10 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin T11 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin T13 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin U1 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin U2 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin U3 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin U4 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin U5 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin U6 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin U7 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin U8 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin U9 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin U10 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin U11 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin V1 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin V2 is a POWER pin. Usually only has Pullup_ref in Pin Mapping
+    WARNING  - Pin V3 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin V4 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin V5 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin V6 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin V7 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin V8 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin V9 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    WARNING  - Pin V10 is NC. Should not have any references in Pin Mapping
+    WARNING  - Pin V11 is a GND pin. Usually only has Pulldown_ref in Pin Mapping
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'A12' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'A13' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'A14' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'A15' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'A16' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'A17' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'A18' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'B12' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'B13' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'B14' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'B15' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'B16' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'B17' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'B18' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'C12' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'C14' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'C15' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'C16' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'C17' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'C18' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'D12' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'D17' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'D18' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'E17' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'E18' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'P18' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'R18' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'T12' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'T14' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'T15' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'T16' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'T17' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'T18' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'U12' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'U13' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'U14' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'U15' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'U16' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'U17' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'U18' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'V12' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'V13' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'V14' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'V15' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'V16' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'V17' not previously declared in Pin section.
+    ERROR  - Component 'pef24624': Pin Mapping Pin 'V18' not previously declared in Pin section.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pulldown_ref entry is usually connected to GND.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+    WARNING  - Component 'pef24624': Pin Mapping 'MODEL_246': pullup_ref entry is usually connected to POWER.
+  IBIS Compilation Failed due to  47 Errors

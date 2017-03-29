@@ -1,0 +1,13 @@
+$symbol Transistor_NPN
+  222	"alws"
+  Part Number	""
+  Ref Designator	""
+    $pin
+       PIN_NO   "1"
+       PIN_NAME    "E"
+    $pin
+       PIN_NO   "2"
+       PIN_NAME    "C"
+    $pin
+       PIN_NO   "3"
+       PIN_NAME    "B"

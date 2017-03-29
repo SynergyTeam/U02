@@ -1,0 +1,32 @@
+[2015.06.26 09:15:54] [0000m.09s.180ms] [0] WELCOME
+[2015.06.26 09:15:54] [0000m.09s.203ms] [1] iCDB Database ver.1.094, Q8/qRGZ6TkAm41ha2aY19Q, build:591687 created 2013-12-13 12:45:14, sources stamp:Q8/qRGZ6TkAm41ha2aY19Q
+[2015.06.26 09:15:54] [0000m.09s.203ms] [1] Copyright 2013 Mentor Graphics Corporation. All Rights Reserved.
+[2015.06.26 09:15:54] [0000m.09s.204ms] [1] Base flow version [7.9.4]
+[2015.06.26 09:15:54] [0000m.09s.204ms] [1] GBS Install Id [30163], Flow Id [EE7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2015.06.26 09:15:54] [0000m.09s.204ms] [1] UPDATE Install Info, GBS Install Id [40692], UPDATE Name [Expedition Enterprise Flow - Update 23 for EE7.9.5]
+[2015.06.26 09:15:54] [0000m.09s.204ms] [1] GBS Install Id [30120], Flow Id [EE 7.9.5], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2015.06.26 09:15:54] [0000m.09s.204ms] [1] UPDATE Install Info, GBS Install Id [34984], UPDATE Name [Expedition Enterprise Flow - Update 5 for DC7.9.5]
+[2015.06.26 09:15:54] [0000m.09s.204ms] [1] Machine [NOTEBOOKA10]  User [Сергей]  PID [96]
+[2015.06.26 09:15:54] [0000m.09s.204ms] [1] Operating system [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2015.06.26 09:15:54] [0000m.09s.205ms] [1] Current working dir [E:\Mentor_proj\0451704_SC]
+[2015.06.26 09:15:54] [0000m.09s.205ms] [1] PATH [C:\mentorgraphics\7.9.5EE\SDD_HOME\wg\help;C:\mentorgraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\mentorgraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\mentorgraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\mentorgraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;C:\Program Files (x86)\Skype\Phone\;]
+[2015.06.26 09:15:54] [0000m.09s.205ms] [1] SDD_HOME [C:\mentorgraphics\7.9.5EE\SDD_HOME] on file system [NTFS]
+[2015.06.26 09:15:54] [0000m.09s.205ms] [1] SDD_PLATFORM [win32]
+[2015.06.26 09:15:54] [0000m.09s.205ms] [1] WDIR [C:\temp;C:\mentorgraphics\7.9.5EE\SDD_HOME\standard]
+[2015.06.26 09:15:54] [0000m.09s.205ms] [1] Local iCDB working dir [C:\temp\iCDB] on file system [NTFS]
+[2015.06.26 09:15:54] [0000m.09s.205ms] [3] WARNING: Database [E:\Mentor_proj\0451704_SC\default\default.icdb\icdb.dat] was manually copied
+[2015.06.26 09:15:54] [0000m.09s.205ms] [3] File change time:        [2015-06-25 13.48.57]
+[2015.06.26 09:15:54] [0000m.09s.205ms] [3] File modification time:  [2015-06-25 13.49.37]
+[2015.06.26 09:15:54] [0000m.09s.205ms] [3] Last change time:        [2015-06-25 13.49.31]
+[2015.06.26 09:15:54] [0000m.09s.205ms] [3] Last database open information:
+[2015.06.26 09:15:54] [0000m.09s.206ms] [3] Time:             [2015-06-25 13.49.31]
+[2015.06.26 09:15:54] [0000m.09s.206ms] [3] Location:         [E:\Mentor_proj\0451704_SC\default\default.icdb\icdb.dat]
+[2015.06.26 09:15:54] [0000m.09s.206ms] [3] Machine:          [NOTEBOOKA10]
+[2015.06.26 09:15:54] [0000m.09s.206ms] [3] User:             [Сергей]
+[2015.06.26 09:15:54] [0000m.09s.206ms] [3] PID:              [772]
+[2015.06.26 09:15:54] [0000m.09s.206ms] [3] Application:      [iCDB Server]
+[2015.06.26 09:15:54] [0000m.09s.206ms] [3] Operating system: [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2015.06.26 09:15:54] [0000m.09s.206ms] [3] WARNING: Regenerating database GUID
+[2015.06.26 09:15:54] [0000m.09s.206ms] [3] Previous database GUID [43e6-6765-c5d1-b91e-92c6-185e-2c61-8550-bfb4-c33f-9fa0-8d7c]
+[2015.06.26 09:15:54] [0000m.09s.220ms] [3] Current database GUID  [341c-2a30-487e-b43d-a1ee-c85f-1eec-8550-3c15-142c-3c3d-7d7c]
+[2015.06.26 09:15:54] [0000m.09s.220ms] [0] .

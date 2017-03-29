@@ -1,0 +1,163 @@
+.FILETYPE GerberPlotSetupFile
+.VERSION "VB99.0"
+.CREATOR "Expedition PCB Gerber Output"
+.DATE "Tuesday, March 14, 2017 03:44 PM"
+
+.BaseUnits "1NM"
+
+.GerberOutputDir "Output\\Gerber\\"
+
+.DataOffset 0 0
+.DataCopies 1 1
+ ..OriginOffset 0 0
+
+.GenerateMacro Yes 
+
+.VariantsOutput No 
+.DCodeToApertureFile "Sys: GerberD-Codes.dac"
+.GerberMachineFormatFile ".\\Config\\GerberMachineFile1.gmf"
+
+.GerberOutputFile "L02-0101_18VCUT.gbr"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\L02-0101_18VCUT.gbr"
+ ..UserLayer "VCUT"
+
+.GerberOutputFile "L02-0101_16FRM.gbr"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\L02-0101_16FRM.gbr"
+ ..BoardItem BoardOutline
+
+.GerberOutputFile "L02-0101_15ASB.gbr"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\L02-0101_15ASB.gbr"
+ ..CellType Buried
+ ..CellType Connector
+ ..CellType DiscreteAxial
+ ..CellType DiscreteChip
+ ..CellType DiscreteOther
+ ..CellType DiscreteRadial
+ ..CellType EdgeConnector
+ ..CellType EmbeddedPassive
+ ..CellType General
+ ..CellType Graphic
+ ..CellType ICBareDie
+ ..CellType ICBGA
+ ..CellType ICDIP
+ ..CellType ICFlipChip
+ ..CellType ICLCC
+ ..CellType ICOther
+ ..CellType ICPGA
+ ..CellType ICPLCC
+ ..CellType ICSIP
+ ..CellType ICSOIC
+ ..CellType Jumper
+ ..CellType Mechanical
+ ..CellType TestPoint
+ ..CellItemsSide Bottom
+   ...CellItemsLayer 2
+   ...CellItem AssemblyOutline
+   ...CellItem AssemblyReferenceDesignator
+
+.GerberOutputFile "L02-0101_14SPB.gbr"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\L02-0101_14SPB.gbr"
+ ..BoardItem SolderpasteBottom
+
+.GerberOutputFile "L02-0101_13SSB.gbr"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\L02-0101_13SSB.gbr"
+ ..BoardItem AlteredSilkscreenBottom
+
+.GerberOutputFile "L02-0101_12SMB.gbr"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\L02-0101_12SMB.gbr"
+ ..BoardItem SoldermaskBottom
+
+.GerberOutputFile "L02-0101_11_L2.gbr"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\L02-0101_11_L2.gbr"
+ ..ConductiveLayer 2
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+
+.GerberOutputFile "L02-0101_04_L1.gbr"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\L02-0101_04_L1.gbr"
+ ..ConductiveLayer 1
+   ...ConductiveItem EtchedText
+   ...ConductiveItem Fiducials
+   ...ConductiveItem PartPadsSMD
+   ...ConductiveItem PartPadsTest
+   ...ConductiveItem PartPadsThru
+   ...ConductiveItem PlaneData
+   ...ConductiveItem ResistorAreas
+   ...ConductiveItem Traces
+   ...ConductiveItem ViaPads
+   ...ProcessUnconnectedPads Yes
+
+.GerberOutputFile "L02-0101_03SMT.gbr"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\L02-0101_03SMT.gbr"
+ ..BoardItem SoldermaskTop
+
+.GerberOutputFile "L02-0101_02SST.gbr"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\L02-0101_02SST.gbr"
+ ..BoardItem AlteredSilkscreenTop
+ ..UserLayer "Logo_pnum"
+
+.GerberOutputFile "L02-0101_01SPT.gbr"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\L02-0101_01SPT.gbr"
+ ..BoardItem SolderpasteTop
+
+.GerberOutputFile "L02-0101_00AST.gbr"
+ ..ProcessFile Yes
+ ..FlashPads Yes
+ ..GerberOutputPath "Output\\Gerber\\L02-0101_00AST.gbr"
+ ..CellType Buried
+ ..CellType Connector
+ ..CellType DiscreteAxial
+ ..CellType DiscreteChip
+ ..CellType DiscreteOther
+ ..CellType DiscreteRadial
+ ..CellType EdgeConnector
+ ..CellType EmbeddedPassive
+ ..CellType General
+ ..CellType Graphic
+ ..CellType ICBareDie
+ ..CellType ICBGA
+ ..CellType ICDIP
+ ..CellType ICFlipChip
+ ..CellType ICLCC
+ ..CellType ICOther
+ ..CellType ICPGA
+ ..CellType ICPLCC
+ ..CellType ICSIP
+ ..CellType ICSOIC
+ ..CellType Jumper
+ ..CellType Mechanical
+ ..CellType TestPoint
+ ..CellItemsSide Bottom
+   ...CellItemsLayer 1
+   ...CellItem AssemblyOutline
+   ...CellItem AssemblyReferenceDesignator

@@ -1,0 +1,17 @@
+Cell Editor Version: 2013.0.591.687
+
+PLOW REPORT
+-----------
+
+16:48:32 Wednesday, February 08, 2017
+
+Host Layout Design: C:\MG\projects\us001\PCB\Work\CellEditorFiles\CellDB\B82721A.pcb
+
+
+Plow Failed due to the following violations not resolved:
+
+
+Violation Pair 1
+PUSHER: 3-point Path: (13.5,-4.2)-(-5.0,-7.5) @ Layer: 1 Net: Net-2
+PUSHEE: Pin: 1-2-layer 'TH Round 2.00_1.20mm' Ref Des/4 @ (5.0,-7.5) Net: Net-3
+

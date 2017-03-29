@@ -1,0 +1,175 @@
+--------------------------------------------------------------------------------
+ Project integration - START (2017-02-18 22:10:36) 
+--------------------------------------------------------------------------------
+FE snapshot name: DCDV
+BE snapshot name: PCB_Layout_Temp
+Top level block: (477-2-5)
+Parameters: BAConnectivity,FEWin,
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Connection synchronization - START (2017-02-18 22:10:36) 
+--------------------------------------------------------------------------------
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Ferrite_bead;15,(712-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(712-2-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,header_1x4_male;7,(712-3-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-76-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-77-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-78-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-79-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-80-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-81-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-82-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-84-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-85-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-86-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-87-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-88-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Transistor_PNP;10,(681-89-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-90-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-91-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Capacitor_nonpolar;32,(681-92-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-93-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-94-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Capacitor_nonpolar;32,(681-95-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-96-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Capacitor_nonpolar;32,(681-97-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-98-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-99-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-100-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-101-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-102-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Diode_double_comm_AC;11,(681-103-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Diode_double_comm_AC;11,(681-104-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Diode_1xTVS;4,(681-105-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Capacitor_nonpolar;32,(681-106-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Transistor_PNP_2C;8,(681-107-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Transistor_PNP;10,(681-108-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Transistor_NPN;12,(681-109-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Transistor_NPN;12,(681-110-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-111-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-112-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,header_1x5_male;7,(681-114-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-115-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-116-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Capacitor_polar_TH;26,(681-117-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Inductor;16,(681-118-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Capacitor_polar_TH;26,(681-119-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Relay_1C_;5,(681-120-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,header_1x3_male;7,(681-121-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Relay_1C_;5,(681-122-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,header_1x3_male;7,(681-123-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Transistor_NPN;12,(681-124-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Transistor_NPN;12,(681-125-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Diode_double_comm_AC;11,(681-126-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Diode_double_comm_AC;11,(681-127-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-128-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-129-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-130-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-131-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Diode_double_comm_AC;11,(681-132-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-133-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-134-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-135-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Diode_double_comm_AC;11,(681-136-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-137-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-138-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,MQ4-gas_sensor;2,(681-139-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Transistor_NPN_2C;9,(681-140-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-141-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-142-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-143-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-144-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-145-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Diode_double_comm_AC;11,(681-146-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Diode_double_comm_AC;11,(681-147-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,header_1x4_male;7,(681-148-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-149-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,002_main,(477-2-5)] [O: FlatComp,Resistor;31,(681-150-8)]
+	Property: Cell Name, Operation: Change
+--------------------------------------------------------------------------------
+ Connection synchronization - END (2017-02-18 22:10:36) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - START (2017-02-18 22:10:36) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - END (2017-02-18 22:10:36) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Project integration - END (2017-02-18 22:10:36) 
+--------------------------------------------------------------------------------

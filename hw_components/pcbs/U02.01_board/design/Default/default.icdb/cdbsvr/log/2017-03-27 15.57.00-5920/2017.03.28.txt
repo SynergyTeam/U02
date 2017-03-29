@@ -1,0 +1,21 @@
+[2017.03.28 10:34:27] [1117m.26s.932ms] [1] SC[1583]: UnRegistered sub-client [DCDV] with ID [1] for session ID [1583] host [DESKTOP-ANDREW] user [User] process ID [7832]
+[2017.03.28 10:34:27] [1117m.26s.990ms] [1] CMT: Removed client [1583]
+[2017.03.28 10:34:27] [1117m.26s.990ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2017.03.28 10:34:29] [1117m.28s.699ms] [0] CMT: Starting server auto-close
+[2017.03.28 10:34:29] [1117m.28s.738ms] [0] S: Closing server
+[2017.03.28 10:34:29] [1117m.28s.739ms] [0] ProjectBackupManager: WARNING: Could not shutdown Project Backup engine - not started yet
+[2017.03.28 10:34:29] [1117m.28s.817ms] [0] iCDB Server PI: Closing plugins
+[2017.03.28 10:34:29] [1117m.28s.818ms] [0] iCDB Server PI: Plugins closed
+[2017.03.28 10:34:29] [1117m.28s.819ms] [0] iCDB Server PI: Unloading database
+[2017.03.28 10:34:29] [1117m.28s.819ms] [0] iCDB Server PI: Saving storage
+[2017.03.28 10:34:29] [1117m.28s.819ms] [0] iCDB Server PI: Closing database
+[2017.03.28 10:34:29] [1117m.28s.868ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[0%] data[95%]
+[2017.03.28 10:34:29] [1117m.28s.869ms] [1] iCDB Server PI: Stats: Database file size [138104 (134.9 kB)]
+[2017.03.28 10:34:29] [1117m.28s.897ms] [0] iCDB Server PI: Database closed
+[2017.03.28 10:34:29] [1117m.28s.897ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [632] ticks
+[2017.03.28 10:34:29] [1117m.28s.897ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [202] microseconds
+[2017.03.28 10:34:29] [1117m.28s.897ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [9]
+[2017.03.28 10:34:29] [1117m.28s.897ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [44390] commands per second
+[2017.03.28 10:34:29] [1117m.28s.898ms] [0] Single file [X:\MG\projects\L02-0101\default\default.icdb\icdb.dat] closed with size [138104 (134.9 kB)]
+[2017.03.28 10:34:29] [1117m.28s.907ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2017.03.28 10:34:29] [1117m.29s.083ms] [0] S: STOP

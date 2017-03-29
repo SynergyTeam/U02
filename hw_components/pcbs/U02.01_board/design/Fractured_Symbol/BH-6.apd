@@ -1,0 +1,14 @@
+//Header
+Symbol_name="BH-6"
+Symbol_shape=""
+Symbol_text="Through hole box male header 2.54 mm x 2.54 mm straight w/o ejector"
+Body_glyph=
+
+//Number,Name,Label,Type,Direction,Polarity,Pin_Graphic,Position,Gate,Slot,PinSwapId
+//
+1,1,,undefined,undefined,undefined,,left,gate,1,11
+2,2,,undefined,undefined,undefined,,right,gate,1,12
+3,3,,undefined,undefined,undefined,,left,gate,1,13
+4,4,,undefined,undefined,undefined,,right,gate,1,14
+5,5,,undefined,undefined,undefined,,left,gate,1,15
+6,6,,undefined,undefined,undefined,,right,gate,1,16

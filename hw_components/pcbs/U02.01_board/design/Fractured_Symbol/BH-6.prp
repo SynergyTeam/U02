@@ -1,0 +1,22 @@
+$symbol header_2x3_male
+  Part Number	""
+  Ref Designator	""
+  222	"alws"
+    $pin
+       PIN_NO   "1"
+       PIN_NAME    "1"
+    $pin
+       PIN_NO   "2"
+       PIN_NAME    "2"
+    $pin
+       PIN_NO   "3"
+       PIN_NAME    "3"
+    $pin
+       PIN_NO   "4"
+       PIN_NAME    "4"
+    $pin
+       PIN_NO   "5"
+       PIN_NAME    "5"
+    $pin
+       PIN_NO   "6"
+       PIN_NAME    "6"

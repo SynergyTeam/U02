@@ -1,0 +1,37 @@
+FSP Log file Fri Mar 10 10:24:19 GMT 2017
+---------------------------------------
+
+cfgFileName = X:\MG\projects\L02-0101\Fractured_Symbol\PlaceDevice.cfg
+readOnly = false
+noView = false
+createMaster = false
+refPrefix = 
+mMap = 
+fsMap = 
+catalog = 
+m_catalog = null
+batch = false
+fileType = A
+fileName = X:\MG\projects\L02-0101\Fractured_Symbol\BH-6.apd
+outDir = X:\MG\projects\L02-0101\Fractured_Symbol
+partNo = BH-6
+o_partNo = BH-6
+m_partNo = null
+masterName = 
+compName = 
+uid = BH-6
+bl = false
+mode = DV
+project = X:\MG\projects\L02-0101\L02-0101.prj
+partition = 
+central_library = X:\MG\lib\PCB_Lib\SWITRON_CLIB\Central_Library.lmc
+install_dir = 
+fixed_pinlist = true
+part_file = X:\MG\lib\PCB_Lib\SWITRON_CLIB\PartsDBLibs\Conn_254.pdb
+reload = true
+geometry = 
+units = inches
+CLASSPATH = C:/mentorgraphics/7.9.5EE/SDD_HOME/wg/win32/lib/pct_mgls.jar;C:/mentorgraphics/7.9.5EE/SDD_HOME/common/win32/lib/xview.jar;C:/mentorgraphics/7.9.5EE/SDD_HOME/common/win32/lib/MouseBehavior.jar;C:/mentorgraphics/7.9.5EE/SDD_HOME/common/win32/lib/jeda.jar;C:/mentorgraphics/7.9.5EE/SDD_HOME/common/win32/lib/udi.jar;C:/mentorgraphics/7.9.5EE/SDD_HOME/common/win32/lib/fsp.jar;C:/mentorgraphics/7.9.5EE/SDD_HOME/common/win32/lib/table_core.jar;C:/mentorgraphics/7.9.5EE/SDD_HOME/common/win32/Jre1.4.0_01/lib/endorsed/xerces.jar;C:/mentorgraphics/7.9.5EE/SDD_HOME/common/win32/Jre1.4.0_01/lib/endorsed/sax.jar;C:/mentorgraphics/7.9.5EE/SDD_HOME/wg/win32/pkgs/fsp/etc/
+
+End of FSP Log file Fri Mar 10 10:24:21 GMT 2017
+---------------------------------------
