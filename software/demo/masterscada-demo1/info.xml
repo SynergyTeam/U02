@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PersistProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectName>masterscada-demo1</ProjectName>
+  <TypeName>MasterSCADA.Project.HMI</TypeName>
+  <ProjectConfiguration>MasterPLC</ProjectConfiguration>
+  <StoreTypeName>FirebirdStore</StoreTypeName>
+  <ProjectChange>2017-03-28T18:31:06.6942575+03:00</ProjectChange>
+  <ProjectVersion>1394</ProjectVersion>
+</PersistProjectInfo>
